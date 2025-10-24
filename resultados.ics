@@ -9,13 +9,6 @@ SUMMARY:💰 Resultados – Brookfield Asset Management Inc
 UID:BAM-blue-2025-08-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251021
-CATEGORIES:blue
-DESCRIPTION:Lockheed Martin Corporation (LMT)\nFecha de resultados: 2025-10-21
-SUMMARY:💰 Resultados – Lockheed Martin Corporation
-UID:LMT-blue-2025-10-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251029
 CATEGORIES:blue
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2025-10-29
@@ -378,13 +371,6 @@ CATEGORIES:blue
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2025-10-29
 SUMMARY:💰 Resultados – Meta Platforms\, Inc.
 UID:META-blue-2025-10-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251029
-CATEGORIES:blue
-DESCRIPTION:VIDRALA\, S.A. (VID.MC)\nFecha de resultados: 2025-10-29
-SUMMARY:💰 Resultados – VIDRALA\, S.A.
-UID:VID.MC-blue-2025-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250730

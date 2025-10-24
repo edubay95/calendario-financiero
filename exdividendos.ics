@@ -107,13 +107,6 @@ SUMMARY:📅 Ex-Dividendo – Microsoft Corporation
 UID:MSFT-orange-2025-08-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251201
-CATEGORIES:orange
-DESCRIPTION:Lockheed Martin Corporation (LMT)\nFecha Ex-Dividendo (corte): 2025-12-01
-SUMMARY:📅 Ex-Dividendo – Lockheed Martin Corporation
-UID:LMT-orange-2025-12-01@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
 CATEGORIES:orange
 DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha Ex-Dividendo (corte): 2025-10-30
@@ -126,13 +119,6 @@ CATEGORIES:orange
 DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha Ex-Dividendo (corte): 2025-10-10
 SUMMARY:📅 Ex-Dividendo – Verizon Communications Inc.
 UID:VZ-orange-2025-10-10@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250902
-CATEGORIES:orange
-DESCRIPTION:Lockheed Martin Corporation (LMT)\nFecha Ex-Dividendo (corte): 2025-09-02
-SUMMARY:📅 Ex-Dividendo – Lockheed Martin Corporation
-UID:LMT-orange-2025-09-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250801
