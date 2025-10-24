@@ -37,6 +37,10 @@ jobs:
 
       # 4. ¡Ejecuta tu script!
       - name: Ejecutar script de Python
+        # --- AÑADE ESTAS 2 LÍNEAS ---
+        env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+        # ---------------------------
         run: python generate_calendar.py
 
       # 5. Guarda los 3 archivos .ics nuevos en el repositorio
