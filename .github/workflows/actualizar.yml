@@ -14,6 +14,9 @@ jobs:
   build-calendar:
     runs-on: ubuntu-latest # Usa un servidor Linux
 
+    permissions:
+          contents: write
+
     steps:
       # 1. Descarga tu código (el .py, .csv, .txt)
       - name: Checkout del código
