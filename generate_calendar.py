@@ -293,7 +293,7 @@ def build_events_from_holdings(csv_path=HOLDINGS_CSV):
                 desc = f"{company_name} ({ticker})\nFecha de resultados: {earn_date}"
                 events.append({
                     "date": earn_date,
-                    "summary": f"💰 Resultados – {company_name}",
+                    "summary": f"💰Result – {company_name}",
                     "description": desc,
                     "color": "blue",
                     "ticker": ticker 
@@ -367,4 +367,5 @@ if __name__ == "__main__":
     write_ics_file(ex_events, "exdividendos.ics", start_date, end_date)
     write_ics_file(earn_events, "resultados.ics", start_date, end_date)
     
+
     print("\nProceso completado. Importa los 3 archivos .ics en sus respectivos calendarios de Google.")
