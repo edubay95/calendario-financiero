@@ -7,7 +7,7 @@ on:
   
   # 2. Programación automática (6:00 AM UTC todos los días)
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 4 * * *'
 
 # --- Tareas (Qué hace el robot) ---
 jobs:
