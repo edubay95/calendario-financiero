@@ -1,0 +1,410 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250806
+CATEGORIES:blue
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2025-08-06
+SUMMARY:💰 Resultados – Brookfield Asset Management Inc
+UID:BAM-blue-2025-08-06@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251021
+CATEGORIES:blue
+DESCRIPTION:Lockheed Martin Corporation (LMT)\nFecha de resultados: 2025-10-21
+SUMMARY:💰 Resultados – Lockheed Martin Corporation
+UID:LMT-blue-2025-10-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+CATEGORIES:blue
+DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2025-10-29
+SUMMARY:💰 Resultados – Microsoft Corporation
+UID:MSFT-blue-2025-10-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251103
+CATEGORIES:blue
+DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2025-11-03
+SUMMARY:💰 Resultados – Realty Income Corporation
+UID:O-blue-2025-11-03@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250729
+CATEGORIES:blue
+DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2025-07-29
+SUMMARY:💰 Resultados – TELEFONICA\,S.A.
+UID:TEF.MC-blue-2025-07-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251028
+CATEGORIES:blue
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2025-10-28
+SUMMARY:💰 Resultados – NextEra Energy\, Inc.
+UID:NEE-blue-2025-10-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251031
+CATEGORIES:blue
+DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2025-10-31
+SUMMARY:💰 Resultados – CAIXABANK\, S.A.
+UID:CABK.MC-blue-2025-10-31@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+CATEGORIES:blue
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2025-10-29
+SUMMARY:💰 Resultados – Verizon Communications Inc.
+UID:VZ-blue-2025-10-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250730
+CATEGORIES:blue
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2025-07-30
+SUMMARY:💰 Resultados – Blackstone Mortgage Trust\, Inc.
+UID:BXMT-blue-2025-07-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251014
+CATEGORIES:blue
+DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de resultados: 2025-10-14
+SUMMARY:💰 Resultados – Johnson & Johnson
+UID:JNJ-blue-2025-10-14@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+CATEGORIES:blue
+DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2025-10-23
+SUMMARY:💰 Resultados – Blackstone Inc.
+UID:BX-blue-2025-10-23@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+CATEGORIES:blue
+DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2025-10-29
+SUMMARY:💰 Resultados – BANCO SANTANDER S.A.
+UID:SAN.MC-blue-2025-10-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250724
+CATEGORIES:blue
+DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2025-07-24
+SUMMARY:💰 Resultados – Blackstone Inc.
+UID:BX-blue-2025-07-24@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251113
+CATEGORIES:blue
+DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2025-11-13
+SUMMARY:💰 Resultados – Brookfield Corporation
+UID:BN-blue-2025-11-13@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251030
+CATEGORIES:blue
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2025-10-30
+SUMMARY:💰 Resultados – Altria Group\, Inc.
+UID:MO-blue-2025-10-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251114
+CATEGORIES:blue
+DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2025-11-14
+SUMMARY:💰 Resultados – Alibaba Group Holding Limited
+UID:BABA-blue-2025-11-14@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251028
+CATEGORIES:blue
+DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2025-10-28
+SUMMARY:💰 Resultados – ACCIONES IBERDROLA
+UID:IBE.MC-blue-2025-10-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251111
+CATEGORIES:blue
+DESCRIPTION:ACS\,ACTIVIDADES DE CONSTRUCCION (ACS.MC)\nFecha de resultados: 2025-11-11
+SUMMARY:💰 Resultados – ACS\,ACTIVIDADES DE CONSTRUCCION
+UID:ACS.MC-blue-2025-11-11@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+CATEGORIES:blue
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2025-10-29
+SUMMARY:💰 Resultados – Blackstone Mortgage Trust\, Inc.
+UID:BXMT-blue-2025-10-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251028
+CATEGORIES:blue
+DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de resultados: 2025-10-28
+SUMMARY:💰 Resultados – American Tower Corporation (REI
+UID:AMT-blue-2025-10-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250729
+CATEGORIES:blue
+DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de resultados: 2025-07-29
+SUMMARY:💰 Resultados – American Tower Corporation (REI
+UID:AMT-blue-2025-07-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250730
+CATEGORIES:blue
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2025-07-30
+SUMMARY:💰 Resultados – Altria Group\, Inc.
+UID:MO-blue-2025-07-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251110
+CATEGORIES:blue
+DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2025-11-10
+SUMMARY:💰 Resultados – AST SpaceMobile\, Inc.
+UID:ASTS-blue-2025-11-10@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250811
+CATEGORIES:blue
+DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2025-08-11
+SUMMARY:💰 Resultados – AST SpaceMobile\, Inc.
+UID:ASTS-blue-2025-08-11@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250730
+CATEGORIES:blue
+DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2025-07-30
+SUMMARY:💰 Resultados – AMADEUS IT GROUP\, S.A.
+UID:AMS.MC-blue-2025-07-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251030
+CATEGORIES:blue
+DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2025-10-30
+SUMMARY:💰 Resultados – The Hershey Company
+UID:HSY-blue-2025-10-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+CATEGORIES:blue
+DESCRIPTION:Moelis & Company (MC)\nFecha de resultados: 2025-10-29
+SUMMARY:💰 Resultados – Moelis & Company
+UID:MC-blue-2025-10-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250724
+CATEGORIES:blue
+DESCRIPTION:Moelis & Company (MC)\nFecha de resultados: 2025-07-24
+SUMMARY:💰 Resultados – Moelis & Company
+UID:MC-blue-2025-07-24@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250728
+CATEGORIES:blue
+DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2025-07-28
+SUMMARY:💰 Resultados – BANCO SANTANDER S.A.
+UID:SAN.MC-blue-2025-07-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251104
+CATEGORIES:blue
+DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2025-11-04
+SUMMARY:💰 Resultados – TELEFONICA\,S.A.
+UID:TEF.MC-blue-2025-11-04@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251021
+CATEGORIES:blue
+DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2025-10-21
+SUMMARY:💰 Resultados – 3M Company
+UID:MMM-blue-2025-10-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250731
+CATEGORIES:blue
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2025-07-31
+SUMMARY:💰 Resultados – CVS Health Corporation
+UID:CVS-blue-2025-07-31@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251105
+CATEGORIES:blue
+DESCRIPTION:Fortinet\, Inc. (FTNT)\nFecha de resultados: 2025-11-05
+SUMMARY:💰 Resultados – Fortinet\, Inc.
+UID:FTNT-blue-2025-11-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260120
+CATEGORIES:blue
+DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-01-20
+SUMMARY:💰 Resultados – 3M Company
+UID:MMM-blue-2026-01-20@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250806
+CATEGORIES:blue
+DESCRIPTION:Fortinet\, Inc. (FTNT)\nFecha de resultados: 2025-08-06
+SUMMARY:💰 Resultados – Fortinet\, Inc.
+UID:FTNT-blue-2025-08-06@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251103
+CATEGORIES:blue
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2025-11-03
+SUMMARY:💰 Resultados – Simon Property Group\, Inc.
+UID:SPG-blue-2025-11-03@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250804
+CATEGORIES:blue
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2025-08-04
+SUMMARY:💰 Resultados – Simon Property Group\, Inc.
+UID:SPG-blue-2025-08-04@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250807
+CATEGORIES:blue
+DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de resultados: 2025-08-07
+SUMMARY:💰 Resultados – Petroleo Brasileiro S.A. Petrob
+UID:PBR-A-blue-2025-08-07@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251107
+CATEGORIES:blue
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2025-11-07
+SUMMARY:💰 Resultados – Brookfield Asset Management Inc
+UID:BAM-blue-2025-11-07@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250730
+CATEGORIES:blue
+DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2025-07-30
+SUMMARY:💰 Resultados – The Hershey Company
+UID:HSY-blue-2025-07-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+CATEGORIES:blue
+DESCRIPTION:Evolution AB (EVO.ST)\nFecha de resultados: 2025-10-23
+SUMMARY:💰 Resultados – Evolution AB
+UID:EVO.ST-blue-2025-10-23@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+CATEGORIES:blue
+DESCRIPTION:REDEIA CORPORACION\, S.A. (RED.MC)\nFecha de resultados: 2025-10-29
+SUMMARY:💰 Resultados – REDEIA CORPORACION\, S.A.
+UID:RED.MC-blue-2025-10-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251107
+CATEGORIES:blue
+DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2025-11-07
+SUMMARY:💰 Resultados – AMADEUS IT GROUP\, S.A.
+UID:AMS.MC-blue-2025-11-07@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250910
+CATEGORIES:blue
+DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2025-09-10
+SUMMARY:💰 Resultados – INDUSTRIA DE DISE...O TEXTIL S.
+UID:ITX.MC-blue-2025-09-10@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+CATEGORIES:blue
+DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de resultados: 2026-01-21
+SUMMARY:💰 Resultados – Johnson & Johnson
+UID:JNJ-blue-2026-01-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250801
+CATEGORIES:blue
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2025-08-01
+SUMMARY:💰 Resultados – T. Rowe Price Group\, Inc.
+UID:TROW-blue-2025-08-01@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250730
+CATEGORIES:blue
+DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2025-07-30
+SUMMARY:💰 Resultados – Meta Platforms\, Inc.
+UID:META-blue-2025-07-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250729
+CATEGORIES:blue
+DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2025-07-29
+SUMMARY:💰 Resultados – CAIXABANK\, S.A.
+UID:CABK.MC-blue-2025-07-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250806
+CATEGORIES:blue
+DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2025-08-06
+SUMMARY:💰 Resultados – Realty Income Corporation
+UID:O-blue-2025-08-06@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250829
+CATEGORIES:blue
+DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2025-08-29
+SUMMARY:💰 Resultados – Alibaba Group Holding Limited
+UID:BABA-blue-2025-08-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+CATEGORIES:blue
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2025-10-29
+SUMMARY:💰 Resultados – CVS Health Corporation
+UID:CVS-blue-2025-10-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251203
+CATEGORIES:blue
+DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2025-12-03
+SUMMARY:💰 Resultados – INDUSTRIA DE DISE...O TEXTIL S.
+UID:ITX.MC-blue-2025-12-03@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251113
+CATEGORIES:blue
+DESCRIPTION:BURBERRY GROUP PLC ORD 0.05P (BRBY.L)\nFecha de resultados: 2025-11-13
+SUMMARY:💰 Resultados – BURBERRY GROUP PLC ORD 0.05P
+UID:BRBY.L-blue-2025-11-13@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+CATEGORIES:blue
+DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2025-10-29
+SUMMARY:💰 Resultados – Meta Platforms\, Inc.
+UID:META-blue-2025-10-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+CATEGORIES:blue
+DESCRIPTION:VIDRALA\, S.A. (VID.MC)\nFecha de resultados: 2025-10-29
+SUMMARY:💰 Resultados – VIDRALA\, S.A.
+UID:VID.MC-blue-2025-10-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250730
+CATEGORIES:blue
+DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2025-07-30
+SUMMARY:💰 Resultados – Microsoft Corporation
+UID:MSFT-blue-2025-07-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251031
+CATEGORIES:blue
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2025-10-31
+SUMMARY:💰 Resultados – T. Rowe Price Group\, Inc.
+UID:TROW-blue-2025-10-31@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251106
+CATEGORIES:blue
+DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha de resultados: 2025-11-06
+SUMMARY:💰 Resultados – COMPA...IA DE DISTRIBUCION INTE
+UID:LOG.MC-blue-2025-11-06@mi.calendario.financiero.v2
+END:VEVENT
+END:VCALENDAR
