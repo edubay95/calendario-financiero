@@ -79,13 +79,6 @@ SUMMARY:💰 Resultados – BANCO SANTANDER S.A.
 UID:SAN.MC-blue-2025-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250724
-CATEGORIES:blue
-DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2025-07-24
-SUMMARY:💰 Resultados – Blackstone Inc.
-UID:BX-blue-2025-07-24@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251113
 CATEGORIES:blue
 DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2025-11-13
@@ -182,13 +175,6 @@ CATEGORIES:blue
 DESCRIPTION:Moelis & Company (MC)\nFecha de resultados: 2025-10-29
 SUMMARY:💰 Resultados – Moelis & Company
 UID:MC-blue-2025-10-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250724
-CATEGORIES:blue
-DESCRIPTION:Moelis & Company (MC)\nFecha de resultados: 2025-07-24
-SUMMARY:💰 Resultados – Moelis & Company
-UID:MC-blue-2025-07-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250728
