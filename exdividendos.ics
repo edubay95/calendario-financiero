@@ -5,238 +5,238 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250915
 CATEGORIES:orange
 DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha Ex-Dividendo (corte): 2025-09-15
-SUMMARY:📅 Ex-Div – T. Rowe Price Group\, Inc.
+SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
 UID:TROW-orange-2025-09-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251103
 CATEGORIES:orange
 DESCRIPTION:Blackstone Inc. (BX)\nFecha Ex-Dividendo (corte): 2025-11-03
-SUMMARY:📅 Ex-Div – Blackstone Inc.
+SUMMARY:📅Ex-Div – Blackstone Inc.
 UID:BX-orange-2025-11-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250930
 CATEGORIES:orange
 DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha Ex-Dividendo (corte): 2025-09-30
-SUMMARY:📅 Ex-Div – Blackstone Mortgage Trust\, Inc.
+SUMMARY:📅Ex-Div – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-orange-2025-09-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250804
 CATEGORIES:orange
 DESCRIPTION:Blackstone Inc. (BX)\nFecha Ex-Dividendo (corte): 2025-08-04
-SUMMARY:📅 Ex-Div – Blackstone Inc.
+SUMMARY:📅Ex-Div – Blackstone Inc.
 UID:BX-orange-2025-08-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251121
 CATEGORIES:orange
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2025-11-21
-SUMMARY:📅 Ex-Div – NextEra Energy\, Inc.
+SUMMARY:📅Ex-Div – NextEra Energy\, Inc.
 UID:NEE-orange-2025-11-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250915
 CATEGORIES:orange
 DESCRIPTION:Altria Group\, Inc. (MO)\nFecha Ex-Dividendo (corte): 2025-09-15
-SUMMARY:📅 Ex-Div – Altria Group\, Inc.
+SUMMARY:📅Ex-Div – Altria Group\, Inc.
 UID:MO-orange-2025-09-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250828
 CATEGORIES:orange
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2025-08-28
-SUMMARY:📅 Ex-Div – NextEra Energy\, Inc.
+SUMMARY:📅Ex-Div – NextEra Energy\, Inc.
 UID:NEE-orange-2025-08-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251001
 CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2025-10-01
-SUMMARY:📅 Ex-Div – Realty Income Corporation
+SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2025-10-01@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250815
 CATEGORIES:orange
 DESCRIPTION:The Hershey Company (HSY)\nFecha Ex-Dividendo (corte): 2025-08-15
-SUMMARY:📅 Ex-Div – The Hershey Company
+SUMMARY:📅Ex-Div – The Hershey Company
 UID:HSY-orange-2025-08-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
 CATEGORIES:orange
 DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha Ex-Dividendo (corte): 2025-10-30
-SUMMARY:📅 Ex-Div – BANCO SANTANDER S.A.
+SUMMARY:📅Ex-Div – BANCO SANTANDER S.A.
 UID:SAN.MC-orange-2025-10-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251014
 CATEGORIES:orange
 DESCRIPTION:MIQUEL Y COSTAS & MIQUEL\, S.A. (MCM.MC)\nFecha Ex-Dividendo (corte): 2025-10-14
-SUMMARY:📅 Ex-Div – MIQUEL Y COSTAS & MIQUEL\, S.A.
+SUMMARY:📅Ex-Div – MIQUEL Y COSTAS & MIQUEL\, S.A.
 UID:MCM.MC-orange-2025-10-14@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250826
 CATEGORIES:orange
 DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha Ex-Dividendo (corte): 2025-08-26
-SUMMARY:📅 Ex-Div – COMPA...IA DE DISTRIBUCION INTE
+SUMMARY:📅Ex-Div – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-orange-2025-08-26@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251016
 CATEGORIES:orange
 DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha Ex-Dividendo (corte): 2025-10-16
-SUMMARY:📅 Ex-Div – DIAGEO PLC ORD 28 101/108P
+SUMMARY:📅Ex-Div – DIAGEO PLC ORD 28 101/108P
 UID:DGE.L-orange-2025-10-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250829
 CATEGORIES:orange
 DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha Ex-Dividendo (corte): 2025-08-29
-SUMMARY:📅 Ex-Div – Brookfield Asset Management Inc
+SUMMARY:📅Ex-Div – Brookfield Asset Management Inc
 UID:BAM-orange-2025-08-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251216
 CATEGORIES:orange
 DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha Ex-Dividendo (corte): 2025-12-16
-SUMMARY:📅 Ex-Div – TELEFONICA\,S.A.
+SUMMARY:📅Ex-Div – TELEFONICA\,S.A.
 UID:TEF.MC-orange-2025-12-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251120
 CATEGORIES:orange
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha Ex-Dividendo (corte): 2025-11-20
-SUMMARY:📅 Ex-Div – Microsoft Corporation
+SUMMARY:📅Ex-Div – Microsoft Corporation
 UID:MSFT-orange-2025-11-20@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250821
 CATEGORIES:orange
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha Ex-Dividendo (corte): 2025-08-21
-SUMMARY:📅 Ex-Div – Microsoft Corporation
+SUMMARY:📅Ex-Div – Microsoft Corporation
 UID:MSFT-orange-2025-08-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
 CATEGORIES:orange
 DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha Ex-Dividendo (corte): 2025-10-30
-SUMMARY:📅 Ex-Div – INDUSTRIA DE DISE...O TEXTIL S.
+SUMMARY:📅Ex-Div – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-orange-2025-10-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251010
 CATEGORIES:orange
 DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha Ex-Dividendo (corte): 2025-10-10
-SUMMARY:📅 Ex-Div – Verizon Communications Inc.
+SUMMARY:📅Ex-Div – Verizon Communications Inc.
 UID:VZ-orange-2025-10-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250801
 CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2025-08-01
-SUMMARY:📅 Ex-Div – Realty Income Corporation
+SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2025-08-01@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251229
 CATEGORIES:orange
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha Ex-Dividendo (corte): 2025-12-29
-SUMMARY:📅 Ex-Div – BRITISH AMERICAN TOBACCO PLC OR
+SUMMARY:📅Ex-Div – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-orange-2025-12-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251023
 CATEGORIES:orange
 DESCRIPTION:CVS Health Corporation (CVS)\nFecha Ex-Dividendo (corte): 2025-10-23
-SUMMARY:📅 Ex-Div – CVS Health Corporation
+SUMMARY:📅Ex-Div – CVS Health Corporation
 UID:CVS-orange-2025-10-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250902
 CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2025-09-02
-SUMMARY:📅 Ex-Div – Realty Income Corporation
+SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2025-09-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250825
 CATEGORIES:orange
 DESCRIPTION:3M Company (MMM)\nFecha Ex-Dividendo (corte): 2025-08-25
-SUMMARY:📅 Ex-Div – 3M Company
+SUMMARY:📅Ex-Div – 3M Company
 UID:MMM-orange-2025-08-25@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
 CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2025-10-31
-SUMMARY:📅 Ex-Div – Realty Income Corporation
+SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2025-10-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250804
 CATEGORIES:orange
 DESCRIPTION:Moelis & Company (MC)\nFecha Ex-Dividendo (corte): 2025-08-04
-SUMMARY:📅 Ex-Div – Moelis & Company
+SUMMARY:📅Ex-Div – Moelis & Company
 UID:MC-orange-2025-08-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251002
 CATEGORIES:orange
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha Ex-Dividendo (corte): 2025-10-02
-SUMMARY:📅 Ex-Div – BRITISH AMERICAN TOBACCO PLC OR
+SUMMARY:📅Ex-Div – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-orange-2025-10-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251125
 CATEGORIES:orange
 DESCRIPTION:Johnson & Johnson (JNJ)\nFecha Ex-Dividendo (corte): 2025-11-25
-SUMMARY:📅 Ex-Div – Johnson & Johnson
+SUMMARY:📅Ex-Div – Johnson & Johnson
 UID:JNJ-orange-2025-11-25@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250826
 CATEGORIES:orange
 DESCRIPTION:Johnson & Johnson (JNJ)\nFecha Ex-Dividendo (corte): 2025-08-26
-SUMMARY:📅 Ex-Div – Johnson & Johnson
+SUMMARY:📅Ex-Div – Johnson & Johnson
 UID:JNJ-orange-2025-08-26@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250912
 CATEGORIES:orange
 DESCRIPTION:Brookfield Corporation (BN)\nFecha Ex-Dividendo (corte): 2025-09-12
-SUMMARY:📅 Ex-Div – Brookfield Corporation
+SUMMARY:📅Ex-Div – Brookfield Corporation
 UID:BN-orange-2025-09-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250930
 CATEGORIES:orange
 DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha Ex-Dividendo (corte): 2025-09-30
-SUMMARY:📅 Ex-Div – American Tower Corporation (REI
+SUMMARY:📅Ex-Div – American Tower Corporation (REI
 UID:AMT-orange-2025-09-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250909
 CATEGORIES:orange
 DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha Ex-Dividendo (corte): 2025-09-09
-SUMMARY:📅 Ex-Div – Simon Property Group\, Inc.
+SUMMARY:📅Ex-Div – Simon Property Group\, Inc.
 UID:SPG-orange-2025-09-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250825
 CATEGORIES:orange
 DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2025-08-25
-SUMMARY:📅 Ex-Div – Petroleo Brasileiro S.A. Petrob
+SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-orange-2025-08-25@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250922
 CATEGORIES:orange
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha Ex-Dividendo (corte): 2025-09-22
-SUMMARY:📅 Ex-Div – Meta Platforms\, Inc.
+SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
 UID:META-orange-2025-09-22@mi.calendario.financiero.v2
 END:VEVENT
 END:VCALENDAR
