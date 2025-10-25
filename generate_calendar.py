@@ -289,7 +289,7 @@ def build_events_from_holdings(csv_path=HOLDINGS_CSV, api_key=FMP_API_KEY):
                 desc = f"{company_name} ({ticker})\nFecha Ex-Dividendo (corte): {ex_date}"
                 events.append({
                     "date": ex_date,
-                    "summary": f"📅 Ex-Dividendo – {company_name}",
+                    "summary": f"📅 Ex-Div – {company_name}",
                     "description": desc,
                     "color": "orange",
                     "ticker": ticker 
@@ -314,7 +314,7 @@ def build_events_from_holdings(csv_path=HOLDINGS_CSV, api_key=FMP_API_KEY):
                     )
                     events.append({
                         "date": div_date,
-                        "summary": f"💵 Dividendo ({calc['net_total']:.2f}€) – {company_name}",
+                        "summary": f"💵 Div ({calc['net_total']:.2f}€) – {company_name}",
                         "description": desc,
                         "color": "green",
                         "ticker": ticker 
@@ -325,7 +325,7 @@ def build_events_from_holdings(csv_path=HOLDINGS_CSV, api_key=FMP_API_KEY):
                 desc = f"{company_name} ({ticker})\nFecha de resultados: {earn_date}"
                 events.append({
                     "date": earn_date,
-                    "summary": f"💰 Resultados – {company_name}",
+                    "summary": f"💰 Result – {company_name}",
                     "description": desc,
                     "color": "blue",
                     "ticker": ticker 
@@ -401,3 +401,4 @@ if __name__ == "__main__":
     write_ics_file(earn_events, "resultados.ics", start_date, end_date)
     
     print("\nProceso completado. El robot ha actualizado los 3 archivos .ics.")
+
