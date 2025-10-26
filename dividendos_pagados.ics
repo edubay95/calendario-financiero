@@ -123,8 +123,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251016
 CATEGORIES:green
-DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de PAGO: 2025-10-16\nCantidad: 545 acciones\nDiv x Acc: 0.4730 GBP\n--- Cálculo en EUR (FX: 1.1449) ---\nNETO: 239.09 EUR\nBruto: 295.17 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -56.08 EUR
-SUMMARY:💵Div (239.09€) – DIAGEO PLC ORD 28 101/108P
+DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de PAGO: 2025-10-16\nCantidad: 545 acciones\nDiv x Acc: 0.4731 GBP\n--- Cálculo en EUR (FX: 1.1455) ---\nNETO: 239.21 EUR\nBruto: 295.32 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -56.11 EUR
+SUMMARY:💵Div (239.21€) – DIAGEO PLC ORD 28 101/108P
 UID:DGE.L-green-2025-10-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -291,8 +291,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251002
 CATEGORIES:green
-DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de PAGO: 2025-10-02\nCantidad: 330 acciones\nDiv x Acc: 0.6006 GBP\n--- Cálculo en EUR (FX: 1.1449) ---\nNETO: 183.80 EUR\nBruto: 226.92 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -43.11 EUR
-SUMMARY:💵Div (183.80€) – BRITISH AMERICAN TOBACCO PLC OR
+DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de PAGO: 2025-10-02\nCantidad: 330 acciones\nDiv x Acc: 0.6006 GBP\n--- Cálculo en EUR (FX: 1.1455) ---\nNETO: 183.89 EUR\nBruto: 227.03 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -43.14 EUR
+SUMMARY:💵Div (183.89€) – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-green-2025-10-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
