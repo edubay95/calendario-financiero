@@ -16,6 +16,13 @@ SUMMARY:💰Result – Microsoft Corporation
 UID:MSFT-blue-2025-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+CATEGORIES:blue
+DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2026-01-29
+SUMMARY:💰Result – Blackstone Inc.
+UID:BX-blue-2026-01-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251103
 CATEGORIES:blue
 DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2025-11-03
@@ -28,13 +35,6 @@ CATEGORIES:blue
 DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2025-07-29
 SUMMARY:💰Result – TELEFONICA\,S.A.
 UID:TEF.MC-blue-2025-07-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251028
-CATEGORIES:blue
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2025-10-28
-SUMMARY:💰Result – NextEra Energy\, Inc.
-UID:NEE-blue-2025-10-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
@@ -175,13 +175,6 @@ CATEGORIES:blue
 DESCRIPTION:Moelis & Company (MC)\nFecha de resultados: 2025-10-29
 SUMMARY:💰Result – Moelis & Company
 UID:MC-blue-2025-10-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250728
-CATEGORIES:blue
-DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2025-07-28
-SUMMARY:💰Result – BANCO SANTANDER S.A.
-UID:SAN.MC-blue-2025-07-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251104
