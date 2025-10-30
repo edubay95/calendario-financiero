@@ -191,6 +191,13 @@ SUMMARY:📅Ex-Div – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-orange-2025-10-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251215
+CATEGORIES:orange
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha Ex-Dividendo (corte): 2025-12-15
+SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
+UID:TROW-orange-2025-12-15@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251125
 CATEGORIES:orange
 DESCRIPTION:Johnson & Johnson (JNJ)\nFecha Ex-Dividendo (corte): 2025-11-25
@@ -217,6 +224,13 @@ CATEGORIES:orange
 DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha Ex-Dividendo (corte): 2025-09-30
 SUMMARY:📅Ex-Div – American Tower Corporation (REI
 UID:AMT-orange-2025-09-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+CATEGORIES:orange
+DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha Ex-Dividendo (corte): 2026-01-12
+SUMMARY:📅Ex-Div – ACCIONES IBERDROLA
+UID:IBE.MC-orange-2026-01-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250909
