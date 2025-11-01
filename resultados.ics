@@ -44,13 +44,6 @@ SUMMARY:💰Result – NextEra Energy\, Inc.
 UID:NEE-blue-2025-10-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251031
-CATEGORIES:blue
-DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2025-10-31
-SUMMARY:💰Result – CAIXABANK\, S.A.
-UID:CABK.MC-blue-2025-10-31@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251029
 CATEGORIES:blue
 DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2025-10-29
@@ -84,6 +77,13 @@ CATEGORIES:blue
 DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2025-11-13
 SUMMARY:💰Result – Brookfield Corporation
 UID:BN-blue-2025-11-13@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251030
+CATEGORIES:blue
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2025-10-30
+SUMMARY:💰Result – Altria Group\, Inc.
+UID:MO-blue-2025-10-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251114
@@ -128,6 +128,13 @@ SUMMARY:💰Result – American Tower Corporation (REI
 UID:AMT-blue-2025-10-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+CATEGORIES:blue
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2026-01-29
+SUMMARY:💰Result – Altria Group\, Inc.
+UID:MO-blue-2026-01-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251110
 CATEGORIES:blue
 DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2025-11-10
@@ -168,13 +175,6 @@ CATEGORIES:blue
 DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2025-10-21
 SUMMARY:💰Result – 3M Company
 UID:MMM-blue-2025-10-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250731
-CATEGORIES:blue
-DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2025-07-31
-SUMMARY:💰Result – CVS Health Corporation
-UID:CVS-blue-2025-07-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251105

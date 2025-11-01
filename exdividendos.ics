@@ -114,6 +114,13 @@ SUMMARY:📅Ex-Div – TELEFONICA\,S.A.
 UID:TEF.MC-orange-2025-12-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251110
+CATEGORIES:orange
+DESCRIPTION:Moelis & Company (MC)\nFecha Ex-Dividendo (corte): 2025-11-10
+SUMMARY:📅Ex-Div – Moelis & Company
+UID:MC-orange-2025-11-10@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251120
 CATEGORIES:orange
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha Ex-Dividendo (corte): 2025-11-20
@@ -154,6 +161,13 @@ CATEGORIES:orange
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha Ex-Dividendo (corte): 2025-12-29
 SUMMARY:📅Ex-Div – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-orange-2025-12-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251117
+CATEGORIES:orange
+DESCRIPTION:The Hershey Company (HSY)\nFecha Ex-Dividendo (corte): 2025-11-17
+SUMMARY:📅Ex-Div – The Hershey Company
+UID:HSY-orange-2025-11-17@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251023
