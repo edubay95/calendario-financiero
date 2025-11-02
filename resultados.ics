@@ -44,11 +44,25 @@ SUMMARY:💰Result – NextEra Energy\, Inc.
 UID:NEE-blue-2025-10-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251031
+CATEGORIES:blue
+DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2025-10-31
+SUMMARY:💰Result – CAIXABANK\, S.A.
+UID:CABK.MC-blue-2025-10-31@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251029
 CATEGORIES:blue
 DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2025-10-29
 SUMMARY:💰Result – Verizon Communications Inc.
 UID:VZ-blue-2025-10-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260130
+CATEGORIES:blue
+DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2026-01-30
+SUMMARY:💰Result – CAIXABANK\, S.A.
+UID:CABK.MC-blue-2026-01-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251014
@@ -252,13 +266,6 @@ CATEGORIES:blue
 DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de resultados: 2026-01-21
 SUMMARY:💰Result – Johnson & Johnson
 UID:JNJ-blue-2026-01-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250801
-CATEGORIES:blue
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2025-08-01
-SUMMARY:💰Result – T. Rowe Price Group\, Inc.
-UID:TROW-blue-2025-08-01@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250806

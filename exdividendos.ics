@@ -149,13 +149,6 @@ SUMMARY:📅Ex-Div – Verizon Communications Inc.
 UID:VZ-orange-2025-10-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250801
-CATEGORIES:orange
-DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2025-08-01
-SUMMARY:📅Ex-Div – Realty Income Corporation
-UID:O-orange-2025-08-01@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251229
 CATEGORIES:orange
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha Ex-Dividendo (corte): 2025-12-29
