@@ -275,6 +275,13 @@ SUMMARY:💰Result – Realty Income Corporation
 UID:O-blue-2025-08-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260203
+CATEGORIES:blue
+DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de resultados: 2026-02-03
+SUMMARY:💰Result – DIAGEO PLC ORD 28 101/108P
+UID:DGE.L-blue-2026-02-03@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260123
 CATEGORIES:blue
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-01-23
