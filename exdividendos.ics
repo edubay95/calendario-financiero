@@ -254,6 +254,13 @@ SUMMARY:📅Ex-Div – Simon Property Group\, Inc.
 UID:SPG-orange-2025-09-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251105
+CATEGORIES:orange
+DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha Ex-Dividendo (corte): 2025-11-05
+SUMMARY:📅Ex-Div – CAIXABANK\, S.A.
+UID:CABK.MC-orange-2025-11-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250825
 CATEGORIES:orange
 DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2025-08-25
