@@ -23,6 +23,20 @@ SUMMARY:💰Result – Blackstone Inc.
 UID:BX-blue-2026-01-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251103
+CATEGORIES:blue
+DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2025-11-03
+SUMMARY:💰Result – Realty Income Corporation
+UID:O-blue-2025-11-03@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+CATEGORIES:blue
+DESCRIPTION:Evolution AB (EVO.ST)\nFecha de resultados: 2026-02-05
+SUMMARY:💰Result – Evolution AB
+UID:EVO.ST-blue-2026-02-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260128
 CATEGORIES:blue
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-01-28
@@ -49,6 +63,13 @@ CATEGORIES:blue
 DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2025-10-29
 SUMMARY:💰Result – Verizon Communications Inc.
 UID:VZ-blue-2025-10-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+CATEGORIES:blue
+DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-02-05
+SUMMARY:💰Result – The Hershey Company
+UID:HSY-blue-2026-02-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260130
@@ -170,13 +191,6 @@ SUMMARY:💰Result – Moelis & Company
 UID:MC-blue-2025-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251104
-CATEGORIES:blue
-DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2025-11-04
-SUMMARY:💰Result – TELEFONICA\,S.A.
-UID:TEF.MC-blue-2025-11-04@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251021
 CATEGORIES:blue
 DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2025-10-21
@@ -205,11 +219,11 @@ SUMMARY:💰Result – Fortinet\, Inc.
 UID:FTNT-blue-2025-08-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250804
+DTSTART;VALUE=DATE:20251103
 CATEGORIES:blue
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2025-08-04
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2025-11-03
 SUMMARY:💰Result – Simon Property Group\, Inc.
-UID:SPG-blue-2025-08-04@mi.calendario.financiero.v2
+UID:SPG-blue-2025-11-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250807

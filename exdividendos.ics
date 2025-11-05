@@ -23,13 +23,6 @@ SUMMARY:📅Ex-Div – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-orange-2025-09-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250804
-CATEGORIES:orange
-DESCRIPTION:Blackstone Inc. (BX)\nFecha Ex-Dividendo (corte): 2025-08-04
-SUMMARY:📅Ex-Div – Blackstone Inc.
-UID:BX-orange-2025-08-04@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251121
 CATEGORIES:orange
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2025-11-21
@@ -189,13 +182,6 @@ CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2025-10-31
 SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2025-10-31@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250804
-CATEGORIES:orange
-DESCRIPTION:Moelis & Company (MC)\nFecha Ex-Dividendo (corte): 2025-08-04
-SUMMARY:📅Ex-Div – Moelis & Company
-UID:MC-orange-2025-08-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251002
