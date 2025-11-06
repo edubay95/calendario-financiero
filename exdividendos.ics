@@ -100,6 +100,13 @@ SUMMARY:📅Ex-Div – Brookfield Asset Management Inc
 UID:BAM-orange-2025-08-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251210
+CATEGORIES:orange
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha Ex-Dividendo (corte): 2025-12-10
+SUMMARY:📅Ex-Div – Simon Property Group\, Inc.
+UID:SPG-orange-2025-12-10@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251216
 CATEGORIES:orange
 DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha Ex-Dividendo (corte): 2025-12-16
