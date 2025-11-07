@@ -114,6 +114,13 @@ SUMMARY:📅Ex-Div – TELEFONICA\,S.A.
 UID:TEF.MC-orange-2025-12-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251114
+CATEGORIES:orange
+DESCRIPTION:3M Company (MMM)\nFecha Ex-Dividendo (corte): 2025-11-14
+SUMMARY:📅Ex-Div – 3M Company
+UID:MMM-orange-2025-11-14@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251110
 CATEGORIES:orange
 DESCRIPTION:Moelis & Company (MC)\nFecha Ex-Dividendo (corte): 2025-11-10
