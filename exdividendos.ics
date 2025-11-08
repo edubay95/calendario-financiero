@@ -93,6 +93,13 @@ SUMMARY:📅Ex-Div – DIAGEO PLC ORD 28 101/108P
 UID:DGE.L-orange-2025-10-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251128
+CATEGORIES:orange
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha Ex-Dividendo (corte): 2025-11-28
+SUMMARY:📅Ex-Div – Brookfield Asset Management Inc
+UID:BAM-orange-2025-11-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250829
 CATEGORIES:orange
 DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha Ex-Dividendo (corte): 2025-08-29
