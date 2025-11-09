@@ -177,6 +177,13 @@ SUMMARY:💰Result – AST SpaceMobile\, Inc.
 UID:ASTS-blue-2025-08-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260209
+CATEGORIES:blue
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-02-09
+SUMMARY:💰Result – Simon Property Group\, Inc.
+UID:SPG-blue-2026-02-09@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
 CATEGORIES:blue
 DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2025-10-30
@@ -233,6 +240,13 @@ SUMMARY:💰Result – T. Rowe Price Group\, Inc.
 UID:TROW-blue-2026-02-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251107
+CATEGORIES:blue
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2025-11-07
+SUMMARY:💰Result – Brookfield Asset Management Inc
+UID:BAM-blue-2025-11-07@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260204
 CATEGORIES:blue
 DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2026-02-04
@@ -245,6 +259,13 @@ CATEGORIES:blue
 DESCRIPTION:Evolution AB (EVO.ST)\nFecha de resultados: 2025-10-23
 SUMMARY:💰Result – Evolution AB
 UID:EVO.ST-blue-2025-10-23@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251107
+CATEGORIES:blue
+DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2025-11-07
+SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
+UID:AMS.MC-blue-2025-11-07@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250910
