@@ -23,6 +23,13 @@ SUMMARY:💰Result – Blackstone Inc.
 UID:BX-blue-2026-01-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+CATEGORIES:blue
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-02-11
+SUMMARY:💰Result – CVS Health Corporation
+UID:CVS-blue-2026-02-11@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251103
 CATEGORIES:blue
 DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2025-11-03
@@ -156,13 +163,6 @@ SUMMARY:💰Result – Altria Group\, Inc.
 UID:MO-blue-2026-01-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251110
-CATEGORIES:blue
-DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2025-11-10
-SUMMARY:💰Result – AST SpaceMobile\, Inc.
-UID:ASTS-blue-2025-11-10@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
 CATEGORIES:blue
 DESCRIPTION:Fortinet\, Inc. (FTNT)\nFecha de resultados: 2026-02-05
@@ -182,6 +182,13 @@ CATEGORIES:blue
 DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-02-09
 SUMMARY:💰Result – Simon Property Group\, Inc.
 UID:SPG-blue-2026-02-09@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+CATEGORIES:blue
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-02-11
+SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
+UID:BXMT-blue-2026-02-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
@@ -280,6 +287,20 @@ CATEGORIES:blue
 DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de resultados: 2026-01-21
 SUMMARY:💰Result – Johnson & Johnson
 UID:JNJ-blue-2026-01-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+CATEGORIES:blue
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-02-11
+SUMMARY:💰Result – Brookfield Asset Management Inc
+UID:BAM-blue-2026-02-11@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+CATEGORIES:blue
+DESCRIPTION:Moelis & Company (MC)\nFecha de resultados: 2026-02-11
+SUMMARY:💰Result – Moelis & Company
+UID:MC-blue-2026-02-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260123
