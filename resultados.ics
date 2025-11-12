@@ -121,13 +121,6 @@ SUMMARY:💰Result – Altria Group\, Inc.
 UID:MO-blue-2025-10-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251114
-CATEGORIES:blue
-DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2025-11-14
-SUMMARY:💰Result – Alibaba Group Holding Limited
-UID:BABA-blue-2025-11-14@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251028
 CATEGORIES:blue
 DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2025-10-28
@@ -149,11 +142,25 @@ SUMMARY:💰Result – Verizon Communications Inc.
 UID:VZ-blue-2026-01-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251121
+CATEGORIES:blue
+DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2025-11-21
+SUMMARY:💰Result – Alibaba Group Holding Limited
+UID:BABA-blue-2025-11-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251028
 CATEGORIES:blue
 DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de resultados: 2025-10-28
 SUMMARY:💰Result – American Tower Corporation (REI
 UID:AMT-blue-2025-10-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260212
+CATEGORIES:blue
+DESCRIPTION:HERMES INTL (RMS.PA)\nFecha de resultados: 2026-02-12
+SUMMARY:💰Result – HERMES INTL
+UID:RMS.PA-blue-2026-02-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260129
@@ -163,18 +170,18 @@ SUMMARY:💰Result – Altria Group\, Inc.
 UID:MO-blue-2026-01-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251110
+CATEGORIES:blue
+DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2025-11-10
+SUMMARY:💰Result – AST SpaceMobile\, Inc.
+UID:ASTS-blue-2025-11-10@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
 CATEGORIES:blue
 DESCRIPTION:Fortinet\, Inc. (FTNT)\nFecha de resultados: 2026-02-05
 SUMMARY:💰Result – Fortinet\, Inc.
 UID:FTNT-blue-2026-02-05@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250811
-CATEGORIES:blue
-DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2025-08-11
-SUMMARY:💰Result – AST SpaceMobile\, Inc.
-UID:ASTS-blue-2025-08-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260209
@@ -364,6 +371,13 @@ CATEGORIES:blue
 DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de resultados: 2025-11-06
 SUMMARY:💰Result – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-blue-2025-11-06@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260212
+CATEGORIES:blue
+DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de resultados: 2026-02-12
+SUMMARY:💰Result – BRITISH AMERICAN TOBACCO PLC OR
+UID:BATS.L-blue-2026-02-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
