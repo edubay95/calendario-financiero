@@ -135,6 +135,13 @@ SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-blue-2025-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251125
+CATEGORIES:blue
+DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2025-11-25
+SUMMARY:💰Result – Alibaba Group Holding Limited
+UID:BABA-blue-2025-11-25@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260127
 CATEGORIES:blue
 DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2026-01-27
@@ -142,11 +149,11 @@ SUMMARY:💰Result – Verizon Communications Inc.
 UID:VZ-blue-2026-01-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251121
+DTSTART;VALUE=DATE:20260212
 CATEGORIES:blue
-DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2025-11-21
-SUMMARY:💰Result – Alibaba Group Holding Limited
-UID:BABA-blue-2025-11-21@mi.calendario.financiero.v2
+DESCRIPTION:HERMES INTL (RMS.PA)\nFecha de resultados: 2026-02-12
+SUMMARY:💰Result – HERMES INTL
+UID:RMS.PA-blue-2026-02-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251028
@@ -154,13 +161,6 @@ CATEGORIES:blue
 DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de resultados: 2025-10-28
 SUMMARY:💰Result – American Tower Corporation (REI
 UID:AMT-blue-2025-10-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260212
-CATEGORIES:blue
-DESCRIPTION:HERMES INTL (RMS.PA)\nFecha de resultados: 2026-02-12
-SUMMARY:💰Result – HERMES INTL
-UID:RMS.PA-blue-2026-02-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260129
