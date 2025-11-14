@@ -11,15 +11,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251209
 CATEGORIES:green
-DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de PAGO: 2025-12-09\nCantidad: 87 acciones\nDiv x Acc: 1.3000 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 68.33 EUR\nBruto: 97.61 EUR\nRet. Origen (30.0%): -29.28 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (68.33€) – Johnson & Johnson
+DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de PAGO: 2025-12-09\nCantidad: 87 acciones\nDiv x Acc: 1.3000 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 68.09 EUR\nBruto: 97.27 EUR\nRet. Origen (30.0%): -29.18 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (68.09€) – Johnson & Johnson
 UID:JNJ-green-2025-12-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250922
 CATEGORIES:green
-DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de PAGO: 2025-09-22\nCantidad: 18 acciones\nDiv x Acc: 0.5250 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 5.71 EUR\nBruto: 8.16 EUR\nRet. Origen (30.0%): -2.45 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (5.71€) – Meta Platforms\, Inc.
+DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de PAGO: 2025-09-22\nCantidad: 18 acciones\nDiv x Acc: 0.5250 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 5.69 EUR\nBruto: 8.13 EUR\nRet. Origen (30.0%): -2.44 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (5.69€) – Meta Platforms\, Inc.
 UID:META-green-2025-09-22@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -32,50 +32,50 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251230
 CATEGORIES:green
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2025-12-30\nCantidad: 100 acciones\nDiv x Acc: 1.2700 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 76.72 EUR\nBruto: 109.60 EUR\nRet. Origen (30.0%): -32.88 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (76.72€) – T. Rowe Price Group\, Inc.
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2025-12-30\nCantidad: 100 acciones\nDiv x Acc: 1.2700 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 76.46 EUR\nBruto: 109.23 EUR\nRet. Origen (30.0%): -32.77 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (76.46€) – T. Rowe Price Group\, Inc.
 UID:TROW-green-2025-12-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251103
 CATEGORIES:green
-DESCRIPTION:Blackstone Inc. (BX)\nFecha de PAGO: 2025-11-03\nCantidad: 80 acciones\nDiv x Acc: 1.2900 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 62.34 EUR\nBruto: 89.06 EUR\nRet. Origen (30.0%): -26.72 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (62.34€) – Blackstone Inc.
+DESCRIPTION:Blackstone Inc. (BX)\nFecha de PAGO: 2025-11-03\nCantidad: 80 acciones\nDiv x Acc: 1.2900 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 62.13 EUR\nBruto: 88.76 EUR\nRet. Origen (30.0%): -26.63 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (62.13€) – Blackstone Inc.
 UID:BX-green-2025-11-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251215
 CATEGORIES:green
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de PAGO: 2025-12-15\nCantidad: 152 acciones\nDiv x Acc: 0.5670 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 52.06 EUR\nBruto: 74.38 EUR\nRet. Origen (30.0%): -22.31 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (52.06€) – NextEra Energy\, Inc.
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de PAGO: 2025-12-15\nCantidad: 152 acciones\nDiv x Acc: 0.5670 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 51.89 EUR\nBruto: 74.12 EUR\nRet. Origen (30.0%): -22.24 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (51.89€) – NextEra Energy\, Inc.
 UID:NEE-green-2025-12-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251103
 CATEGORIES:green
-DESCRIPTION:CVS Health Corporation (CVS)\nFecha de PAGO: 2025-11-03\nCantidad: 135 acciones\nDiv x Acc: 0.6650 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 54.23 EUR\nBruto: 77.48 EUR\nRet. Origen (30.0%): -23.24 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (54.23€) – CVS Health Corporation
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha de PAGO: 2025-11-03\nCantidad: 135 acciones\nDiv x Acc: 0.6650 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 54.05 EUR\nBruto: 77.21 EUR\nRet. Origen (30.0%): -23.16 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (54.05€) – CVS Health Corporation
 UID:CVS-green-2025-11-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 CATEGORIES:green
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2025-12-31\nCantidad: 100 acciones\nDiv x Acc: 2.1500 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 129.88 EUR\nBruto: 185.55 EUR\nRet. Origen (30.0%): -55.66 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (129.88€) – Simon Property Group\, Inc.
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2025-12-31\nCantidad: 100 acciones\nDiv x Acc: 2.1500 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 129.44 EUR\nBruto: 184.91 EUR\nRet. Origen (30.0%): -55.47 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (129.44€) – Simon Property Group\, Inc.
 UID:SPG-green-2025-12-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251010
 CATEGORIES:green
-DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de PAGO: 2025-10-10\nCantidad: 230 acciones\nDiv x Acc: 0.6900 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 95.87 EUR\nBruto: 136.96 EUR\nRet. Origen (30.0%): -41.09 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (95.87€) – Verizon Communications Inc.
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de PAGO: 2025-10-10\nCantidad: 230 acciones\nDiv x Acc: 0.6900 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 95.54 EUR\nBruto: 136.49 EUR\nRet. Origen (30.0%): -40.95 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (95.54€) – Verizon Communications Inc.
 UID:VZ-green-2025-10-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250915
 CATEGORIES:green
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de PAGO: 2025-09-15\nCantidad: 180 acciones\nDiv x Acc: 1.0600 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 115.26 EUR\nBruto: 164.66 EUR\nRet. Origen (30.0%): -49.40 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (115.26€) – Altria Group\, Inc.
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de PAGO: 2025-09-15\nCantidad: 180 acciones\nDiv x Acc: 1.0600 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 114.87 EUR\nBruto: 164.10 EUR\nRet. Origen (30.0%): -49.23 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (114.87€) – Altria Group\, Inc.
 UID:MO-green-2025-09-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -88,15 +88,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250825
 CATEGORIES:green
-DESCRIPTION:3M Company (MMM)\nFecha de PAGO: 2025-08-25\nCantidad: 63 acciones\nDiv x Acc: 0.7300 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 27.78 EUR\nBruto: 39.69 EUR\nRet. Origen (30.0%): -11.91 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (27.78€) – 3M Company
+DESCRIPTION:3M Company (MMM)\nFecha de PAGO: 2025-08-25\nCantidad: 63 acciones\nDiv x Acc: 0.7300 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 27.69 EUR\nBruto: 39.55 EUR\nRet. Origen (30.0%): -11.87 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (27.69€) – 3M Company
 UID:MMM-green-2025-08-25@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251023
 CATEGORIES:green
-DESCRIPTION:CVS Health Corporation (CVS)\nFecha de PAGO: 2025-10-23\nCantidad: 135 acciones\nDiv x Acc: 0.6650 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 54.23 EUR\nBruto: 77.48 EUR\nRet. Origen (30.0%): -23.24 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (54.23€) – CVS Health Corporation
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha de PAGO: 2025-10-23\nCantidad: 135 acciones\nDiv x Acc: 0.6650 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 54.05 EUR\nBruto: 77.21 EUR\nRet. Origen (30.0%): -23.16 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (54.05€) – CVS Health Corporation
 UID:CVS-green-2025-10-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -109,71 +109,71 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251211
 CATEGORIES:green
-DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de PAGO: 2025-12-11\nCantidad: 20 acciones\nDiv x Acc: 0.8300 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 10.03 EUR\nBruto: 14.33 EUR\nRet. Origen (30.0%): -4.30 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (10.03€) – Microsoft Corporation
+DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de PAGO: 2025-12-11\nCantidad: 20 acciones\nDiv x Acc: 0.8300 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 9.99 EUR\nBruto: 14.28 EUR\nRet. Origen (30.0%): -4.28 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (9.99€) – Microsoft Corporation
 UID:MSFT-green-2025-12-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251001
 CATEGORIES:green
-DESCRIPTION:Realty Income Corporation (O)\nFecha de PAGO: 2025-10-01\nCantidad: 200 acciones\nDiv x Acc: 0.2700 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 32.62 EUR\nBruto: 46.60 EUR\nRet. Origen (30.0%): -13.98 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (32.62€) – Realty Income Corporation
+DESCRIPTION:Realty Income Corporation (O)\nFecha de PAGO: 2025-10-01\nCantidad: 200 acciones\nDiv x Acc: 0.2700 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 32.51 EUR\nBruto: 46.44 EUR\nRet. Origen (30.0%): -13.93 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (32.51€) – Realty Income Corporation
 UID:O-green-2025-10-01@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250829
 CATEGORIES:green
-DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de PAGO: 2025-08-29\nCantidad: 115 acciones\nDiv x Acc: 0.4380 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 30.43 EUR\nBruto: 43.47 EUR\nRet. Origen (30.0%): -13.04 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (30.43€) – Brookfield Asset Management Inc
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de PAGO: 2025-08-29\nCantidad: 115 acciones\nDiv x Acc: 0.4380 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 30.32 EUR\nBruto: 43.32 EUR\nRet. Origen (30.0%): -13.00 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (30.32€) – Brookfield Asset Management Inc
 UID:BAM-green-2025-08-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250909
 CATEGORIES:green
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2025-09-09\nCantidad: 100 acciones\nDiv x Acc: 2.1500 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 129.88 EUR\nBruto: 185.55 EUR\nRet. Origen (30.0%): -55.66 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (129.88€) – Simon Property Group\, Inc.
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2025-09-09\nCantidad: 100 acciones\nDiv x Acc: 2.1500 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 129.44 EUR\nBruto: 184.91 EUR\nRet. Origen (30.0%): -55.47 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (129.44€) – Simon Property Group\, Inc.
 UID:SPG-green-2025-09-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251215
 CATEGORIES:green
-DESCRIPTION:Realty Income Corporation (O)\nFecha de PAGO: 2025-12-15\nCantidad: 200 acciones\nDiv x Acc: 0.2700 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 32.62 EUR\nBruto: 46.60 EUR\nRet. Origen (30.0%): -13.98 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (32.62€) – Realty Income Corporation
+DESCRIPTION:Realty Income Corporation (O)\nFecha de PAGO: 2025-12-15\nCantidad: 200 acciones\nDiv x Acc: 0.2700 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 32.51 EUR\nBruto: 46.44 EUR\nRet. Origen (30.0%): -13.93 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (32.51€) – Realty Income Corporation
 UID:O-green-2025-12-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250912
 CATEGORIES:green
-DESCRIPTION:Brookfield Corporation (BN)\nFecha de PAGO: 2025-09-12\nCantidad: 233 acciones\nDiv x Acc: 0.0600 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 8.45 EUR\nBruto: 12.07 EUR\nRet. Origen (30.0%): -3.62 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (8.45€) – Brookfield Corporation
+DESCRIPTION:Brookfield Corporation (BN)\nFecha de PAGO: 2025-09-12\nCantidad: 233 acciones\nDiv x Acc: 0.0600 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 8.42 EUR\nBruto: 12.02 EUR\nRet. Origen (30.0%): -3.61 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (8.42€) – Brookfield Corporation
 UID:BN-green-2025-09-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251010
 CATEGORIES:green
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de PAGO: 2025-10-10\nCantidad: 180 acciones\nDiv x Acc: 1.0600 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 115.26 EUR\nBruto: 164.66 EUR\nRet. Origen (30.0%): -49.40 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (115.26€) – Altria Group\, Inc.
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de PAGO: 2025-10-10\nCantidad: 180 acciones\nDiv x Acc: 1.0600 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 114.87 EUR\nBruto: 164.10 EUR\nRet. Origen (30.0%): -49.23 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (114.87€) – Altria Group\, Inc.
 UID:MO-green-2025-10-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251016
 CATEGORIES:green
-DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de PAGO: 2025-10-16\nCantidad: 545 acciones\nDiv x Acc: 0.4799 GBP\n--- Cálculo en EUR (FX: 1.1329) ---\nNETO: 240.02 EUR\nBruto: 296.32 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -56.30 EUR
-SUMMARY:💵Div (240.02€) – DIAGEO PLC ORD 28 101/108P
+DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de PAGO: 2025-10-16\nCantidad: 545 acciones\nDiv x Acc: 0.4790 GBP\n--- Cálculo en EUR (FX: 1.1320) ---\nNETO: 239.37 EUR\nBruto: 295.52 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -56.15 EUR
+SUMMARY:💵Div (239.37€) – DIAGEO PLC ORD 28 101/108P
 UID:DGE.L-green-2025-10-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250929
 CATEGORIES:green
-DESCRIPTION:Brookfield Corporation (BN)\nFecha de PAGO: 2025-09-29\nCantidad: 233 acciones\nDiv x Acc: 0.0600 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 8.45 EUR\nBruto: 12.07 EUR\nRet. Origen (30.0%): -3.62 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (8.45€) – Brookfield Corporation
+DESCRIPTION:Brookfield Corporation (BN)\nFecha de PAGO: 2025-09-29\nCantidad: 233 acciones\nDiv x Acc: 0.0600 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 8.42 EUR\nBruto: 12.02 EUR\nRet. Origen (30.0%): -3.61 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (8.42€) – Brookfield Corporation
 UID:BN-green-2025-09-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250821
 CATEGORIES:green
-DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de PAGO: 2025-08-21\nCantidad: 20 acciones\nDiv x Acc: 0.8300 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 10.03 EUR\nBruto: 14.33 EUR\nRet. Origen (30.0%): -4.30 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (10.03€) – Microsoft Corporation
+DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de PAGO: 2025-08-21\nCantidad: 20 acciones\nDiv x Acc: 0.8300 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 9.99 EUR\nBruto: 14.28 EUR\nRet. Origen (30.0%): -4.28 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (9.99€) – Microsoft Corporation
 UID:MSFT-green-2025-08-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -186,15 +186,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250815
 CATEGORIES:green
-DESCRIPTION:The Hershey Company (HSY)\nFecha de PAGO: 2025-08-15\nCantidad: 80 acciones\nDiv x Acc: 1.3700 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 66.21 EUR\nBruto: 94.59 EUR\nRet. Origen (30.0%): -28.38 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (66.21€) – The Hershey Company
+DESCRIPTION:The Hershey Company (HSY)\nFecha de PAGO: 2025-08-15\nCantidad: 80 acciones\nDiv x Acc: 1.3700 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 65.98 EUR\nBruto: 94.26 EUR\nRet. Origen (30.0%): -28.28 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (65.98€) – The Hershey Company
 UID:HSY-green-2025-08-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250930
 CATEGORIES:green
-DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de PAGO: 2025-09-30\nCantidad: 41 acciones\nDiv x Acc: 1.7000 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 42.11 EUR\nBruto: 60.15 EUR\nRet. Origen (30.0%): -18.05 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (42.11€) – American Tower Corporation (REI
+DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de PAGO: 2025-09-30\nCantidad: 41 acciones\nDiv x Acc: 1.7000 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 41.96 EUR\nBruto: 59.95 EUR\nRet. Origen (30.0%): -17.98 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (41.96€) – American Tower Corporation (REI
 UID:AMT-green-2025-09-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -207,85 +207,85 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251215
 CATEGORIES:green
-DESCRIPTION:The Hershey Company (HSY)\nFecha de PAGO: 2025-12-15\nCantidad: 80 acciones\nDiv x Acc: 1.3700 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 66.21 EUR\nBruto: 94.59 EUR\nRet. Origen (30.0%): -28.38 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (66.21€) – The Hershey Company
+DESCRIPTION:The Hershey Company (HSY)\nFecha de PAGO: 2025-12-15\nCantidad: 80 acciones\nDiv x Acc: 1.3700 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 65.98 EUR\nBruto: 94.26 EUR\nRet. Origen (30.0%): -28.28 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (65.98€) – The Hershey Company
 UID:HSY-green-2025-12-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251201
 CATEGORIES:green
-DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de PAGO: 2025-12-01\nCantidad: 1000 acciones\nDiv x Acc: 0.3230 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 225.79 EUR\nBruto: 278.76 EUR\nRet. Origen (15.0%): -41.81 EUR\nRet. España (dif): -11.15 EUR
-SUMMARY:💵Div (225.79€) – Petroleo Brasileiro S.A. Petrob
+DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de PAGO: 2025-12-01\nCantidad: 1000 acciones\nDiv x Acc: 0.3230 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 225.01 EUR\nBruto: 277.80 EUR\nRet. Origen (15.0%): -41.67 EUR\nRet. España (dif): -11.11 EUR
+SUMMARY:💵Div (225.01€) – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-green-2025-12-01@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251020
 CATEGORIES:green
-DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de PAGO: 2025-10-20\nCantidad: 41 acciones\nDiv x Acc: 1.7000 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 42.11 EUR\nBruto: 60.15 EUR\nRet. Origen (30.0%): -18.05 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (42.11€) – American Tower Corporation (REI
+DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de PAGO: 2025-10-20\nCantidad: 41 acciones\nDiv x Acc: 1.7000 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 41.96 EUR\nBruto: 59.95 EUR\nRet. Origen (30.0%): -17.98 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (41.96€) – American Tower Corporation (REI
 UID:AMT-green-2025-10-20@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251212
 CATEGORIES:green
-DESCRIPTION:3M Company (MMM)\nFecha de PAGO: 2025-12-12\nCantidad: 63 acciones\nDiv x Acc: 0.7300 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 27.78 EUR\nBruto: 39.69 EUR\nRet. Origen (30.0%): -11.91 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (27.78€) – 3M Company
+DESCRIPTION:3M Company (MMM)\nFecha de PAGO: 2025-12-12\nCantidad: 63 acciones\nDiv x Acc: 0.7300 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 27.69 EUR\nBruto: 39.55 EUR\nRet. Origen (30.0%): -11.87 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (27.69€) – 3M Company
 UID:MMM-green-2025-12-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250930
 CATEGORIES:green
-DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de PAGO: 2025-09-30\nCantidad: 310 acciones\nDiv x Acc: 0.4700 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 88.02 EUR\nBruto: 125.74 EUR\nRet. Origen (30.0%): -37.72 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (88.02€) – Blackstone Mortgage Trust\, Inc.
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de PAGO: 2025-09-30\nCantidad: 310 acciones\nDiv x Acc: 0.4700 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 87.72 EUR\nBruto: 125.31 EUR\nRet. Origen (30.0%): -37.59 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (87.72€) – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-green-2025-09-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250828
 CATEGORIES:green
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de PAGO: 2025-08-28\nCantidad: 152 acciones\nDiv x Acc: 0.5670 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 52.06 EUR\nBruto: 74.38 EUR\nRet. Origen (30.0%): -22.31 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (52.06€) – NextEra Energy\, Inc.
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de PAGO: 2025-08-28\nCantidad: 152 acciones\nDiv x Acc: 0.5670 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 51.89 EUR\nBruto: 74.12 EUR\nRet. Origen (30.0%): -22.24 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (51.89€) – NextEra Energy\, Inc.
 UID:NEE-green-2025-08-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251110
 CATEGORIES:green
-DESCRIPTION:Blackstone Inc. (BX)\nFecha de PAGO: 2025-11-10\nCantidad: 80 acciones\nDiv x Acc: 1.2900 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 62.34 EUR\nBruto: 89.06 EUR\nRet. Origen (30.0%): -26.72 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (62.34€) – Blackstone Inc.
+DESCRIPTION:Blackstone Inc. (BX)\nFecha de PAGO: 2025-11-10\nCantidad: 80 acciones\nDiv x Acc: 1.2900 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 62.13 EUR\nBruto: 88.76 EUR\nRet. Origen (30.0%): -26.63 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (62.13€) – Blackstone Inc.
 UID:BX-green-2025-11-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251015
 CATEGORIES:green
-DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de PAGO: 2025-10-15\nCantidad: 310 acciones\nDiv x Acc: 0.4700 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 88.02 EUR\nBruto: 125.74 EUR\nRet. Origen (30.0%): -37.72 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (88.02€) – Blackstone Mortgage Trust\, Inc.
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de PAGO: 2025-10-15\nCantidad: 310 acciones\nDiv x Acc: 0.4700 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 87.72 EUR\nBruto: 125.31 EUR\nRet. Origen (30.0%): -37.59 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (87.72€) – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-green-2025-10-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251103
 CATEGORIES:green
-DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de PAGO: 2025-11-03\nCantidad: 230 acciones\nDiv x Acc: 0.6900 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 95.87 EUR\nBruto: 136.96 EUR\nRet. Origen (30.0%): -41.09 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (95.87€) – Verizon Communications Inc.
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de PAGO: 2025-11-03\nCantidad: 230 acciones\nDiv x Acc: 0.6900 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 95.54 EUR\nBruto: 136.49 EUR\nRet. Origen (30.0%): -40.95 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (95.54€) – Verizon Communications Inc.
 UID:VZ-green-2025-11-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250929
 CATEGORIES:green
-DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de PAGO: 2025-09-29\nCantidad: 18 acciones\nDiv x Acc: 0.5250 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 5.71 EUR\nBruto: 8.16 EUR\nRet. Origen (30.0%): -2.45 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (5.71€) – Meta Platforms\, Inc.
+DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de PAGO: 2025-09-29\nCantidad: 18 acciones\nDiv x Acc: 0.5250 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 5.69 EUR\nBruto: 8.13 EUR\nRet. Origen (30.0%): -2.44 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (5.69€) – Meta Platforms\, Inc.
 UID:META-green-2025-09-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250826
 CATEGORIES:green
-DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de PAGO: 2025-08-26\nCantidad: 87 acciones\nDiv x Acc: 1.3000 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 68.33 EUR\nBruto: 97.61 EUR\nRet. Origen (30.0%): -29.28 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (68.33€) – Johnson & Johnson
+DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de PAGO: 2025-08-26\nCantidad: 87 acciones\nDiv x Acc: 1.3000 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 68.09 EUR\nBruto: 97.27 EUR\nRet. Origen (30.0%): -29.18 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (68.09€) – Johnson & Johnson
 UID:JNJ-green-2025-08-26@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250902
 CATEGORIES:green
-DESCRIPTION:Realty Income Corporation (O)\nFecha de PAGO: 2025-09-02\nCantidad: 200 acciones\nDiv x Acc: 0.2690 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 32.50 EUR\nBruto: 46.43 EUR\nRet. Origen (30.0%): -13.93 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (32.50€) – Realty Income Corporation
+DESCRIPTION:Realty Income Corporation (O)\nFecha de PAGO: 2025-09-02\nCantidad: 200 acciones\nDiv x Acc: 0.2690 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 32.39 EUR\nBruto: 46.27 EUR\nRet. Origen (30.0%): -13.88 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (32.39€) – Realty Income Corporation
 UID:O-green-2025-09-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -298,29 +298,29 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251002
 CATEGORIES:green
-DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de PAGO: 2025-10-02\nCantidad: 330 acciones\nDiv x Acc: 0.6006 GBP\n--- Cálculo en EUR (FX: 1.1329) ---\nNETO: 181.88 EUR\nBruto: 224.54 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -42.66 EUR
-SUMMARY:💵Div (181.88€) – BRITISH AMERICAN TOBACCO PLC OR
+DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de PAGO: 2025-10-02\nCantidad: 330 acciones\nDiv x Acc: 0.6006 GBP\n--- Cálculo en EUR (FX: 1.1320) ---\nNETO: 181.73 EUR\nBruto: 224.36 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -42.63 EUR
+SUMMARY:💵Div (181.73€) – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-green-2025-10-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250915
 CATEGORIES:green
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2025-09-15\nCantidad: 100 acciones\nDiv x Acc: 1.2700 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 76.72 EUR\nBruto: 109.60 EUR\nRet. Origen (30.0%): -32.88 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (76.72€) – T. Rowe Price Group\, Inc.
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2025-09-15\nCantidad: 100 acciones\nDiv x Acc: 1.2700 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 76.46 EUR\nBruto: 109.23 EUR\nRet. Origen (30.0%): -32.77 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (76.46€) – T. Rowe Price Group\, Inc.
 UID:TROW-green-2025-09-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 CATEGORIES:green
-DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de PAGO: 2025-12-31\nCantidad: 115 acciones\nDiv x Acc: 0.4380 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 30.43 EUR\nBruto: 43.47 EUR\nRet. Origen (30.0%): -13.04 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (30.43€) – Brookfield Asset Management Inc
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de PAGO: 2025-12-31\nCantidad: 115 acciones\nDiv x Acc: 0.4380 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 30.32 EUR\nBruto: 43.32 EUR\nRet. Origen (30.0%): -13.00 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (30.32€) – Brookfield Asset Management Inc
 UID:BAM-green-2025-12-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
 CATEGORIES:green
-DESCRIPTION:Realty Income Corporation (O)\nFecha de PAGO: 2025-10-31\nCantidad: 200 acciones\nDiv x Acc: 0.2700 USD\n--- Cálculo en EUR (FX: 0.8630) ---\nNETO: 32.62 EUR\nBruto: 46.60 EUR\nRet. Origen (30.0%): -13.98 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (32.62€) – Realty Income Corporation
+DESCRIPTION:Realty Income Corporation (O)\nFecha de PAGO: 2025-10-31\nCantidad: 200 acciones\nDiv x Acc: 0.2700 USD\n--- Cálculo en EUR (FX: 0.8600) ---\nNETO: 32.51 EUR\nBruto: 46.44 EUR\nRet. Origen (30.0%): -13.93 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (32.51€) – Realty Income Corporation
 UID:O-green-2025-10-31@mi.calendario.financiero.v2
 END:VEVENT
 END:VCALENDAR

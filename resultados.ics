@@ -107,13 +107,6 @@ SUMMARY:💰Result – BANCO SANTANDER S.A.
 UID:SAN.MC-blue-2025-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251113
-CATEGORIES:blue
-DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2025-11-13
-SUMMARY:💰Result – Brookfield Corporation
-UID:BN-blue-2025-11-13@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
 CATEGORIES:blue
 DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2025-10-30
@@ -338,25 +331,11 @@ SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-blue-2025-12-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251113
-CATEGORIES:blue
-DESCRIPTION:BURBERRY GROUP PLC ORD 0.05P (BRBY.L)\nFecha de resultados: 2025-11-13
-SUMMARY:💰Result – BURBERRY GROUP PLC ORD 0.05P
-UID:BRBY.L-blue-2025-11-13@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251029
 CATEGORIES:blue
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2025-10-29
 SUMMARY:💰Result – Meta Platforms\, Inc.
 UID:META-blue-2025-10-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251113
-CATEGORIES:blue
-DESCRIPTION:ACS\,ACTIVIDADES DE CONSTRUCCION (ACS.MC)\nFecha de resultados: 2025-11-13
-SUMMARY:💰Result – ACS\,ACTIVIDADES DE CONSTRUCCION
-UID:ACS.MC-blue-2025-11-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260128
@@ -366,18 +345,18 @@ SUMMARY:💰Result – Meta Platforms\, Inc.
 UID:META-blue-2026-01-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251106
-CATEGORIES:blue
-DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de resultados: 2025-11-06
-SUMMARY:💰Result – Petroleo Brasileiro S.A. Petrob
-UID:PBR-A-blue-2025-11-06@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260212
 CATEGORIES:blue
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de resultados: 2026-02-12
 SUMMARY:💰Result – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-blue-2026-02-12@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251106
+CATEGORIES:blue
+DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de resultados: 2025-11-06
+SUMMARY:💰Result – Petroleo Brasileiro S.A. Petrob
+UID:PBR-A-blue-2025-11-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
