@@ -9,6 +9,13 @@ SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
 UID:TROW-orange-2025-09-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251216
+CATEGORIES:orange
+DESCRIPTION:Brookfield Corporation (BN)\nFecha Ex-Dividendo (corte): 2025-12-16
+SUMMARY:📅Ex-Div – Brookfield Corporation
+UID:BN-orange-2025-12-16@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251103
 CATEGORIES:orange
 DESCRIPTION:Blackstone Inc. (BX)\nFecha Ex-Dividendo (corte): 2025-11-03
