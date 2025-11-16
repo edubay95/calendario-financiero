@@ -58,13 +58,6 @@ SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2025-10-01@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250815
-CATEGORIES:orange
-DESCRIPTION:The Hershey Company (HSY)\nFecha Ex-Dividendo (corte): 2025-08-15
-SUMMARY:📅Ex-Div – The Hershey Company
-UID:HSY-orange-2025-08-15@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
 CATEGORIES:orange
 DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha Ex-Dividendo (corte): 2025-10-30
