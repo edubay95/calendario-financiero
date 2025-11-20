@@ -30,13 +30,6 @@ SUMMARY:💰Result – CVS Health Corporation
 UID:CVS-blue-2026-02-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
-CATEGORIES:blue
-DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2025-11-03
-SUMMARY:💰Result – Realty Income Corporation
-UID:O-blue-2025-11-03@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
 CATEGORIES:blue
 DESCRIPTION:Evolution AB (EVO.ST)\nFecha de resultados: 2026-02-05
