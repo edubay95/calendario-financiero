@@ -142,13 +142,6 @@ SUMMARY:📅Ex-Div – Microsoft Corporation
 UID:MSFT-orange-2025-11-20@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250821
-CATEGORIES:orange
-DESCRIPTION:Microsoft Corporation (MSFT)\nFecha Ex-Dividendo (corte): 2025-08-21
-SUMMARY:📅Ex-Div – Microsoft Corporation
-UID:MSFT-orange-2025-08-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
 CATEGORIES:orange
 DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha Ex-Dividendo (corte): 2025-10-30
