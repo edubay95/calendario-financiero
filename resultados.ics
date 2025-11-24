@@ -72,6 +72,13 @@ SUMMARY:💰Result – Verizon Communications Inc.
 UID:VZ-blue-2025-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+CATEGORIES:blue
+DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de resultados: 2026-02-24
+SUMMARY:💰Result – American Tower Corporation (REI
+UID:AMT-blue-2026-02-24@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
 CATEGORIES:blue
 DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-02-05
