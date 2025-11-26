@@ -191,13 +191,6 @@ SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2025-11-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250825
-CATEGORIES:orange
-DESCRIPTION:3M Company (MMM)\nFecha Ex-Dividendo (corte): 2025-08-25
-SUMMARY:📅Ex-Div – 3M Company
-UID:MMM-orange-2025-08-25@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
 CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2025-10-31
