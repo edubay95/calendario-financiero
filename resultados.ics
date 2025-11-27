@@ -9,6 +9,13 @@ SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-blue-2026-02-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+CATEGORIES:blue
+DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2026-02-27
+SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
+UID:AMS.MC-blue-2026-02-27@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251029
 CATEGORIES:blue
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2025-10-29
@@ -147,6 +154,13 @@ CATEGORIES:blue
 DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2025-11-25
 SUMMARY:💰Result – Alibaba Group Holding Limited
 UID:BABA-blue-2025-11-25@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+CATEGORIES:blue
+DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2026-02-19
+SUMMARY:💰Result – Alibaba Group Holding Limited
+UID:BABA-blue-2026-02-19@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260127

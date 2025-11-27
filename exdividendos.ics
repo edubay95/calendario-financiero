@@ -79,13 +79,6 @@ SUMMARY:📅Ex-Div – REDEIA CORPORACION\, S.A.
 UID:RED.MC-orange-2026-01-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250826
-CATEGORIES:orange
-DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha Ex-Dividendo (corte): 2025-08-26
-SUMMARY:📅Ex-Div – COMPA...IA DE DISTRIBUCION INTE
-UID:LOG.MC-orange-2025-08-26@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251016
 CATEGORIES:orange
 DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha Ex-Dividendo (corte): 2025-10-16
@@ -156,6 +149,13 @@ SUMMARY:📅Ex-Div – Verizon Communications Inc.
 UID:VZ-orange-2025-10-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251215
+CATEGORIES:orange
+DESCRIPTION:MIQUEL Y COSTAS & MIQUEL\, S.A. (MCM.MC)\nFecha Ex-Dividendo (corte): 2025-12-15
+SUMMARY:📅Ex-Div – MIQUEL Y COSTAS & MIQUEL\, S.A.
+UID:MCM.MC-orange-2025-12-15@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251229
 CATEGORIES:orange
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha Ex-Dividendo (corte): 2025-12-29
@@ -224,13 +224,6 @@ CATEGORIES:orange
 DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2025-12-26
 SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-orange-2025-12-26@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250826
-CATEGORIES:orange
-DESCRIPTION:Johnson & Johnson (JNJ)\nFecha Ex-Dividendo (corte): 2025-08-26
-SUMMARY:📅Ex-Div – Johnson & Johnson
-UID:JNJ-orange-2025-08-26@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250912
