@@ -387,13 +387,6 @@ SUMMARY:💰Result – NextEra Energy\, Inc.
 UID:NEE-blue-2026-01-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250829
-CATEGORIES:blue
-DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2025-08-29
-SUMMARY:💰Result – Alibaba Group Holding Limited
-UID:BABA-blue-2025-08-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251029
 CATEGORIES:blue
 DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2025-10-29

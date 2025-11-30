@@ -86,13 +86,6 @@ SUMMARY:📅Ex-Div – Brookfield Asset Management Inc
 UID:BAM-orange-2025-11-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250829
-CATEGORIES:orange
-DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha Ex-Dividendo (corte): 2025-08-29
-SUMMARY:📅Ex-Div – Brookfield Asset Management Inc
-UID:BAM-orange-2025-08-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251210
 CATEGORIES:orange
 DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha Ex-Dividendo (corte): 2025-12-10
