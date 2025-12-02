@@ -9,6 +9,13 @@ SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-blue-2026-02-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+CATEGORIES:blue
+DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2026-03-02
+SUMMARY:💰Result – AST SpaceMobile\, Inc.
+UID:ASTS-blue-2026-03-02@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
 CATEGORIES:blue
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2026-02-27
