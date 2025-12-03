@@ -170,13 +170,6 @@ SUMMARY:💰Result – Alibaba Group Holding Limited
 UID:BABA-blue-2026-02-19@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260127
-CATEGORIES:blue
-DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2026-01-27
-SUMMARY:💰Result – Verizon Communications Inc.
-UID:VZ-blue-2026-01-27@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260212
 CATEGORIES:blue
 DESCRIPTION:HERMES INTL (RMS.PA)\nFecha de resultados: 2026-02-12
@@ -343,6 +336,13 @@ CATEGORIES:blue
 DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2026-02-04
 SUMMARY:💰Result – BANCO SANTANDER S.A.
 UID:SAN.MC-blue-2026-02-04@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260130
+CATEGORIES:blue
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2026-01-30
+SUMMARY:💰Result – Verizon Communications Inc.
+UID:VZ-blue-2026-01-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251023
