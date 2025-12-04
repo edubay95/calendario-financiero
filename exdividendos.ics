@@ -163,6 +163,13 @@ SUMMARY:📅Ex-Div – CVS Health Corporation
 UID:CVS-orange-2025-10-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+CATEGORIES:orange
+DESCRIPTION:Microsoft Corporation (MSFT)\nFecha Ex-Dividendo (corte): 2026-02-19
+SUMMARY:📅Ex-Div – Microsoft Corporation
+UID:MSFT-orange-2026-02-19@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251128
 CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2025-11-28
