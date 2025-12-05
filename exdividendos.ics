@@ -23,6 +23,13 @@ SUMMARY:📅Ex-Div – Blackstone Inc.
 UID:BX-orange-2025-11-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251215
+CATEGORIES:orange
+DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha Ex-Dividendo (corte): 2025-12-15
+SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
+UID:META-orange-2025-12-15@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250930
 CATEGORIES:orange
 DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha Ex-Dividendo (corte): 2025-09-30
