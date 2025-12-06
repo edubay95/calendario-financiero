@@ -30,6 +30,13 @@ SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
 UID:META-orange-2025-12-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+CATEGORIES:orange
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha Ex-Dividendo (corte): 2026-01-12
+SUMMARY:📅Ex-Div – Verizon Communications Inc.
+UID:VZ-orange-2026-01-12@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250930
 CATEGORIES:orange
 DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha Ex-Dividendo (corte): 2025-09-30
@@ -259,5 +266,12 @@ CATEGORIES:orange
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha Ex-Dividendo (corte): 2025-09-22
 SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
 UID:META-orange-2025-09-22@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251229
+CATEGORIES:orange
+DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha Ex-Dividendo (corte): 2025-12-29
+SUMMARY:📅Ex-Div – American Tower Corporation (REI
+UID:AMT-orange-2025-12-29@mi.calendario.financiero.v2
 END:VEVENT
 END:VCALENDAR
