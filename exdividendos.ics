@@ -247,13 +247,6 @@ SUMMARY:📅Ex-Div – ACCIONES IBERDROLA
 UID:IBE.MC-orange-2026-01-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250909
-CATEGORIES:orange
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha Ex-Dividendo (corte): 2025-09-09
-SUMMARY:📅Ex-Div – Simon Property Group\, Inc.
-UID:SPG-orange-2025-09-09@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251105
 CATEGORIES:orange
 DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha Ex-Dividendo (corte): 2025-11-05
