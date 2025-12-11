@@ -149,6 +149,13 @@ SUMMARY:💰Result – Brookfield Corporation
 UID:BN-blue-2026-02-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+CATEGORIES:blue
+DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-03-11
+SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
+UID:ITX.MC-blue-2026-03-11@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251029
 CATEGORIES:blue
 DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2025-10-29
@@ -359,11 +366,11 @@ SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-blue-2025-11-07@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250910
+DTSTART;VALUE=DATE:20260211
 CATEGORIES:blue
-DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2025-09-10
-SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
-UID:ITX.MC-blue-2025-09-10@mi.calendario.financiero.v2
+DESCRIPTION:Moelis & Company (MC)\nFecha de resultados: 2026-02-11
+SUMMARY:💰Result – Moelis & Company
+UID:MC-blue-2026-02-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260121
@@ -378,13 +385,6 @@ CATEGORIES:blue
 DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-02-11
 SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-02-11@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260211
-CATEGORIES:blue
-DESCRIPTION:Moelis & Company (MC)\nFecha de resultados: 2026-02-11
-SUMMARY:💰Result – Moelis & Company
-UID:MC-blue-2026-02-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260123
