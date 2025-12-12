@@ -163,6 +163,13 @@ SUMMARY:📅Ex-Div – MIQUEL Y COSTAS & MIQUEL\, S.A.
 UID:MCM.MC-orange-2025-12-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251226
+CATEGORIES:orange
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha Ex-Dividendo (corte): 2025-12-26
+SUMMARY:📅Ex-Div – Altria Group\, Inc.
+UID:MO-orange-2025-12-26@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251229
 CATEGORIES:orange
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha Ex-Dividendo (corte): 2025-12-29
