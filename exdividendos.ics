@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250915
-CATEGORIES:orange
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha Ex-Dividendo (corte): 2025-09-15
-SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
-UID:TROW-orange-2025-09-15@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251216
 CATEGORIES:orange
 DESCRIPTION:Brookfield Corporation (BN)\nFecha Ex-Dividendo (corte): 2025-12-16
@@ -49,13 +42,6 @@ CATEGORIES:orange
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2025-11-21
 SUMMARY:📅Ex-Div – NextEra Energy\, Inc.
 UID:NEE-orange-2025-11-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250915
-CATEGORIES:orange
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha Ex-Dividendo (corte): 2025-09-15
-SUMMARY:📅Ex-Div – Altria Group\, Inc.
-UID:MO-orange-2025-09-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251001
