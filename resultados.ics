@@ -79,6 +79,13 @@ SUMMARY:💰Result – CAIXABANK\, S.A.
 UID:CABK.MC-blue-2025-10-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+CATEGORIES:blue
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2025-10-29
+SUMMARY:💰Result – Verizon Communications Inc.
+UID:VZ-blue-2025-10-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260224
 CATEGORIES:blue
 DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de resultados: 2026-02-24
@@ -336,6 +343,13 @@ CATEGORIES:blue
 DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2026-02-04
 SUMMARY:💰Result – BANCO SANTANDER S.A.
 UID:SAN.MC-blue-2026-02-04@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260130
+CATEGORIES:blue
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2026-01-30
+SUMMARY:💰Result – Verizon Communications Inc.
+UID:VZ-blue-2026-01-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251023

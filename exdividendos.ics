@@ -191,6 +191,13 @@ SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2025-11-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+CATEGORIES:orange
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha Ex-Dividendo (corte): 2025-12-31
+SUMMARY:📅Ex-Div – Blackstone Mortgage Trust\, Inc.
+UID:BXMT-orange-2025-12-31@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
 CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2025-10-31
