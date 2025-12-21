@@ -254,6 +254,13 @@ SUMMARY:📅Ex-Div – American Tower Corporation (REI
 UID:AMT-orange-2025-09-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+CATEGORIES:orange
+DESCRIPTION:VIDRALA\, S.A. (VID.MC)\nFecha Ex-Dividendo (corte): 2026-02-11
+SUMMARY:📅Ex-Div – VIDRALA\, S.A.
+UID:VID.MC-orange-2026-02-11@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260112
 CATEGORIES:orange
 DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha Ex-Dividendo (corte): 2026-01-12

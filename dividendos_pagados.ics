@@ -39,8 +39,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251230
 CATEGORIES:green
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2025-12-30\nCantidad: 100 acciones\nDiv x Acc: 1.2700 USD\n--- Cálculo en EUR (FX: 0.8535) ---\nNETO: 75.88 EUR\nBruto: 108.39 EUR\nRet. Origen (30.0%): -32.52 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (75.88€) – T. Rowe Price Group\, Inc.
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2025-12-30\nCantidad: 100 acciones\nDiv x Acc: 1.2700 USD\n--- Cálculo en EUR (FX: 0.8535) ---\nNETO: 75.87 EUR\nBruto: 108.39 EUR\nRet. Origen (30.0%): -32.52 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (75.87€) – T. Rowe Price Group\, Inc.
 UID:TROW-green-2025-12-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -88,14 +88,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251103
 CATEGORIES:green
-DESCRIPTION:CVS Health Corporation (CVS)\nFecha de PAGO: 2025-11-03\nCantidad: 135 acciones\nDiv x Acc: 0.6650 USD\n--- Cálculo en EUR (FX: 0.8535) ---\nNETO: 53.64 EUR\nBruto: 76.62 EUR\nRet. Origen (30.0%): -22.99 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (53.64€) – CVS Health Corporation
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha de PAGO: 2025-11-03\nCantidad: 135 acciones\nDiv x Acc: 0.6650 USD\n--- Cálculo en EUR (FX: 0.8535) ---\nNETO: 53.63 EUR\nBruto: 76.62 EUR\nRet. Origen (30.0%): -22.99 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (53.63€) – CVS Health Corporation
 UID:CVS-green-2025-11-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 CATEGORIES:green
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2025-12-31\nCantidad: 100 acciones\nDiv x Acc: 2.2000 USD\n--- Cálculo en EUR (FX: 0.8535) ---\nNETO: 131.44 EUR\nBruto: 187.77 EUR\nRet. Origen (30.0%): -56.33 EUR\nRet. España (dif): -0.00 EUR
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2025-12-31\nCantidad: 100 acciones\nDiv x Acc: 2.2000 USD\n--- Cálculo en EUR (FX: 0.8535) ---\nNETO: 131.44 EUR\nBruto: 187.76 EUR\nRet. Origen (30.0%): -56.33 EUR\nRet. España (dif): -0.00 EUR
 SUMMARY:💵Div (131.44€) – Simon Property Group\, Inc.
 UID:SPG-green-2025-12-31@mi.calendario.financiero.v2
 END:VEVENT
@@ -116,8 +116,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251023
 CATEGORIES:green
-DESCRIPTION:CVS Health Corporation (CVS)\nFecha de PAGO: 2025-10-23\nCantidad: 135 acciones\nDiv x Acc: 0.6650 USD\n--- Cálculo en EUR (FX: 0.8535) ---\nNETO: 53.64 EUR\nBruto: 76.62 EUR\nRet. Origen (30.0%): -22.99 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (53.64€) – CVS Health Corporation
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha de PAGO: 2025-10-23\nCantidad: 135 acciones\nDiv x Acc: 0.6650 USD\n--- Cálculo en EUR (FX: 0.8535) ---\nNETO: 53.63 EUR\nBruto: 76.62 EUR\nRet. Origen (30.0%): -22.99 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (53.63€) – CVS Health Corporation
 UID:CVS-green-2025-10-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -144,8 +144,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251016
 CATEGORIES:green
-DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de PAGO: 2025-10-16\nCantidad: 545 acciones\nDiv x Acc: 0.4791 GBP\n--- Cálculo en EUR (FX: 1.1422) ---\nNETO: 241.56 EUR\nBruto: 298.23 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -56.66 EUR
-SUMMARY:💵Div (241.56€) – DIAGEO PLC ORD 28 101/108P
+DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de PAGO: 2025-10-16\nCantidad: 545 acciones\nDiv x Acc: 0.4791 GBP\n--- Cálculo en EUR (FX: 1.1420) ---\nNETO: 241.53 EUR\nBruto: 298.18 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -56.65 EUR
+SUMMARY:💵Div (241.53€) – DIAGEO PLC ORD 28 101/108P
 UID:DGE.L-green-2025-10-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260109
 CATEGORIES:green
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de PAGO: 2026-01-09\nCantidad: 180 acciones\nDiv x Acc: 1.0600 USD\n--- Cálculo en EUR (FX: 0.8535) ---\nNETO: 113.99 EUR\nBruto: 162.85 EUR\nRet. Origen (30.0%): -48.85 EUR\nRet. España (dif): -0.00 EUR
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de PAGO: 2026-01-09\nCantidad: 180 acciones\nDiv x Acc: 1.0600 USD\n--- Cálculo en EUR (FX: 0.8535) ---\nNETO: 113.99 EUR\nBruto: 162.84 EUR\nRet. Origen (30.0%): -48.85 EUR\nRet. España (dif): -0.00 EUR
 SUMMARY:💵Div (113.99€) – Altria Group\, Inc.
 UID:MO-green-2026-01-09@mi.calendario.financiero.v2
 END:VEVENT
@@ -235,8 +235,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251215
 CATEGORIES:green
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2025-12-15\nCantidad: 100 acciones\nDiv x Acc: 1.2700 USD\n--- Cálculo en EUR (FX: 0.8535) ---\nNETO: 75.88 EUR\nBruto: 108.39 EUR\nRet. Origen (30.0%): -32.52 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (75.88€) – T. Rowe Price Group\, Inc.
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2025-12-15\nCantidad: 100 acciones\nDiv x Acc: 1.2700 USD\n--- Cálculo en EUR (FX: 0.8535) ---\nNETO: 75.87 EUR\nBruto: 108.39 EUR\nRet. Origen (30.0%): -32.52 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (75.87€) – T. Rowe Price Group\, Inc.
 UID:TROW-green-2025-12-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -298,15 +298,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251210
 CATEGORIES:green
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2025-12-10\nCantidad: 100 acciones\nDiv x Acc: 2.2000 USD\n--- Cálculo en EUR (FX: 0.8535) ---\nNETO: 131.44 EUR\nBruto: 187.77 EUR\nRet. Origen (30.0%): -56.33 EUR\nRet. España (dif): -0.00 EUR
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2025-12-10\nCantidad: 100 acciones\nDiv x Acc: 2.2000 USD\n--- Cálculo en EUR (FX: 0.8535) ---\nNETO: 131.44 EUR\nBruto: 187.76 EUR\nRet. Origen (30.0%): -56.33 EUR\nRet. España (dif): -0.00 EUR
 SUMMARY:💵Div (131.44€) – Simon Property Group\, Inc.
 UID:SPG-green-2025-12-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251002
 CATEGORIES:green
-DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de PAGO: 2025-10-02\nCantidad: 330 acciones\nDiv x Acc: 0.6006 GBP\n--- Cálculo en EUR (FX: 1.1422) ---\nNETO: 183.36 EUR\nBruto: 226.37 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -43.01 EUR
-SUMMARY:💵Div (183.36€) – BRITISH AMERICAN TOBACCO PLC OR
+DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de PAGO: 2025-10-02\nCantidad: 330 acciones\nDiv x Acc: 0.6006 GBP\n--- Cálculo en EUR (FX: 1.1420) ---\nNETO: 183.34 EUR\nBruto: 226.34 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -43.00 EUR
+SUMMARY:💵Div (183.34€) – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-green-2025-10-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
