@@ -51,13 +51,6 @@ SUMMARY:💰Result – Realty Income Corporation
 UID:O-blue-2025-11-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260205
-CATEGORIES:blue
-DESCRIPTION:Evolution AB (EVO.ST)\nFecha de resultados: 2026-02-05
-SUMMARY:💰Result – Evolution AB
-UID:EVO.ST-blue-2026-02-05@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260128
 CATEGORIES:blue
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-01-28
@@ -345,13 +338,6 @@ SUMMARY:💰Result – Verizon Communications Inc.
 UID:VZ-blue-2026-01-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251023
-CATEGORIES:blue
-DESCRIPTION:Evolution AB (EVO.ST)\nFecha de resultados: 2025-10-23
-SUMMARY:💰Result – Evolution AB
-UID:EVO.ST-blue-2025-10-23@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
 CATEGORIES:blue
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2025-11-07
@@ -399,6 +385,13 @@ CATEGORIES:blue
 DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de resultados: 2026-02-25
 SUMMARY:💰Result – DIAGEO PLC ORD 28 101/108P
 UID:DGE.L-blue-2026-02-25@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+CATEGORIES:blue
+DESCRIPTION:PUIG BRANDS\, S.A. CLASE B (PUIG.MC)\nFecha de resultados: 2026-02-26
+SUMMARY:💰Result – PUIG BRANDS\, S.A. CLASE B
+UID:PUIG.MC-blue-2026-02-26@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260225
