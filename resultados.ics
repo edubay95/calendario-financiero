@@ -310,13 +310,6 @@ SUMMARY:💰Result – Simon Property Group\, Inc.
 UID:SPG-blue-2025-11-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260206
-CATEGORIES:blue
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-02-06
-SUMMARY:💰Result – T. Rowe Price Group\, Inc.
-UID:TROW-blue-2026-02-06@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
 CATEGORIES:blue
 DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2025-11-07
@@ -427,6 +420,13 @@ CATEGORIES:blue
 DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de resultados: 2025-11-06
 SUMMARY:💰Result – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-blue-2025-11-06@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+CATEGORIES:blue
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-02-04
+SUMMARY:💰Result – T. Rowe Price Group\, Inc.
+UID:TROW-blue-2026-02-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
