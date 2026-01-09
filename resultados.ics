@@ -23,6 +23,13 @@ SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-blue-2026-02-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+CATEGORIES:blue
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-02-04
+SUMMARY:💰Result – Brookfield Asset Management Inc
+UID:BAM-blue-2026-02-04@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251029
 CATEGORIES:blue
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2025-10-29
@@ -350,13 +357,6 @@ CATEGORIES:blue
 DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de resultados: 2026-01-21
 SUMMARY:💰Result – Johnson & Johnson
 UID:JNJ-blue-2026-01-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260211
-CATEGORIES:blue
-DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-02-11
-SUMMARY:💰Result – Brookfield Asset Management Inc
-UID:BAM-blue-2026-02-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260123
