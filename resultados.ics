@@ -219,18 +219,18 @@ SUMMARY:💰Result – Fortinet\, Inc.
 UID:FTNT-blue-2026-02-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260209
-CATEGORIES:blue
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-02-09
-SUMMARY:💰Result – Simon Property Group\, Inc.
-UID:SPG-blue-2026-02-09@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260211
 CATEGORIES:blue
 DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-02-11
 SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-blue-2026-02-11@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+CATEGORIES:blue
+DESCRIPTION:PUIG BRANDS\, S.A. CLASE B (PUIG.MC)\nFecha de resultados: 2026-02-26
+SUMMARY:💰Result – PUIG BRANDS\, S.A. CLASE B
+UID:PUIG.MC-blue-2026-02-26@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260226
@@ -266,13 +266,6 @@ CATEGORIES:blue
 DESCRIPTION:REDEIA CORPORACION\, S.A. (RED.MC)\nFecha de resultados: 2026-02-25
 SUMMARY:💰Result – REDEIA CORPORACION\, S.A.
 UID:RED.MC-blue-2026-02-25@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260226
-CATEGORIES:blue
-DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2026-02-26
-SUMMARY:💰Result – TELEFONICA\,S.A.
-UID:TEF.MC-blue-2026-02-26@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251104
@@ -317,11 +310,25 @@ SUMMARY:💰Result – Simon Property Group\, Inc.
 UID:SPG-blue-2025-11-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260202
+CATEGORIES:blue
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-02-02
+SUMMARY:💰Result – Simon Property Group\, Inc.
+UID:SPG-blue-2026-02-02@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
 CATEGORIES:blue
 DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2025-11-07
 SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2025-11-07@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+CATEGORIES:blue
+DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2026-02-25
+SUMMARY:💰Result – TELEFONICA\,S.A.
+UID:TEF.MC-blue-2026-02-25@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260204
@@ -378,13 +385,6 @@ CATEGORIES:blue
 DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de resultados: 2026-02-25
 SUMMARY:💰Result – DIAGEO PLC ORD 28 101/108P
 UID:DGE.L-blue-2026-02-25@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260226
-CATEGORIES:blue
-DESCRIPTION:PUIG BRANDS\, S.A. CLASE B (PUIG.MC)\nFecha de resultados: 2026-02-26
-SUMMARY:💰Result – PUIG BRANDS\, S.A. CLASE B
-UID:PUIG.MC-blue-2026-02-26@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260225
