@@ -135,13 +135,6 @@ SUMMARY:📅Ex-Div – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-orange-2025-10-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251010
-CATEGORIES:orange
-DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha Ex-Dividendo (corte): 2025-10-10
-SUMMARY:📅Ex-Div – Verizon Communications Inc.
-UID:VZ-orange-2025-10-10@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251215
 CATEGORIES:orange
 DESCRIPTION:MIQUEL Y COSTAS & MIQUEL\, S.A. (MCM.MC)\nFecha Ex-Dividendo (corte): 2025-12-15
