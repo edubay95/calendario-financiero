@@ -247,6 +247,13 @@ SUMMARY:💰Result – The Hershey Company
 UID:HSY-blue-2025-10-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+CATEGORIES:blue
+DESCRIPTION:Moelis & Company (MC)\nFecha de resultados: 2025-10-29
+SUMMARY:💰Result – Moelis & Company
+UID:MC-blue-2025-10-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260226
 CATEGORIES:blue
 DESCRIPTION:ACS\,ACTIVIDADES DE CONSTRUCCION (ACS.MC)\nFecha de resultados: 2026-02-26
@@ -343,6 +350,13 @@ CATEGORIES:blue
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2025-11-07
 SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-blue-2025-11-07@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+CATEGORIES:blue
+DESCRIPTION:Moelis & Company (MC)\nFecha de resultados: 2026-02-11
+SUMMARY:💰Result – Moelis & Company
+UID:MC-blue-2026-02-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260121
