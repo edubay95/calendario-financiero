@@ -93,6 +93,13 @@ SUMMARY:💰Result – American Tower Corporation (REI
 UID:AMT-blue-2026-02-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+CATEGORIES:blue
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-01-27
+SUMMARY:💰Result – NextEra Energy\, Inc.
+UID:NEE-blue-2026-01-27@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
 CATEGORIES:blue
 DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-02-05
@@ -282,13 +289,6 @@ SUMMARY:💰Result – 3M Company
 UID:MMM-blue-2025-10-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260226
-CATEGORIES:blue
-DESCRIPTION:VIDRALA\, S.A. (VID.MC)\nFecha de resultados: 2026-02-26
-SUMMARY:💰Result – VIDRALA\, S.A.
-UID:VID.MC-blue-2026-02-26@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251105
 CATEGORIES:blue
 DESCRIPTION:Fortinet\, Inc. (FTNT)\nFecha de resultados: 2025-11-05
@@ -345,6 +345,13 @@ SUMMARY:💰Result – Verizon Communications Inc.
 UID:VZ-blue-2026-01-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+CATEGORIES:blue
+DESCRIPTION:VIDRALA\, S.A. (VID.MC)\nFecha de resultados: 2026-02-25
+SUMMARY:💰Result – VIDRALA\, S.A.
+UID:VID.MC-blue-2026-02-25@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
 CATEGORIES:blue
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2025-11-07
@@ -364,13 +371,6 @@ CATEGORIES:blue
 DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de resultados: 2026-01-21
 SUMMARY:💰Result – Johnson & Johnson
 UID:JNJ-blue-2026-01-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260123
-CATEGORIES:blue
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-01-23
-SUMMARY:💰Result – NextEra Energy\, Inc.
-UID:NEE-blue-2026-01-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251029
