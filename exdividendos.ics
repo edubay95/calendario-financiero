@@ -44,13 +44,6 @@ SUMMARY:📅Ex-Div – BANCO SANTANDER S.A.
 UID:SAN.MC-orange-2025-10-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251014
-CATEGORIES:orange
-DESCRIPTION:MIQUEL Y COSTAS & MIQUEL\, S.A. (MCM.MC)\nFecha Ex-Dividendo (corte): 2025-10-14
-SUMMARY:📅Ex-Div – MIQUEL Y COSTAS & MIQUEL\, S.A.
-UID:MCM.MC-orange-2025-10-14@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260105
 CATEGORIES:orange
 DESCRIPTION:CIE AUTOMOTIVE\, S.A. (CIE.MC)\nFecha Ex-Dividendo (corte): 2026-01-05
@@ -210,6 +203,13 @@ CATEGORIES:orange
 DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha Ex-Dividendo (corte): 2025-12-15
 SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
 UID:TROW-orange-2025-12-15@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260130
+CATEGORIES:orange
+DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-01-30
+SUMMARY:📅Ex-Div – Realty Income Corporation
+UID:O-orange-2026-01-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251125

@@ -9,11 +9,11 @@ SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-blue-2026-02-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260302
+DTSTART;VALUE=DATE:20260204
 CATEGORIES:blue
-DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2026-03-02
-SUMMARY:💰Result – AST SpaceMobile\, Inc.
-UID:ASTS-blue-2026-03-02@mi.calendario.financiero.v2
+DESCRIPTION:Moelis & Company (MC)\nFecha de resultados: 2026-02-04
+SUMMARY:💰Result – Moelis & Company
+UID:MC-blue-2026-02-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
@@ -56,6 +56,13 @@ CATEGORIES:blue
 DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2025-11-03
 SUMMARY:💰Result – Realty Income Corporation
 UID:O-blue-2025-11-03@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+CATEGORIES:blue
+DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2026-03-02
+SUMMARY:💰Result – AST SpaceMobile\, Inc.
+UID:ASTS-blue-2026-03-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260128
@@ -112,13 +119,6 @@ CATEGORIES:blue
 DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2026-01-30
 SUMMARY:💰Result – CAIXABANK\, S.A.
 UID:CABK.MC-blue-2026-01-30@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251014
-CATEGORIES:blue
-DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de resultados: 2025-10-14
-SUMMARY:💰Result – Johnson & Johnson
-UID:JNJ-blue-2025-10-14@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251023
@@ -357,13 +357,6 @@ CATEGORIES:blue
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2025-11-07
 SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-blue-2025-11-07@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260211
-CATEGORIES:blue
-DESCRIPTION:Moelis & Company (MC)\nFecha de resultados: 2026-02-11
-SUMMARY:💰Result – Moelis & Company
-UID:MC-blue-2026-02-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260121
