@@ -44,13 +44,6 @@ SUMMARY:💰Result – Blackstone Inc.
 UID:BX-blue-2026-01-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260211
-CATEGORIES:blue
-DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-02-11
-SUMMARY:💰Result – CVS Health Corporation
-UID:CVS-blue-2026-02-11@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251103
 CATEGORIES:blue
 DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2025-11-03
@@ -142,6 +135,13 @@ SUMMARY:💰Result – Altria Group\, Inc.
 UID:MO-blue-2025-10-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260210
+CATEGORIES:blue
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-02-10
+SUMMARY:💰Result – CVS Health Corporation
+UID:CVS-blue-2026-02-10@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251028
 CATEGORIES:blue
 DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2025-10-28
@@ -196,13 +196,6 @@ CATEGORIES:blue
 DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de resultados: 2025-10-28
 SUMMARY:💰Result – American Tower Corporation (REI
 UID:AMT-blue-2025-10-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260223
-CATEGORIES:blue
-DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-02-23
-SUMMARY:💰Result – Realty Income Corporation
-UID:O-blue-2026-02-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260129
@@ -378,6 +371,13 @@ CATEGORIES:blue
 DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de resultados: 2026-02-25
 SUMMARY:💰Result – DIAGEO PLC ORD 28 101/108P
 UID:DGE.L-blue-2026-02-25@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+CATEGORIES:blue
+DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-03-05
+SUMMARY:💰Result – Realty Income Corporation
+UID:O-blue-2026-03-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260225
