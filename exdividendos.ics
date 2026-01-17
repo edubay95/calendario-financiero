@@ -72,13 +72,6 @@ SUMMARY:📅Ex-Div – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-orange-2026-01-14@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251016
-CATEGORIES:orange
-DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha Ex-Dividendo (corte): 2025-10-16
-SUMMARY:📅Ex-Div – DIAGEO PLC ORD 28 101/108P
-UID:DGE.L-orange-2025-10-16@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251128
 CATEGORIES:orange
 DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha Ex-Dividendo (corte): 2025-11-28
