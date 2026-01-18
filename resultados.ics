@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260302
+DTSTART;VALUE=DATE:20260205
 CATEGORIES:blue
-DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2026-03-02
-SUMMARY:💰Result – AST SpaceMobile\, Inc.
-UID:ASTS-blue-2026-03-02@mi.calendario.financiero.v2
+DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha de resultados: 2026-02-05
+SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
+UID:LOG.MC-blue-2026-02-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260204
@@ -49,6 +49,13 @@ CATEGORIES:blue
 DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2025-11-03
 SUMMARY:💰Result – Realty Income Corporation
 UID:O-blue-2025-11-03@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+CATEGORIES:blue
+DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2026-03-02
+SUMMARY:💰Result – AST SpaceMobile\, Inc.
+UID:ASTS-blue-2026-03-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260128
