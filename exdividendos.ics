@@ -212,6 +212,13 @@ SUMMARY:📅Ex-Div – Johnson & Johnson
 UID:JNJ-orange-2025-11-25@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+CATEGORIES:orange
+DESCRIPTION:ACS\,ACTIVIDADES DE CONSTRUCCION (ACS.MC)\nFecha Ex-Dividendo (corte): 2026-01-21
+SUMMARY:📅Ex-Div – ACS\,ACTIVIDADES DE CONSTRUCCION
+UID:ACS.MC-orange-2026-01-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251226
 CATEGORIES:orange
 DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2025-12-26
