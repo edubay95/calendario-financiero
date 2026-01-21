@@ -296,13 +296,6 @@ SUMMARY:💰Result – Fortinet\, Inc.
 UID:FTNT-blue-2025-11-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260120
-CATEGORIES:blue
-DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-01-20
-SUMMARY:💰Result – 3M Company
-UID:MMM-blue-2026-01-20@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251103
 CATEGORIES:blue
 DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2025-11-03
