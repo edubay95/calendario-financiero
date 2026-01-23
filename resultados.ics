@@ -135,6 +135,13 @@ SUMMARY:💰Result – BANCO SANTANDER S.A.
 UID:SAN.MC-blue-2025-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+CATEGORIES:blue
+DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-02-24
+SUMMARY:💰Result – Realty Income Corporation
+UID:O-blue-2026-02-24@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
 CATEGORIES:blue
 DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2025-10-30
@@ -203,13 +210,6 @@ CATEGORIES:blue
 DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de resultados: 2025-10-28
 SUMMARY:💰Result – American Tower Corporation (REI
 UID:AMT-blue-2025-10-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260223
-CATEGORIES:blue
-DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-02-23
-SUMMARY:💰Result – Realty Income Corporation
-UID:O-blue-2026-02-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260129
@@ -357,6 +357,20 @@ CATEGORIES:blue
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2025-11-07
 SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-blue-2025-11-07@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+CATEGORIES:blue
+DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de resultados: 2026-01-21
+SUMMARY:💰Result – Johnson & Johnson
+UID:JNJ-blue-2026-01-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260414
+CATEGORIES:blue
+DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de resultados: 2026-04-14
+SUMMARY:💰Result – Johnson & Johnson
+UID:JNJ-blue-2026-04-14@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251029
