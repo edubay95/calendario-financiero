@@ -93,13 +93,6 @@ SUMMARY:💰Result – American Tower Corporation (REI
 UID:AMT-blue-2026-02-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260127
-CATEGORIES:blue
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-01-27
-SUMMARY:💰Result – NextEra Energy\, Inc.
-UID:NEE-blue-2026-01-27@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
 CATEGORIES:blue
 DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-02-05
