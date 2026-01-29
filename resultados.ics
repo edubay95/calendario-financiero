@@ -65,13 +65,6 @@ SUMMARY:💰Result – Microsoft Corporation
 UID:MSFT-blue-2026-01-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251028
-CATEGORIES:blue
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2025-10-28
-SUMMARY:💰Result – NextEra Energy\, Inc.
-UID:NEE-blue-2025-10-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
 CATEGORIES:blue
 DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2025-10-31
@@ -91,6 +84,13 @@ CATEGORIES:blue
 DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de resultados: 2026-02-24
 SUMMARY:💰Result – American Tower Corporation (REI
 UID:AMT-blue-2026-02-24@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+CATEGORIES:blue
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-01-27
+SUMMARY:💰Result – NextEra Energy\, Inc.
+UID:NEE-blue-2026-01-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
@@ -142,13 +142,6 @@ SUMMARY:💰Result – CVS Health Corporation
 UID:CVS-blue-2026-02-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251028
-CATEGORIES:blue
-DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2025-10-28
-SUMMARY:💰Result – ACCIONES IBERDROLA
-UID:IBE.MC-blue-2025-10-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260212
 CATEGORIES:blue
 DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2026-02-12
@@ -189,13 +182,6 @@ CATEGORIES:blue
 DESCRIPTION:HERMES INTL (RMS.PA)\nFecha de resultados: 2026-02-12
 SUMMARY:💰Result – HERMES INTL
 UID:RMS.PA-blue-2026-02-12@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251028
-CATEGORIES:blue
-DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de resultados: 2025-10-28
-SUMMARY:💰Result – American Tower Corporation (REI
-UID:AMT-blue-2025-10-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260129
@@ -343,6 +329,13 @@ CATEGORIES:blue
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2025-11-07
 SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-blue-2025-11-07@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260422
+CATEGORIES:blue
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-04-22
+SUMMARY:💰Result – NextEra Energy\, Inc.
+UID:NEE-blue-2026-04-22@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260121
