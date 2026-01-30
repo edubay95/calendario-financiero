@@ -30,11 +30,11 @@ SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-02-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251029
+DTSTART;VALUE=DATE:20260302
 CATEGORIES:blue
-DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2025-10-29
-SUMMARY:💰Result – Microsoft Corporation
-UID:MSFT-blue-2025-10-29@mi.calendario.financiero.v2
+DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2026-03-02
+SUMMARY:💰Result – AST SpaceMobile\, Inc.
+UID:ASTS-blue-2026-03-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260129
@@ -51,13 +51,6 @@ SUMMARY:💰Result – Realty Income Corporation
 UID:O-blue-2025-11-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260302
-CATEGORIES:blue
-DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2026-03-02
-SUMMARY:💰Result – AST SpaceMobile\, Inc.
-UID:ASTS-blue-2026-03-02@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260128
 CATEGORIES:blue
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-01-28
@@ -70,13 +63,6 @@ CATEGORIES:blue
 DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2025-10-31
 SUMMARY:💰Result – CAIXABANK\, S.A.
 UID:CABK.MC-blue-2025-10-31@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251029
-CATEGORIES:blue
-DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2025-10-29
-SUMMARY:💰Result – Verizon Communications Inc.
-UID:VZ-blue-2025-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260224
@@ -114,13 +100,6 @@ SUMMARY:💰Result – 3M Company
 UID:MMM-blue-2026-04-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251029
-CATEGORIES:blue
-DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2025-10-29
-SUMMARY:💰Result – BANCO SANTANDER S.A.
-UID:SAN.MC-blue-2025-10-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260224
 CATEGORIES:blue
 DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-02-24
@@ -154,13 +133,6 @@ CATEGORIES:blue
 DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-03-11
 SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-blue-2026-03-11@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251029
-CATEGORIES:blue
-DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2025-10-29
-SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
-UID:BXMT-blue-2025-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251125
@@ -233,13 +205,6 @@ SUMMARY:💰Result – The Hershey Company
 UID:HSY-blue-2025-10-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251029
-CATEGORIES:blue
-DESCRIPTION:Moelis & Company (MC)\nFecha de resultados: 2025-10-29
-SUMMARY:💰Result – Moelis & Company
-UID:MC-blue-2025-10-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260226
 CATEGORIES:blue
 DESCRIPTION:ACS\,ACTIVIDADES DE CONSTRUCCION (ACS.MC)\nFecha de resultados: 2026-02-26
@@ -252,6 +217,13 @@ CATEGORIES:blue
 DESCRIPTION:REDEIA CORPORACION\, S.A. (RED.MC)\nFecha de resultados: 2026-02-25
 SUMMARY:💰Result – REDEIA CORPORACION\, S.A.
 UID:RED.MC-blue-2026-02-25@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260429
+CATEGORIES:blue
+DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2026-04-29
+SUMMARY:💰Result – Meta Platforms\, Inc.
+UID:META-blue-2026-04-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251104
@@ -303,6 +275,13 @@ SUMMARY:💰Result – TELEFONICA\,S.A.
 UID:TEF.MC-blue-2026-02-25@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260429
+CATEGORIES:blue
+DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-04-29
+SUMMARY:💰Result – Microsoft Corporation
+UID:MSFT-blue-2026-04-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260204
 CATEGORIES:blue
 DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2026-02-04
@@ -352,13 +331,6 @@ SUMMARY:💰Result – Johnson & Johnson
 UID:JNJ-blue-2026-04-14@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251029
-CATEGORIES:blue
-DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2025-10-29
-SUMMARY:💰Result – CVS Health Corporation
-UID:CVS-blue-2025-10-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260225
 CATEGORIES:blue
 DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de resultados: 2026-02-25
@@ -371,13 +343,6 @@ CATEGORIES:blue
 DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2026-02-25
 SUMMARY:💰Result – ACCIONES IBERDROLA
 UID:IBE.MC-blue-2026-02-25@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251029
-CATEGORIES:blue
-DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2025-10-29
-SUMMARY:💰Result – Meta Platforms\, Inc.
-UID:META-blue-2025-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260128
