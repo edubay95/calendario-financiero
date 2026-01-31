@@ -16,13 +16,6 @@ SUMMARY:📅Ex-Div – Blackstone Inc.
 UID:BX-orange-2025-11-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251215
-CATEGORIES:orange
-DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha Ex-Dividendo (corte): 2025-12-15
-SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
-UID:META-orange-2025-12-15@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260112
 CATEGORIES:orange
 DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha Ex-Dividendo (corte): 2026-01-12
@@ -30,18 +23,18 @@ SUMMARY:📅Ex-Div – Verizon Communications Inc.
 UID:VZ-orange-2026-01-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251215
+CATEGORIES:orange
+DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha Ex-Dividendo (corte): 2025-12-15
+SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
+UID:META-orange-2025-12-15@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251121
 CATEGORIES:orange
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2025-11-21
 SUMMARY:📅Ex-Div – NextEra Energy\, Inc.
 UID:NEE-orange-2025-11-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251030
-CATEGORIES:orange
-DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha Ex-Dividendo (corte): 2025-10-30
-SUMMARY:📅Ex-Div – BANCO SANTANDER S.A.
-UID:SAN.MC-orange-2025-10-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260105
@@ -112,13 +105,6 @@ CATEGORIES:orange
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha Ex-Dividendo (corte): 2025-11-20
 SUMMARY:📅Ex-Div – Microsoft Corporation
 UID:MSFT-orange-2025-11-20@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251030
-CATEGORIES:orange
-DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha Ex-Dividendo (corte): 2025-10-30
-SUMMARY:📅Ex-Div – INDUSTRIA DE DISE...O TEXTIL S.
-UID:ITX.MC-orange-2025-10-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251215
