@@ -51,6 +51,13 @@ SUMMARY:💰Result – Realty Income Corporation
 UID:O-blue-2025-11-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260421
+CATEGORIES:blue
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2026-04-21
+SUMMARY:💰Result – Verizon Communications Inc.
+UID:VZ-blue-2026-04-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260128
 CATEGORIES:blue
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-01-28
@@ -63,13 +70,6 @@ CATEGORIES:blue
 DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2026-04-16
 SUMMARY:💰Result – Blackstone Inc.
 UID:BX-blue-2026-04-16@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251031
-CATEGORIES:blue
-DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2025-10-31
-SUMMARY:💰Result – CAIXABANK\, S.A.
-UID:CABK.MC-blue-2025-10-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260224
@@ -282,6 +282,13 @@ SUMMARY:💰Result – BANCO SANTANDER S.A.
 UID:SAN.MC-blue-2026-02-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260130
+CATEGORIES:blue
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2026-01-30
+SUMMARY:💰Result – Verizon Communications Inc.
+UID:VZ-blue-2026-01-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260225
 CATEGORIES:blue
 DESCRIPTION:VIDRALA\, S.A. (VID.MC)\nFecha de resultados: 2026-02-25
@@ -345,11 +352,11 @@ SUMMARY:💰Result – Meta Platforms\, Inc.
 UID:META-blue-2026-01-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260212
+DTSTART;VALUE=DATE:20260430
 CATEGORIES:blue
-DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de resultados: 2026-02-12
-SUMMARY:💰Result – BRITISH AMERICAN TOBACCO PLC OR
-UID:BATS.L-blue-2026-02-12@mi.calendario.financiero.v2
+DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2026-04-30
+SUMMARY:💰Result – CAIXABANK\, S.A.
+UID:CABK.MC-blue-2026-04-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251106
@@ -366,11 +373,11 @@ SUMMARY:💰Result – T. Rowe Price Group\, Inc.
 UID:TROW-blue-2026-02-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251031
+DTSTART;VALUE=DATE:20260212
 CATEGORIES:blue
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2025-10-31
-SUMMARY:💰Result – T. Rowe Price Group\, Inc.
-UID:TROW-blue-2025-10-31@mi.calendario.financiero.v2
+DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de resultados: 2026-02-12
+SUMMARY:💰Result – BRITISH AMERICAN TOBACCO PLC OR
+UID:BATS.L-blue-2026-02-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251202
