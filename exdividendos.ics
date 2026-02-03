@@ -226,6 +226,13 @@ SUMMARY:📅Ex-Div – CAIXABANK\, S.A.
 UID:CABK.MC-orange-2025-11-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260209
+CATEGORIES:orange
+DESCRIPTION:Blackstone Inc. (BX)\nFecha Ex-Dividendo (corte): 2026-02-09
+SUMMARY:📅Ex-Div – Blackstone Inc.
+UID:BX-orange-2026-02-09@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251229
 CATEGORIES:orange
 DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha Ex-Dividendo (corte): 2025-12-29
