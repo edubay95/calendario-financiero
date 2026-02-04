@@ -9,13 +9,6 @@ SUMMARY:📅Ex-Div – Brookfield Corporation
 UID:BN-orange-2025-12-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
-CATEGORIES:orange
-DESCRIPTION:Blackstone Inc. (BX)\nFecha Ex-Dividendo (corte): 2025-11-03
-SUMMARY:📅Ex-Div – Blackstone Inc.
-UID:BX-orange-2025-11-03@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260112
 CATEGORIES:orange
 DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha Ex-Dividendo (corte): 2026-01-12
@@ -35,6 +28,13 @@ CATEGORIES:orange
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2025-11-21
 SUMMARY:📅Ex-Div – NextEra Energy\, Inc.
 UID:NEE-orange-2025-11-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+CATEGORIES:orange
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha Ex-Dividendo (corte): 2026-04-10
+SUMMARY:📅Ex-Div – Verizon Communications Inc.
+UID:VZ-orange-2026-04-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260105

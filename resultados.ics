@@ -44,13 +44,6 @@ SUMMARY:💰Result – Blackstone Inc.
 UID:BX-blue-2026-01-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
-CATEGORIES:blue
-DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2025-11-03
-SUMMARY:💰Result – Realty Income Corporation
-UID:O-blue-2025-11-03@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260421
 CATEGORIES:blue
 DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2026-04-21
@@ -240,13 +233,6 @@ SUMMARY:💰Result – 3M Company
 UID:MMM-blue-2026-01-20@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
-CATEGORIES:blue
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2025-11-03
-SUMMARY:💰Result – Simon Property Group\, Inc.
-UID:SPG-blue-2025-11-03@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260202
 CATEGORIES:blue
 DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-02-02
@@ -336,6 +322,13 @@ CATEGORIES:blue
 DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de resultados: 2026-02-25
 SUMMARY:💰Result – DIAGEO PLC ORD 28 101/108P
 UID:DGE.L-blue-2026-02-25@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260203
+CATEGORIES:blue
+DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2026-02-03
+SUMMARY:💰Result – BANCO SANTANDER S.A.
+UID:SAN.MC-blue-2026-02-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260225
