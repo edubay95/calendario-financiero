@@ -9,18 +9,18 @@ SUMMARY:📅Ex-Div – Brookfield Corporation
 UID:BN-orange-2025-12-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260112
-CATEGORIES:orange
-DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha Ex-Dividendo (corte): 2026-01-12
-SUMMARY:📅Ex-Div – Verizon Communications Inc.
-UID:VZ-orange-2026-01-12@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251215
 CATEGORIES:orange
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha Ex-Dividendo (corte): 2025-12-15
 SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
 UID:META-orange-2025-12-15@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+CATEGORIES:orange
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha Ex-Dividendo (corte): 2026-01-12
+SUMMARY:📅Ex-Div – Verizon Communications Inc.
+UID:VZ-orange-2026-01-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251121
@@ -49,6 +49,13 @@ CATEGORIES:orange
 DESCRIPTION:REDEIA CORPORACION\, S.A. (RED.MC)\nFecha Ex-Dividendo (corte): 2026-01-05
 SUMMARY:📅Ex-Div – REDEIA CORPORACION\, S.A.
 UID:RED.MC-orange-2026-01-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+CATEGORIES:orange
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha Ex-Dividendo (corte): 2026-03-10
+SUMMARY:📅Ex-Div – Simon Property Group\, Inc.
+UID:SPG-orange-2026-03-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
@@ -93,11 +100,11 @@ SUMMARY:📅Ex-Div – 3M Company
 UID:MMM-orange-2025-11-14@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251110
+DTSTART;VALUE=DATE:20260213
 CATEGORIES:orange
-DESCRIPTION:Moelis & Company (MC)\nFecha Ex-Dividendo (corte): 2025-11-10
-SUMMARY:📅Ex-Div – Moelis & Company
-UID:MC-orange-2025-11-10@mi.calendario.financiero.v2
+DESCRIPTION:3M Company (MMM)\nFecha Ex-Dividendo (corte): 2026-02-13
+SUMMARY:📅Ex-Div – 3M Company
+UID:MMM-orange-2026-02-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251120
@@ -107,11 +114,11 @@ SUMMARY:📅Ex-Div – Microsoft Corporation
 UID:MSFT-orange-2025-11-20@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251215
+DTSTART;VALUE=DATE:20251119
 CATEGORIES:orange
-DESCRIPTION:MIQUEL Y COSTAS & MIQUEL\, S.A. (MCM.MC)\nFecha Ex-Dividendo (corte): 2025-12-15
-SUMMARY:📅Ex-Div – MIQUEL Y COSTAS & MIQUEL\, S.A.
-UID:MCM.MC-orange-2025-12-15@mi.calendario.financiero.v2
+DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha Ex-Dividendo (corte): 2025-11-19
+SUMMARY:📅Ex-Div – PayPal Holdings\, Inc.
+UID:PYPL-orange-2025-11-19@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251226
