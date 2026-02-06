@@ -72,18 +72,18 @@ SUMMARY:💰Result – NextEra Energy\, Inc.
 UID:NEE-blue-2026-01-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260205
-CATEGORIES:blue
-DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-02-05
-SUMMARY:💰Result – The Hershey Company
-UID:HSY-blue-2026-02-05@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260421
 CATEGORIES:blue
 DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-04-21
 SUMMARY:💰Result – 3M Company
 UID:MMM-blue-2026-04-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+CATEGORIES:blue
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-05-01
+SUMMARY:💰Result – T. Rowe Price Group\, Inc.
+UID:TROW-blue-2026-05-01@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260224
@@ -149,13 +149,6 @@ SUMMARY:💰Result – AST SpaceMobile\, Inc.
 UID:ASTS-blue-2025-11-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260205
-CATEGORIES:blue
-DESCRIPTION:Fortinet\, Inc. (FTNT)\nFecha de resultados: 2026-02-05
-SUMMARY:💰Result – Fortinet\, Inc.
-UID:FTNT-blue-2026-02-05@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260129
 CATEGORIES:blue
 DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2026-01-29
@@ -205,13 +198,6 @@ SUMMARY:💰Result – Meta Platforms\, Inc.
 UID:META-blue-2026-04-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251105
-CATEGORIES:blue
-DESCRIPTION:Fortinet\, Inc. (FTNT)\nFecha de resultados: 2025-11-05
-SUMMARY:💰Result – Fortinet\, Inc.
-UID:FTNT-blue-2025-11-05@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260120
 CATEGORIES:blue
 DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-01-20
@@ -231,6 +217,13 @@ CATEGORIES:blue
 DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-02-02
 SUMMARY:💰Result – Simon Property Group\, Inc.
 UID:SPG-blue-2026-02-02@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260505
+CATEGORIES:blue
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-05-05
+SUMMARY:💰Result – Brookfield Asset Management Inc
+UID:BAM-blue-2026-05-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
@@ -350,6 +343,13 @@ CATEGORIES:blue
 DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de resultados: 2025-11-06
 SUMMARY:💰Result – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-blue-2025-11-06@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+CATEGORIES:blue
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-02-04
+SUMMARY:💰Result – T. Rowe Price Group\, Inc.
+UID:TROW-blue-2026-02-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260212
