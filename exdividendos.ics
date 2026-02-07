@@ -9,18 +9,18 @@ SUMMARY:📅Ex-Div – Brookfield Corporation
 UID:BN-orange-2025-12-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260112
-CATEGORIES:orange
-DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha Ex-Dividendo (corte): 2026-01-12
-SUMMARY:📅Ex-Div – Verizon Communications Inc.
-UID:VZ-orange-2026-01-12@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251215
 CATEGORIES:orange
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha Ex-Dividendo (corte): 2025-12-15
 SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
 UID:META-orange-2025-12-15@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+CATEGORIES:orange
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha Ex-Dividendo (corte): 2026-01-12
+SUMMARY:📅Ex-Div – Verizon Communications Inc.
+UID:VZ-orange-2026-01-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251121
@@ -58,6 +58,13 @@ SUMMARY:📅Ex-Div – Simon Property Group\, Inc.
 UID:SPG-orange-2026-03-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+CATEGORIES:orange
+DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha Ex-Dividendo (corte): 2026-02-24
+SUMMARY:📅Ex-Div – COMPA...IA DE DISTRIBUCION INTE
+UID:LOG.MC-orange-2026-02-24@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2025-12-31
@@ -84,6 +91,13 @@ CATEGORIES:orange
 DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha Ex-Dividendo (corte): 2025-11-28
 SUMMARY:📅Ex-Div – Brookfield Asset Management Inc
 UID:BAM-orange-2025-11-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+CATEGORIES:orange
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha Ex-Dividendo (corte): 2026-02-27
+SUMMARY:📅Ex-Div – Brookfield Asset Management Inc
+UID:BAM-orange-2026-02-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251210
@@ -119,6 +133,13 @@ CATEGORIES:orange
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha Ex-Dividendo (corte): 2025-11-20
 SUMMARY:📅Ex-Div – Microsoft Corporation
 UID:MSFT-orange-2025-11-20@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+CATEGORIES:orange
+DESCRIPTION:The Hershey Company (HSY)\nFecha Ex-Dividendo (corte): 2026-02-17
+SUMMARY:📅Ex-Div – The Hershey Company
+UID:HSY-orange-2026-02-17@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251119
