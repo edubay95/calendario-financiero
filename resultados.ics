@@ -247,13 +247,6 @@ SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-05-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251107
-CATEGORIES:blue
-DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2025-11-07
-SUMMARY:💰Result – Brookfield Asset Management Inc
-UID:BAM-blue-2025-11-07@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260225
 CATEGORIES:blue
 DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2026-02-25
@@ -280,13 +273,6 @@ CATEGORIES:blue
 DESCRIPTION:VIDRALA\, S.A. (VID.MC)\nFecha de resultados: 2026-02-25
 SUMMARY:💰Result – VIDRALA\, S.A.
 UID:VID.MC-blue-2026-02-25@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251107
-CATEGORIES:blue
-DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2025-11-07
-SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
-UID:AMS.MC-blue-2025-11-07@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260422
