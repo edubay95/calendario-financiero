@@ -198,11 +198,25 @@ SUMMARY:📅Ex-Div – CVS Health Corporation
 UID:CVS-orange-2026-01-22@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260317
+CATEGORIES:orange
+DESCRIPTION:Brookfield Corporation (BN)\nFecha Ex-Dividendo (corte): 2026-03-17
+SUMMARY:📅Ex-Div – Brookfield Corporation
+UID:BN-orange-2026-03-17@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 CATEGORIES:orange
 DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha Ex-Dividendo (corte): 2025-12-31
 SUMMARY:📅Ex-Div – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-orange-2025-12-31@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+CATEGORIES:orange
+DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha Ex-Dividendo (corte): 2026-03-16
+SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
+UID:META-orange-2026-03-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251215
@@ -259,6 +273,13 @@ CATEGORIES:orange
 DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha Ex-Dividendo (corte): 2026-01-12
 SUMMARY:📅Ex-Div – ACCIONES IBERDROLA
 UID:IBE.MC-orange-2026-01-12@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+CATEGORIES:orange
+DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha Ex-Dividendo (corte): 2026-03-26
+SUMMARY:📅Ex-Div – BRITISH AMERICAN TOBACCO PLC OR
+UID:BATS.L-orange-2026-03-26@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260209
