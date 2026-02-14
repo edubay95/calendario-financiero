@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+CATEGORIES:orange
+DESCRIPTION:HERMES INTL (RMS.PA)\nFecha Ex-Dividendo (corte): 2026-02-16
+SUMMARY:📅Ex-Div – HERMES INTL
+UID:RMS.PA-orange-2026-02-16@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251216
 CATEGORIES:orange
 DESCRIPTION:Brookfield Corporation (BN)\nFecha Ex-Dividendo (corte): 2025-12-16
@@ -28,6 +35,13 @@ CATEGORIES:orange
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2025-11-21
 SUMMARY:📅Ex-Div – NextEra Energy\, Inc.
 UID:NEE-orange-2025-11-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251229
+CATEGORIES:orange
+DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha Ex-Dividendo (corte): 2025-12-29
+SUMMARY:📅Ex-Div – American Tower Corporation (REI
+UID:AMT-orange-2025-12-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260410
@@ -289,10 +303,10 @@ SUMMARY:📅Ex-Div – Blackstone Inc.
 UID:BX-orange-2026-02-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251229
+DTSTART;VALUE=DATE:20260227
 CATEGORIES:orange
-DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha Ex-Dividendo (corte): 2025-12-29
-SUMMARY:📅Ex-Div – American Tower Corporation (REI
-UID:AMT-orange-2025-12-29@mi.calendario.financiero.v2
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2026-02-27
+SUMMARY:📅Ex-Div – NextEra Energy\, Inc.
+UID:NEE-orange-2026-02-27@mi.calendario.financiero.v2
 END:VEVENT
 END:VCALENDAR
