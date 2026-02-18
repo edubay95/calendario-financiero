@@ -177,13 +177,6 @@ SUMMARY:📅Ex-Div – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-orange-2025-12-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251117
-CATEGORIES:orange
-DESCRIPTION:The Hershey Company (HSY)\nFecha Ex-Dividendo (corte): 2025-11-17
-SUMMARY:📅Ex-Div – The Hershey Company
-UID:HSY-orange-2025-11-17@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260219
 CATEGORIES:orange
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha Ex-Dividendo (corte): 2026-02-19
