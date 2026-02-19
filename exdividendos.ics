@@ -198,6 +198,13 @@ SUMMARY:📅Ex-Div – CVS Health Corporation
 UID:CVS-orange-2026-01-22@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+CATEGORIES:orange
+DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-02-27
+SUMMARY:📅Ex-Div – Realty Income Corporation
+UID:O-orange-2026-02-27@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260317
 CATEGORIES:orange
 DESCRIPTION:Brookfield Corporation (BN)\nFecha Ex-Dividendo (corte): 2026-03-17
