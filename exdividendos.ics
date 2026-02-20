@@ -156,13 +156,6 @@ SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
 UID:TROW-orange-2026-03-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251119
-CATEGORIES:orange
-DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha Ex-Dividendo (corte): 2025-11-19
-SUMMARY:📅Ex-Div – PayPal Holdings\, Inc.
-UID:PYPL-orange-2025-11-19@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251226
 CATEGORIES:orange
 DESCRIPTION:Altria Group\, Inc. (MO)\nFecha Ex-Dividendo (corte): 2025-12-26
