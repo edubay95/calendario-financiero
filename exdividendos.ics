@@ -135,13 +135,6 @@ SUMMARY:📅Ex-Div – 3M Company
 UID:MMM-orange-2026-02-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251120
-CATEGORIES:orange
-DESCRIPTION:Microsoft Corporation (MSFT)\nFecha Ex-Dividendo (corte): 2025-11-20
-SUMMARY:📅Ex-Div – Microsoft Corporation
-UID:MSFT-orange-2025-11-20@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260217
 CATEGORIES:orange
 DESCRIPTION:The Hershey Company (HSY)\nFecha Ex-Dividendo (corte): 2026-02-17
