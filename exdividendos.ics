@@ -275,6 +275,13 @@ SUMMARY:📅Ex-Div – Blackstone Inc.
 UID:BX-orange-2026-02-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+CATEGORIES:orange
+DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha Ex-Dividendo (corte): 2026-04-07
+SUMMARY:📅Ex-Div – CAIXABANK\, S.A.
+UID:CABK.MC-orange-2026-04-07@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
 CATEGORIES:orange
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2026-02-27
