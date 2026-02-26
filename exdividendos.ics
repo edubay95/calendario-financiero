@@ -219,11 +219,11 @@ SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2026-01-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251125
+DTSTART;VALUE=DATE:20260430
 CATEGORIES:orange
-DESCRIPTION:Johnson & Johnson (JNJ)\nFecha Ex-Dividendo (corte): 2025-11-25
-SUMMARY:📅Ex-Div – Johnson & Johnson
-UID:JNJ-orange-2025-11-25@mi.calendario.financiero.v2
+DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha Ex-Dividendo (corte): 2026-04-30
+SUMMARY:📅Ex-Div – BANCO SANTANDER S.A.
+UID:SAN.MC-orange-2026-04-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260121

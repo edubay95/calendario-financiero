@@ -23,6 +23,13 @@ SUMMARY:💰Result – AST SpaceMobile\, Inc.
 UID:ASTS-blue-2026-03-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+CATEGORIES:blue
+DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2026-02-24
+SUMMARY:💰Result – ACCIONES IBERDROLA
+UID:IBE.MC-blue-2026-02-24@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
 CATEGORIES:blue
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2026-02-27
@@ -135,13 +142,6 @@ SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-blue-2026-03-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251125
-CATEGORIES:blue
-DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2025-11-25
-SUMMARY:💰Result – Alibaba Group Holding Limited
-UID:BABA-blue-2025-11-25@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260226
 CATEGORIES:blue
 DESCRIPTION:REDEIA CORPORACION\, S.A. (RED.MC)\nFecha de resultados: 2026-02-26
@@ -161,6 +161,13 @@ CATEGORIES:blue
 DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2026-01-29
 SUMMARY:💰Result – Altria Group\, Inc.
 UID:MO-blue-2026-01-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260514
+CATEGORIES:blue
+DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2026-05-14
+SUMMARY:💰Result – TELEFONICA\,S.A.
+UID:TEF.MC-blue-2026-05-14@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
@@ -212,6 +219,13 @@ SUMMARY:💰Result – Meta Platforms\, Inc.
 UID:META-blue-2026-04-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260504
+CATEGORIES:blue
+DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-05-04
+SUMMARY:💰Result – Realty Income Corporation
+UID:O-blue-2026-05-04@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260120
 CATEGORIES:blue
 DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-01-20
@@ -233,13 +247,6 @@ SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-05-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-CATEGORIES:blue
-DESCRIPTION:ACS\,ACTIVIDADES DE CONSTRUCCION (ACS.MC)\nFecha de resultados: 2026-02-25
-SUMMARY:💰Result – ACS\,ACTIVIDADES DE CONSTRUCCION
-UID:ACS.MC-blue-2026-02-25@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260429
 CATEGORIES:blue
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-04-29
@@ -252,13 +259,6 @@ CATEGORIES:blue
 DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2026-01-30
 SUMMARY:💰Result – Verizon Communications Inc.
 UID:VZ-blue-2026-01-30@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-CATEGORIES:blue
-DESCRIPTION:VIDRALA\, S.A. (VID.MC)\nFecha de resultados: 2026-02-25
-SUMMARY:💰Result – VIDRALA\, S.A.
-UID:VID.MC-blue-2026-02-25@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260422
@@ -303,13 +303,6 @@ SUMMARY:💰Result – Altria Group\, Inc.
 UID:MO-blue-2026-04-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-CATEGORIES:blue
-DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de resultados: 2026-02-25
-SUMMARY:💰Result – DIAGEO PLC ORD 28 101/108P
-UID:DGE.L-blue-2026-02-25@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
 CATEGORIES:blue
 DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2026-02-03
@@ -317,11 +310,11 @@ SUMMARY:💰Result – BANCO SANTANDER S.A.
 UID:SAN.MC-blue-2026-02-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
+DTSTART;VALUE=DATE:20260507
 CATEGORIES:blue
-DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2026-02-25
-SUMMARY:💰Result – ACCIONES IBERDROLA
-UID:IBE.MC-blue-2026-02-25@mi.calendario.financiero.v2
+DESCRIPTION:Fortinet\, Inc. (FTNT)\nFecha de resultados: 2026-05-07
+SUMMARY:💰Result – Fortinet\, Inc.
+UID:FTNT-blue-2026-05-07@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260429
@@ -329,13 +322,6 @@ CATEGORIES:blue
 DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-04-29
 SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-blue-2026-04-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260507
-CATEGORIES:blue
-DESCRIPTION:Fortinet\, Inc. (FTNT)\nFecha de resultados: 2026-05-07
-SUMMARY:💰Result – Fortinet\, Inc.
-UID:FTNT-blue-2026-05-07@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260505
@@ -371,6 +357,13 @@ CATEGORIES:blue
 DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2026-05-07
 SUMMARY:💰Result – Brookfield Corporation
 UID:BN-blue-2026-05-07@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260428
+CATEGORIES:blue
+DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de resultados: 2026-04-28
+SUMMARY:💰Result – American Tower Corporation (REI
+UID:AMT-blue-2026-04-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251202
