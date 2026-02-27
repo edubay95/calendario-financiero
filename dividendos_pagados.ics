@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
 CATEGORIES:green
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2026-03-31\nCantidad: 100 acciones\nDiv x Acc: 2.2000 USD\n--- Cálculo en EUR (FX: 0.8473) ---\nNETO: 130.48 EUR\nBruto: 186.41 EUR\nRet. Origen (30.0%): -55.92 EUR\nRet. España (dif): -0.00 EUR
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2026-03-31\nCantidad: 100 acciones\nDiv x Acc: 2.2000 USD\n--- Cálculo en EUR (FX: 0.8473) ---\nNETO: 130.48 EUR\nBruto: 186.40 EUR\nRet. Origen (30.0%): -55.92 EUR\nRet. España (dif): -0.00 EUR
 SUMMARY:💵Div (130.48€) – Simon Property Group\, Inc.
 UID:SPG-green-2026-03-31@mi.calendario.financiero.v2
 END:VEVENT
@@ -74,8 +74,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251226
 CATEGORIES:green
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de PAGO: 2025-12-26\nCantidad: 180 acciones\nDiv x Acc: 1.0600 USD\n--- Cálculo en EUR (FX: 0.8473) ---\nNETO: 113.17 EUR\nBruto: 161.67 EUR\nRet. Origen (30.0%): -48.50 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (113.17€) – Altria Group\, Inc.
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de PAGO: 2025-12-26\nCantidad: 180 acciones\nDiv x Acc: 1.0600 USD\n--- Cálculo en EUR (FX: 0.8473) ---\nNETO: 113.16 EUR\nBruto: 161.66 EUR\nRet. Origen (30.0%): -48.50 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (113.16€) – Altria Group\, Inc.
 UID:MO-green-2025-12-26@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -102,8 +102,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251128
 CATEGORIES:green
-DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de PAGO: 2025-11-28\nCantidad: 115 acciones\nDiv x Acc: 0.4380 USD\n--- Cálculo en EUR (FX: 0.8473) ---\nNETO: 29.88 EUR\nBruto: 42.68 EUR\nRet. Origen (30.0%): -12.80 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (29.88€) – Brookfield Asset Management Inc
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de PAGO: 2025-11-28\nCantidad: 115 acciones\nDiv x Acc: 0.4380 USD\n--- Cálculo en EUR (FX: 0.8473) ---\nNETO: 29.87 EUR\nBruto: 42.68 EUR\nRet. Origen (30.0%): -12.80 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (29.87€) – Brookfield Asset Management Inc
 UID:BAM-green-2025-11-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -165,8 +165,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260109
 CATEGORIES:green
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de PAGO: 2026-01-09\nCantidad: 180 acciones\nDiv x Acc: 1.0600 USD\n--- Cálculo en EUR (FX: 0.8473) ---\nNETO: 113.17 EUR\nBruto: 161.67 EUR\nRet. Origen (30.0%): -48.50 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (113.17€) – Altria Group\, Inc.
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de PAGO: 2026-01-09\nCantidad: 180 acciones\nDiv x Acc: 1.0600 USD\n--- Cálculo en EUR (FX: 0.8473) ---\nNETO: 113.16 EUR\nBruto: 161.66 EUR\nRet. Origen (30.0%): -48.50 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (113.16€) – Altria Group\, Inc.
 UID:MO-green-2026-01-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -228,15 +228,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251229
 CATEGORIES:green
-DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de PAGO: 2025-12-29\nCantidad: 330 acciones\nDiv x Acc: 0.6006 GBP\n--- Cálculo en EUR (FX: 1.1475) ---\nNETO: 184.22 EUR\nBruto: 227.43 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -43.21 EUR
-SUMMARY:💵Div (184.22€) – BRITISH AMERICAN TOBACCO PLC OR
+DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de PAGO: 2025-12-29\nCantidad: 330 acciones\nDiv x Acc: 0.6006 GBP\n--- Cálculo en EUR (FX: 1.1445) ---\nNETO: 183.74 EUR\nBruto: 226.84 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -43.10 EUR
+SUMMARY:💵Div (183.74€) – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-green-2025-12-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251215
 CATEGORIES:green
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2025-12-15\nCantidad: 100 acciones\nDiv x Acc: 1.2700 USD\n--- Cálculo en EUR (FX: 0.8473) ---\nNETO: 75.33 EUR\nBruto: 107.61 EUR\nRet. Origen (30.0%): -32.28 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (75.33€) – T. Rowe Price Group\, Inc.
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2025-12-15\nCantidad: 100 acciones\nDiv x Acc: 1.2700 USD\n--- Cálculo en EUR (FX: 0.8473) ---\nNETO: 75.32 EUR\nBruto: 107.61 EUR\nRet. Origen (30.0%): -32.28 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (75.32€) – T. Rowe Price Group\, Inc.
 UID:TROW-green-2025-12-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -270,8 +270,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
 CATEGORIES:green
-DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de PAGO: 2026-03-31\nCantidad: 115 acciones\nDiv x Acc: 0.4380 USD\n--- Cálculo en EUR (FX: 0.8473) ---\nNETO: 29.88 EUR\nBruto: 42.68 EUR\nRet. Origen (30.0%): -12.80 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (29.88€) – Brookfield Asset Management Inc
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de PAGO: 2026-03-31\nCantidad: 115 acciones\nDiv x Acc: 0.4380 USD\n--- Cálculo en EUR (FX: 0.8473) ---\nNETO: 29.87 EUR\nBruto: 42.68 EUR\nRet. Origen (30.0%): -12.80 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (29.87€) – Brookfield Asset Management Inc
 UID:BAM-green-2026-03-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -312,15 +312,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251210
 CATEGORIES:green
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2025-12-10\nCantidad: 100 acciones\nDiv x Acc: 2.2000 USD\n--- Cálculo en EUR (FX: 0.8473) ---\nNETO: 130.48 EUR\nBruto: 186.41 EUR\nRet. Origen (30.0%): -55.92 EUR\nRet. España (dif): -0.00 EUR
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2025-12-10\nCantidad: 100 acciones\nDiv x Acc: 2.2000 USD\n--- Cálculo en EUR (FX: 0.8473) ---\nNETO: 130.48 EUR\nBruto: 186.40 EUR\nRet. Origen (30.0%): -55.92 EUR\nRet. España (dif): -0.00 EUR
 SUMMARY:💵Div (130.48€) – Simon Property Group\, Inc.
 UID:SPG-green-2025-12-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260330
 CATEGORIES:green
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2026-03-30\nCantidad: 100 acciones\nDiv x Acc: 1.2700 USD\n--- Cálculo en EUR (FX: 0.8473) ---\nNETO: 75.33 EUR\nBruto: 107.61 EUR\nRet. Origen (30.0%): -32.28 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (75.33€) – T. Rowe Price Group\, Inc.
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2026-03-30\nCantidad: 100 acciones\nDiv x Acc: 1.2700 USD\n--- Cálculo en EUR (FX: 0.8473) ---\nNETO: 75.32 EUR\nBruto: 107.61 EUR\nRet. Origen (30.0%): -32.28 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (75.32€) – T. Rowe Price Group\, Inc.
 UID:TROW-green-2026-03-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
