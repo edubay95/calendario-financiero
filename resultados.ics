@@ -107,6 +107,20 @@ SUMMARY:💰Result – 3M Company
 UID:MMM-blue-2026-04-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+CATEGORIES:blue
+DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2026-05-08
+SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
+UID:AMS.MC-blue-2026-05-08@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+CATEGORIES:blue
+DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2026-02-26
+SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
+UID:AMS.MC-blue-2026-02-26@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260501
 CATEGORIES:blue
 DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-05-01
@@ -114,18 +128,18 @@ SUMMARY:💰Result – T. Rowe Price Group\, Inc.
 UID:TROW-blue-2026-05-01@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260224
-CATEGORIES:blue
-DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-02-24
-SUMMARY:💰Result – Realty Income Corporation
-UID:O-blue-2026-02-24@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260210
 CATEGORIES:blue
 DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-02-10
 SUMMARY:💰Result – CVS Health Corporation
 UID:CVS-blue-2026-02-10@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+CATEGORIES:blue
+DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-02-24
+SUMMARY:💰Result – Realty Income Corporation
+UID:O-blue-2026-02-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260311
