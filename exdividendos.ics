@@ -177,6 +177,13 @@ SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2026-02-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260414
+CATEGORIES:orange
+DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha Ex-Dividendo (corte): 2026-04-14
+SUMMARY:📅Ex-Div – American Tower Corporation (REI
+UID:AMT-orange-2026-04-14@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260317
 CATEGORIES:orange
 DESCRIPTION:Brookfield Corporation (BN)\nFecha Ex-Dividendo (corte): 2026-03-17
