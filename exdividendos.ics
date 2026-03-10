@@ -86,6 +86,13 @@ SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2025-12-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+CATEGORIES:orange
+DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2026-04-24
+SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
+UID:PBR-A-orange-2026-04-24@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260304
 CATEGORIES:orange
 DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha Ex-Dividendo (corte): 2026-03-04
@@ -231,13 +238,6 @@ CATEGORIES:orange
 DESCRIPTION:ACS\,ACTIVIDADES DE CONSTRUCCION (ACS.MC)\nFecha Ex-Dividendo (corte): 2026-01-21
 SUMMARY:📅Ex-Div – ACS\,ACTIVIDADES DE CONSTRUCCION
 UID:ACS.MC-orange-2026-01-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251226
-CATEGORIES:orange
-DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2025-12-26
-SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
-UID:PBR-A-orange-2025-12-26@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260224
