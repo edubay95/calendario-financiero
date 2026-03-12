@@ -65,6 +65,13 @@ SUMMARY:📅Ex-Div – REDEIA CORPORACION\, S.A.
 UID:RED.MC-orange-2026-01-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260209
+CATEGORIES:orange
+DESCRIPTION:Blackstone Inc. (BX)\nFecha Ex-Dividendo (corte): 2026-02-09
+SUMMARY:📅Ex-Div – Blackstone Inc.
+UID:BX-orange-2026-02-09@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260310
 CATEGORIES:orange
 DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha Ex-Dividendo (corte): 2026-03-10
@@ -142,6 +149,13 @@ SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
 UID:TROW-orange-2026-03-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260421
+CATEGORIES:orange
+DESCRIPTION:HERMES INTL (RMS.PA)\nFecha Ex-Dividendo (corte): 2026-04-21
+SUMMARY:📅Ex-Div – HERMES INTL
+UID:RMS.PA-orange-2026-04-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251226
 CATEGORIES:orange
 DESCRIPTION:Altria Group\, Inc. (MO)\nFecha Ex-Dividendo (corte): 2025-12-26
@@ -212,11 +226,11 @@ SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
 UID:TROW-orange-2025-12-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260416
+DTSTART;VALUE=DATE:20260130
 CATEGORIES:orange
-DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha Ex-Dividendo (corte): 2026-04-16
-SUMMARY:📅Ex-Div – DIAGEO PLC ORD 28 101/108P
-UID:DGE.L-orange-2026-04-16@mi.calendario.financiero.v2
+DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-01-30
+SUMMARY:📅Ex-Div – Realty Income Corporation
+UID:O-orange-2026-01-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
@@ -224,6 +238,13 @@ CATEGORIES:orange
 DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha Ex-Dividendo (corte): 2026-04-30
 SUMMARY:📅Ex-Div – BANCO SANTANDER S.A.
 UID:SAN.MC-orange-2026-04-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260416
+CATEGORIES:orange
+DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha Ex-Dividendo (corte): 2026-04-16
+SUMMARY:📅Ex-Div – DIAGEO PLC ORD 28 101/108P
+UID:DGE.L-orange-2026-04-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260121
@@ -261,11 +282,11 @@ SUMMARY:📅Ex-Div – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-orange-2026-03-26@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260209
+DTSTART;VALUE=DATE:20260521
 CATEGORIES:orange
-DESCRIPTION:Blackstone Inc. (BX)\nFecha Ex-Dividendo (corte): 2026-02-09
-SUMMARY:📅Ex-Div – Blackstone Inc.
-UID:BX-orange-2026-02-09@mi.calendario.financiero.v2
+DESCRIPTION:Microsoft Corporation (MSFT)\nFecha Ex-Dividendo (corte): 2026-05-21
+SUMMARY:📅Ex-Div – Microsoft Corporation
+UID:MSFT-orange-2026-05-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260407
