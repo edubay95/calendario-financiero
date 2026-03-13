@@ -198,11 +198,11 @@ SUMMARY:💰Result – CAIXABANK\, S.A.
 UID:CABK.MC-blue-2026-01-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
+DTSTART;VALUE=DATE:20260603
 CATEGORIES:blue
-DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-04-29
-SUMMARY:💰Result – CVS Health Corporation
-UID:CVS-blue-2026-04-29@mi.calendario.financiero.v2
+DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-06-03
+SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
+UID:ITX.MC-blue-2026-06-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260211
@@ -308,6 +308,13 @@ CATEGORIES:blue
 DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-05-11
 SUMMARY:💰Result – Simon Property Group\, Inc.
 UID:SPG-blue-2026-05-11@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260506
+CATEGORIES:blue
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-05-06
+SUMMARY:💰Result – CVS Health Corporation
+UID:CVS-blue-2026-05-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260414
