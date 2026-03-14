@@ -44,18 +44,18 @@ SUMMARY:💰Result – Blackstone Inc.
 UID:BX-blue-2026-01-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260421
-CATEGORIES:blue
-DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2026-04-21
-SUMMARY:💰Result – Verizon Communications Inc.
-UID:VZ-blue-2026-04-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260128
 CATEGORIES:blue
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-01-28
 SUMMARY:💰Result – Microsoft Corporation
 UID:MSFT-blue-2026-01-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260427
+CATEGORIES:blue
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2026-04-27
+SUMMARY:💰Result – Verizon Communications Inc.
+UID:VZ-blue-2026-04-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260416
