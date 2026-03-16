@@ -23,11 +23,11 @@ SUMMARY:📅Ex-Div – Altria Group\, Inc.
 UID:MO-orange-2026-03-25@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251215
+DTSTART;VALUE=DATE:20260616
 CATEGORIES:orange
-DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha Ex-Dividendo (corte): 2025-12-15
-SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
-UID:META-orange-2025-12-15@mi.calendario.financiero.v2
+DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha Ex-Dividendo (corte): 2026-06-16
+SUMMARY:📅Ex-Div – TELEFONICA\,S.A.
+UID:TEF.MC-orange-2026-06-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260112
@@ -231,13 +231,6 @@ CATEGORIES:orange
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha Ex-Dividendo (corte): 2026-03-16
 SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
 UID:META-orange-2026-03-16@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251215
-CATEGORIES:orange
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha Ex-Dividendo (corte): 2025-12-15
-SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
-UID:TROW-orange-2025-12-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260130
