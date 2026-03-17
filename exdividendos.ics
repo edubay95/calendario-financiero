@@ -9,13 +9,6 @@ SUMMARY:📅Ex-Div – HERMES INTL
 UID:RMS.PA-orange-2026-02-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251216
-CATEGORIES:orange
-DESCRIPTION:Brookfield Corporation (BN)\nFecha Ex-Dividendo (corte): 2025-12-16
-SUMMARY:📅Ex-Div – Brookfield Corporation
-UID:BN-orange-2025-12-16@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260325
 CATEGORIES:orange
 DESCRIPTION:Altria Group\, Inc. (MO)\nFecha Ex-Dividendo (corte): 2026-03-25
@@ -35,13 +28,6 @@ CATEGORIES:orange
 DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha Ex-Dividendo (corte): 2026-01-12
 SUMMARY:📅Ex-Div – Verizon Communications Inc.
 UID:VZ-orange-2026-01-12@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251229
-CATEGORIES:orange
-DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha Ex-Dividendo (corte): 2025-12-29
-SUMMARY:📅Ex-Div – American Tower Corporation (REI
-UID:AMT-orange-2025-12-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
@@ -128,13 +114,6 @@ SUMMARY:📅Ex-Div – Brookfield Asset Management Inc
 UID:BAM-orange-2026-02-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251216
-CATEGORIES:orange
-DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha Ex-Dividendo (corte): 2025-12-16
-SUMMARY:📅Ex-Div – TELEFONICA\,S.A.
-UID:TEF.MC-orange-2025-12-16@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260429
 CATEGORIES:orange
 DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-04-29
@@ -182,6 +161,13 @@ CATEGORIES:orange
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha Ex-Dividendo (corte): 2025-12-29
 SUMMARY:📅Ex-Div – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-orange-2025-12-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+CATEGORIES:orange
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha Ex-Dividendo (corte): 2026-03-31
+SUMMARY:📅Ex-Div – Blackstone Mortgage Trust\, Inc.
+UID:BXMT-orange-2026-03-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260219
@@ -282,6 +268,13 @@ SUMMARY:📅Ex-Div – ACCIONES IBERDROLA
 UID:IBE.MC-orange-2026-01-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+CATEGORIES:orange
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2026-02-27
+SUMMARY:📅Ex-Div – NextEra Energy\, Inc.
+UID:NEE-orange-2026-02-27@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260326
 CATEGORIES:orange
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha Ex-Dividendo (corte): 2026-03-26
@@ -303,10 +296,10 @@ SUMMARY:📅Ex-Div – CAIXABANK\, S.A.
 UID:CABK.MC-orange-2026-04-07@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
+DTSTART;VALUE=DATE:20251229
 CATEGORIES:orange
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2026-02-27
-SUMMARY:📅Ex-Div – NextEra Energy\, Inc.
-UID:NEE-orange-2026-02-27@mi.calendario.financiero.v2
+DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha Ex-Dividendo (corte): 2025-12-29
+SUMMARY:📅Ex-Div – American Tower Corporation (REI
+UID:AMT-orange-2025-12-29@mi.calendario.financiero.v2
 END:VEVENT
 END:VCALENDAR
