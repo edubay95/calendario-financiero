@@ -79,6 +79,13 @@ SUMMARY:📅Ex-Div – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-orange-2026-02-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260423
+CATEGORIES:orange
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha Ex-Dividendo (corte): 2026-04-23
+SUMMARY:📅Ex-Div – CVS Health Corporation
+UID:CVS-orange-2026-04-23@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2025-12-31
@@ -93,18 +100,18 @@ SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-orange-2026-04-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260304
-CATEGORIES:orange
-DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha Ex-Dividendo (corte): 2026-03-04
-SUMMARY:📅Ex-Div – PayPal Holdings\, Inc.
-UID:PYPL-orange-2026-03-04@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
 CATEGORIES:orange
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha Ex-Dividendo (corte): 2026-01-14
 SUMMARY:📅Ex-Div – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-orange-2026-01-14@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+CATEGORIES:orange
+DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha Ex-Dividendo (corte): 2026-03-04
+SUMMARY:📅Ex-Div – PayPal Holdings\, Inc.
+UID:PYPL-orange-2026-03-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
