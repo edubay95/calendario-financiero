@@ -114,6 +114,13 @@ SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-blue-2026-02-26@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+CATEGORIES:blue
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-05-01
+SUMMARY:💰Result – T. Rowe Price Group\, Inc.
+UID:TROW-blue-2026-05-01@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260210
 CATEGORIES:blue
 DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-02-10
@@ -392,6 +399,13 @@ CATEGORIES:blue
 DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-05-05
 SUMMARY:💰Result – PayPal Holdings\, Inc.
 UID:PYPL-blue-2026-05-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+CATEGORIES:blue
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-02-04
+SUMMARY:💰Result – T. Rowe Price Group\, Inc.
+UID:TROW-blue-2026-02-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260507
