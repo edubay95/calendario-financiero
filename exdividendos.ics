@@ -30,6 +30,20 @@ SUMMARY:📅Ex-Div – Verizon Communications Inc.
 UID:VZ-orange-2026-01-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260528
+CATEGORIES:orange
+DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha Ex-Dividendo (corte): 2026-05-28
+SUMMARY:📅Ex-Div – ACCIONES IBERDROLA
+UID:IBE.MC-orange-2026-05-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251229
+CATEGORIES:orange
+DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha Ex-Dividendo (corte): 2025-12-29
+SUMMARY:📅Ex-Div – American Tower Corporation (REI
+UID:AMT-orange-2025-12-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
 CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-03-31
@@ -275,13 +289,6 @@ SUMMARY:📅Ex-Div – ACCIONES IBERDROLA
 UID:IBE.MC-orange-2026-01-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-CATEGORIES:orange
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2026-02-27
-SUMMARY:📅Ex-Div – NextEra Energy\, Inc.
-UID:NEE-orange-2026-02-27@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260326
 CATEGORIES:orange
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha Ex-Dividendo (corte): 2026-03-26
@@ -303,10 +310,10 @@ SUMMARY:📅Ex-Div – CAIXABANK\, S.A.
 UID:CABK.MC-orange-2026-04-07@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251229
+DTSTART;VALUE=DATE:20260227
 CATEGORIES:orange
-DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha Ex-Dividendo (corte): 2025-12-29
-SUMMARY:📅Ex-Div – American Tower Corporation (REI
-UID:AMT-orange-2025-12-29@mi.calendario.financiero.v2
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2026-02-27
+SUMMARY:📅Ex-Div – NextEra Energy\, Inc.
+UID:NEE-orange-2026-02-27@mi.calendario.financiero.v2
 END:VEVENT
 END:VCALENDAR
