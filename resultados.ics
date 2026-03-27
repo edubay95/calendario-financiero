@@ -58,13 +58,6 @@ SUMMARY:💰Result – Verizon Communications Inc.
 UID:VZ-blue-2026-04-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260416
-CATEGORIES:blue
-DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2026-04-16
-SUMMARY:💰Result – Blackstone Inc.
-UID:BX-blue-2026-04-16@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
 CATEGORIES:blue
 DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-04-30
@@ -322,6 +315,13 @@ CATEGORIES:blue
 DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de resultados: 2026-04-14
 SUMMARY:💰Result – Johnson & Johnson
 UID:JNJ-blue-2026-04-14@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260423
+CATEGORIES:blue
+DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2026-04-23
+SUMMARY:💰Result – Blackstone Inc.
+UID:BX-blue-2026-04-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260429
