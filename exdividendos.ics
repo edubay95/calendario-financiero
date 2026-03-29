@@ -79,11 +79,11 @@ SUMMARY:📅Ex-Div – Blackstone Inc.
 UID:BX-orange-2026-02-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260310
+DTSTART;VALUE=DATE:20260629
 CATEGORIES:orange
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha Ex-Dividendo (corte): 2026-03-10
-SUMMARY:📅Ex-Div – Simon Property Group\, Inc.
-UID:SPG-orange-2026-03-10@mi.calendario.financiero.v2
+DESCRIPTION:REDEIA CORPORACION\, S.A. (RED.MC)\nFecha Ex-Dividendo (corte): 2026-06-29
+SUMMARY:📅Ex-Div – REDEIA CORPORACION\, S.A.
+UID:RED.MC-orange-2026-06-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260224
@@ -91,6 +91,13 @@ CATEGORIES:orange
 DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha Ex-Dividendo (corte): 2026-02-24
 SUMMARY:📅Ex-Div – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-orange-2026-02-24@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+CATEGORIES:orange
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha Ex-Dividendo (corte): 2026-03-10
+SUMMARY:📅Ex-Div – Simon Property Group\, Inc.
+UID:SPG-orange-2026-03-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
@@ -107,18 +114,18 @@ SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2025-12-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260424
-CATEGORIES:orange
-DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2026-04-24
-SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
-UID:PBR-A-orange-2026-04-24@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
 CATEGORIES:orange
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha Ex-Dividendo (corte): 2026-01-14
 SUMMARY:📅Ex-Div – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-orange-2026-01-14@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+CATEGORIES:orange
+DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2026-04-24
+SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
+UID:PBR-A-orange-2026-04-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260304
