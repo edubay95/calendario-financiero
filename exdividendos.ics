@@ -100,11 +100,11 @@ SUMMARY:📅Ex-Div – CVS Health Corporation
 UID:CVS-orange-2026-04-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
+DTSTART;VALUE=DATE:20260424
 CATEGORIES:orange
-DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2025-12-31
-SUMMARY:📅Ex-Div – Realty Income Corporation
-UID:O-orange-2025-12-31@mi.calendario.financiero.v2
+DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2026-04-24
+SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
+UID:PBR-A-orange-2026-04-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
@@ -112,13 +112,6 @@ CATEGORIES:orange
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha Ex-Dividendo (corte): 2026-01-14
 SUMMARY:📅Ex-Div – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-orange-2026-01-14@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260424
-CATEGORIES:orange
-DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2026-04-24
-SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
-UID:PBR-A-orange-2026-04-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260304
@@ -210,13 +203,6 @@ CATEGORIES:orange
 DESCRIPTION:Brookfield Corporation (BN)\nFecha Ex-Dividendo (corte): 2026-03-17
 SUMMARY:📅Ex-Div – Brookfield Corporation
 UID:BN-orange-2026-03-17@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-CATEGORIES:orange
-DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha Ex-Dividendo (corte): 2025-12-31
-SUMMARY:📅Ex-Div – Blackstone Mortgage Trust\, Inc.
-UID:BXMT-orange-2025-12-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260316
