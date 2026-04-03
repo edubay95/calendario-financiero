@@ -37,6 +37,13 @@ SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-02-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260506
+CATEGORIES:blue
+DESCRIPTION:Fortinet\, Inc. (FTNT)\nFecha de resultados: 2026-05-06
+SUMMARY:💰Result – Fortinet\, Inc.
+UID:FTNT-blue-2026-05-06@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260129
 CATEGORIES:blue
 DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2026-01-29
@@ -364,13 +371,6 @@ CATEGORIES:blue
 DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-04-29
 SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-blue-2026-04-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260507
-CATEGORIES:blue
-DESCRIPTION:Fortinet\, Inc. (FTNT)\nFecha de resultados: 2026-05-07
-SUMMARY:💰Result – Fortinet\, Inc.
-UID:FTNT-blue-2026-05-07@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260511
