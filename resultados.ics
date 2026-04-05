@@ -65,6 +65,13 @@ SUMMARY:💰Result – Verizon Communications Inc.
 UID:VZ-blue-2026-04-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260505
+CATEGORIES:blue
+DESCRIPTION:Super Micro Computer\, Inc. (SMCI)\nFecha de resultados: 2026-05-05
+SUMMARY:💰Result – Super Micro Computer\, Inc.
+UID:SMCI-blue-2026-05-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
 CATEGORIES:blue
 DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-04-30
@@ -142,6 +149,13 @@ SUMMARY:💰Result – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-blue-2026-03-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260422
+CATEGORIES:blue
+DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-04-22
+SUMMARY:💰Result – Robert Half Inc.
+UID:RHI-blue-2026-04-22@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260514
 CATEGORIES:blue
 DESCRIPTION:BURBERRY GROUP PLC ORD 0.05P (BRBY.L)\nFecha de resultados: 2026-05-14
@@ -154,6 +168,13 @@ CATEGORIES:blue
 DESCRIPTION:REDEIA CORPORACION\, S.A. (RED.MC)\nFecha de resultados: 2026-04-29
 SUMMARY:💰Result – REDEIA CORPORACION\, S.A.
 UID:RED.MC-blue-2026-04-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+CATEGORIES:blue
+DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-01-29
+SUMMARY:💰Result – Robert Half Inc.
+UID:RHI-blue-2026-01-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260129
@@ -198,6 +219,13 @@ SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-blue-2026-06-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+CATEGORIES:blue
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-02-11
+SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
+UID:BXMT-blue-2026-02-11@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
 CATEGORIES:blue
 DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-02-03
@@ -224,6 +252,13 @@ CATEGORIES:blue
 DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-05-04
 SUMMARY:💰Result – Realty Income Corporation
 UID:O-blue-2026-05-04@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+CATEGORIES:blue
+DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-03-19
+SUMMARY:💰Result – Satellogic Inc.
+UID:SATL-blue-2026-03-19@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260429
@@ -254,11 +289,25 @@ SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-05-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260203
+CATEGORIES:blue
+DESCRIPTION:Super Micro Computer\, Inc. (SMCI)\nFecha de resultados: 2026-02-03
+SUMMARY:💰Result – Super Micro Computer\, Inc.
+UID:SMCI-blue-2026-02-03@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260429
 CATEGORIES:blue
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-04-29
 SUMMARY:💰Result – Microsoft Corporation
 UID:MSFT-blue-2026-04-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+CATEGORIES:blue
+DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-05-15
+SUMMARY:💰Result – Satellogic Inc.
+UID:SATL-blue-2026-05-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260130
@@ -357,6 +406,13 @@ CATEGORIES:blue
 DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2026-05-14
 SUMMARY:💰Result – Alibaba Group Holding Limited
 UID:BABA-blue-2026-05-14@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260429
+CATEGORIES:blue
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-04-29
+SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
+UID:BXMT-blue-2026-04-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260511
