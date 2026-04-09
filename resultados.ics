@@ -93,6 +93,13 @@ SUMMARY:💰Result – NextEra Energy\, Inc.
 UID:NEE-blue-2026-01-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+CATEGORIES:blue
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-05-08
+SUMMARY:💰Result – Brookfield Asset Management Inc
+UID:BAM-blue-2026-05-08@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
 CATEGORIES:blue
 DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-02-05
@@ -273,13 +280,6 @@ CATEGORIES:blue
 DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-02-02
 SUMMARY:💰Result – Simon Property Group\, Inc.
 UID:SPG-blue-2026-02-02@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260505
-CATEGORIES:blue
-DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-05-05
-SUMMARY:💰Result – Brookfield Asset Management Inc
-UID:BAM-blue-2026-05-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
