@@ -79,6 +79,13 @@ SUMMARY:💰Result – The Hershey Company
 UID:HSY-blue-2026-04-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260423
+CATEGORIES:blue
+DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-04-23
+SUMMARY:💰Result – Robert Half Inc.
+UID:RHI-blue-2026-04-23@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260224
 CATEGORIES:blue
 DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de resultados: 2026-02-24
@@ -154,13 +161,6 @@ CATEGORIES:blue
 DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de resultados: 2026-03-05
 SUMMARY:💰Result – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-blue-2026-03-05@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260422
-CATEGORIES:blue
-DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-04-22
-SUMMARY:💰Result – Robert Half Inc.
-UID:RHI-blue-2026-04-22@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260514

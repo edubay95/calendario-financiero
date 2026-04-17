@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+CATEGORIES:orange
+DESCRIPTION:HERMES INTL (RMS.PA)\nFecha Ex-Dividendo (corte): 2026-02-16
+SUMMARY:📅Ex-Div – HERMES INTL
+UID:RMS.PA-orange-2026-02-16@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260325
 CATEGORIES:orange
 DESCRIPTION:Altria Group\, Inc. (MO)\nFecha Ex-Dividendo (corte): 2026-03-25
@@ -35,6 +42,13 @@ CATEGORIES:orange
 DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha Ex-Dividendo (corte): 2026-05-28
 SUMMARY:📅Ex-Div – ACCIONES IBERDROLA
 UID:IBE.MC-orange-2026-05-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+CATEGORIES:orange
+DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-03-31
+SUMMARY:📅Ex-Div – Realty Income Corporation
+UID:O-orange-2026-03-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260410
@@ -163,6 +177,27 @@ SUMMARY:📅Ex-Div – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-orange-2026-03-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+CATEGORIES:orange
+DESCRIPTION:Microsoft Corporation (MSFT)\nFecha Ex-Dividendo (corte): 2026-02-19
+SUMMARY:📅Ex-Div – Microsoft Corporation
+UID:MSFT-orange-2026-02-19@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+CATEGORIES:orange
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha Ex-Dividendo (corte): 2026-01-22
+SUMMARY:📅Ex-Div – CVS Health Corporation
+UID:CVS-orange-2026-01-22@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+CATEGORIES:orange
+DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-02-27
+SUMMARY:📅Ex-Div – Realty Income Corporation
+UID:O-orange-2026-02-27@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260414
 CATEGORIES:orange
 DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha Ex-Dividendo (corte): 2026-04-14
@@ -184,11 +219,11 @@ SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
 UID:META-orange-2026-03-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260416
+DTSTART;VALUE=DATE:20260130
 CATEGORIES:orange
-DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha Ex-Dividendo (corte): 2026-04-16
-SUMMARY:📅Ex-Div – DIAGEO PLC ORD 28 101/108P
-UID:DGE.L-orange-2026-04-16@mi.calendario.financiero.v2
+DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-01-30
+SUMMARY:📅Ex-Div – Realty Income Corporation
+UID:O-orange-2026-01-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
@@ -210,6 +245,34 @@ CATEGORIES:orange
 DESCRIPTION:ACS\,ACTIVIDADES DE CONSTRUCCION (ACS.MC)\nFecha Ex-Dividendo (corte): 2026-01-21
 SUMMARY:📅Ex-Div – ACS\,ACTIVIDADES DE CONSTRUCCION
 UID:ACS.MC-orange-2026-01-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260416
+CATEGORIES:orange
+DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha Ex-Dividendo (corte): 2026-04-16
+SUMMARY:📅Ex-Div – DIAGEO PLC ORD 28 101/108P
+UID:DGE.L-orange-2026-04-16@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+CATEGORIES:orange
+DESCRIPTION:Johnson & Johnson (JNJ)\nFecha Ex-Dividendo (corte): 2026-02-24
+SUMMARY:📅Ex-Div – Johnson & Johnson
+UID:JNJ-orange-2026-02-24@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+CATEGORIES:orange
+DESCRIPTION:VIDRALA\, S.A. (VID.MC)\nFecha Ex-Dividendo (corte): 2026-02-11
+SUMMARY:📅Ex-Div – VIDRALA\, S.A.
+UID:VID.MC-orange-2026-02-11@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+CATEGORIES:orange
+DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha Ex-Dividendo (corte): 2026-03-26
+SUMMARY:📅Ex-Div – BRITISH AMERICAN TOBACCO PLC OR
+UID:BATS.L-orange-2026-03-26@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260521
