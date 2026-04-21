@@ -275,13 +275,6 @@ SUMMARY:💰Result – VIDRALA\, S.A.
 UID:VID.MC-blue-2026-04-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260120
-CATEGORIES:blue
-DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-01-20
-SUMMARY:💰Result – 3M Company
-UID:MMM-blue-2026-01-20@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
 CATEGORIES:blue
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-04-23
