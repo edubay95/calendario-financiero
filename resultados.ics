@@ -345,13 +345,6 @@ SUMMARY:💰Result – Satellogic Inc.
 UID:SATL-blue-2026-05-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260121
-CATEGORIES:blue
-DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de resultados: 2026-01-21
-SUMMARY:💰Result – Johnson & Johnson
-UID:JNJ-blue-2026-01-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
 CATEGORIES:blue
 DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-04-30
