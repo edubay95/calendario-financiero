@@ -436,11 +436,11 @@ SUMMARY:💰Result – CAIXABANK\, S.A.
 UID:CABK.MC-blue-2026-04-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260505
+DTSTART;VALUE=DATE:20260721
 CATEGORIES:blue
-DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-05-05
-SUMMARY:💰Result – PayPal Holdings\, Inc.
-UID:PYPL-blue-2026-05-05@mi.calendario.financiero.v2
+DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-07-21
+SUMMARY:💰Result – 3M Company
+UID:MMM-blue-2026-07-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260204
@@ -448,6 +448,13 @@ CATEGORIES:blue
 DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-02-04
 SUMMARY:💰Result – T. Rowe Price Group\, Inc.
 UID:TROW-blue-2026-02-04@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260505
+CATEGORIES:blue
+DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-05-05
+SUMMARY:💰Result – PayPal Holdings\, Inc.
+UID:PYPL-blue-2026-05-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260428
