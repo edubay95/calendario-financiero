@@ -44,6 +44,13 @@ SUMMARY:💰Result – Fortinet\, Inc.
 UID:FTNT-blue-2026-05-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260722
+CATEGORIES:blue
+DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-07-22
+SUMMARY:💰Result – Robert Half Inc.
+UID:RHI-blue-2026-07-22@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260129
 CATEGORIES:blue
 DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2026-01-29
@@ -247,6 +254,13 @@ SUMMARY:💰Result – PayPal Holdings\, Inc.
 UID:PYPL-blue-2026-02-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260722
+CATEGORIES:blue
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-07-22
+SUMMARY:💰Result – NextEra Energy\, Inc.
+UID:NEE-blue-2026-07-22@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260429
 CATEGORIES:blue
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2026-04-29
@@ -280,6 +294,13 @@ CATEGORIES:blue
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-04-23
 SUMMARY:💰Result – NextEra Energy\, Inc.
 UID:NEE-blue-2026-04-23@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+CATEGORIES:blue
+DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2026-07-23
+SUMMARY:💰Result – Blackstone Inc.
+UID:BX-blue-2026-07-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260202
