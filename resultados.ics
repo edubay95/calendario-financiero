@@ -100,13 +100,6 @@ SUMMARY:💰Result – American Tower Corporation (REI
 UID:AMT-blue-2026-02-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260127
-CATEGORIES:blue
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-01-27
-SUMMARY:💰Result – NextEra Energy\, Inc.
-UID:NEE-blue-2026-01-27@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260508
 CATEGORIES:blue
 DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-05-08
@@ -126,6 +119,13 @@ CATEGORIES:blue
 DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-04-21
 SUMMARY:💰Result – 3M Company
 UID:MMM-blue-2026-04-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260512
+CATEGORIES:blue
+DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-05-12
+SUMMARY:💰Result – Satellogic Inc.
+UID:SATL-blue-2026-05-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260508
@@ -357,13 +357,6 @@ CATEGORIES:blue
 DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2026-04-29
 SUMMARY:💰Result – ACCIONES IBERDROLA
 UID:IBE.MC-blue-2026-04-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260515
-CATEGORIES:blue
-DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-05-15
-SUMMARY:💰Result – Satellogic Inc.
-UID:SATL-blue-2026-05-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430

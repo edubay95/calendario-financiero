@@ -163,6 +163,13 @@ SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
 UID:TROW-orange-2026-03-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260504
+CATEGORIES:orange
+DESCRIPTION:Blackstone Inc. (BX)\nFecha Ex-Dividendo (corte): 2026-05-04
+SUMMARY:📅Ex-Div – Blackstone Inc.
+UID:BX-orange-2026-05-04@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260421
 CATEGORIES:orange
 DESCRIPTION:HERMES INTL (RMS.PA)\nFecha Ex-Dividendo (corte): 2026-04-21
