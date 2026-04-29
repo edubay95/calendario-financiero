@@ -58,13 +58,6 @@ SUMMARY:💰Result – Blackstone Inc.
 UID:BX-blue-2026-01-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260128
-CATEGORIES:blue
-DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-01-28
-SUMMARY:💰Result – Microsoft Corporation
-UID:MSFT-blue-2026-01-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260427
 CATEGORIES:blue
 DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2026-04-27
@@ -310,6 +303,13 @@ SUMMARY:💰Result – Simon Property Group\, Inc.
 UID:SPG-blue-2026-02-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+CATEGORIES:blue
+DESCRIPTION:HERMES INTL (RMS.PA)\nFecha de resultados: 2026-07-29
+SUMMARY:💰Result – HERMES INTL
+UID:RMS.PA-blue-2026-07-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
 CATEGORIES:blue
 DESCRIPTION:Super Micro Computer\, Inc. (SMCI)\nFecha de resultados: 2026-02-03
@@ -408,6 +408,13 @@ SUMMARY:💰Result – Altria Group\, Inc.
 UID:MO-blue-2026-04-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260721
+CATEGORIES:blue
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2026-07-21
+SUMMARY:💰Result – Verizon Communications Inc.
+UID:VZ-blue-2026-07-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
 CATEGORIES:blue
 DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2026-02-03
@@ -436,11 +443,11 @@ SUMMARY:💰Result – AST SpaceMobile\, Inc.
 UID:ASTS-blue-2026-05-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260128
+DTSTART;VALUE=DATE:20260505
 CATEGORIES:blue
-DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2026-01-28
-SUMMARY:💰Result – Meta Platforms\, Inc.
-UID:META-blue-2026-01-28@mi.calendario.financiero.v2
+DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-05-05
+SUMMARY:💰Result – PayPal Holdings\, Inc.
+UID:PYPL-blue-2026-05-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
@@ -462,13 +469,6 @@ CATEGORIES:blue
 DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-02-04
 SUMMARY:💰Result – T. Rowe Price Group\, Inc.
 UID:TROW-blue-2026-02-04@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260505
-CATEGORIES:blue
-DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-05-05
-SUMMARY:💰Result – PayPal Holdings\, Inc.
-UID:PYPL-blue-2026-05-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260428
