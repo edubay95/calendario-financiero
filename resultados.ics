@@ -37,6 +37,13 @@ SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-02-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260513
+CATEGORIES:blue
+DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2026-05-13
+SUMMARY:💰Result – Alibaba Group Holding Limited
+UID:BABA-blue-2026-05-13@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260506
 CATEGORIES:blue
 DESCRIPTION:Fortinet\, Inc. (FTNT)\nFecha de resultados: 2026-05-06
@@ -49,13 +56,6 @@ CATEGORIES:blue
 DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-07-22
 SUMMARY:💰Result – Robert Half Inc.
 UID:RHI-blue-2026-07-22@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260129
-CATEGORIES:blue
-DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2026-01-29
-SUMMARY:💰Result – Blackstone Inc.
-UID:BX-blue-2026-01-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260427
@@ -170,27 +170,6 @@ SUMMARY:💰Result – BURBERRY GROUP PLC ORD 0.05P
 UID:BRBY.L-blue-2026-05-14@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
-CATEGORIES:blue
-DESCRIPTION:REDEIA CORPORACION\, S.A. (RED.MC)\nFecha de resultados: 2026-04-29
-SUMMARY:💰Result – REDEIA CORPORACION\, S.A.
-UID:RED.MC-blue-2026-04-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260129
-CATEGORIES:blue
-DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-01-29
-SUMMARY:💰Result – Robert Half Inc.
-UID:RHI-blue-2026-01-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260129
-CATEGORIES:blue
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2026-01-29
-SUMMARY:💰Result – Altria Group\, Inc.
-UID:MO-blue-2026-01-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260514
 CATEGORIES:blue
 DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2026-05-14
@@ -217,13 +196,6 @@ CATEGORIES:blue
 DESCRIPTION:Fortinet\, Inc. (FTNT)\nFecha de resultados: 2026-02-05
 SUMMARY:💰Result – Fortinet\, Inc.
 UID:FTNT-blue-2026-02-05@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260129
-CATEGORIES:blue
-DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2026-01-29
-SUMMARY:💰Result – CAIXABANK\, S.A.
-UID:CABK.MC-blue-2026-01-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260603
@@ -273,13 +245,6 @@ CATEGORIES:blue
 DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-03-19
 SUMMARY:💰Result – Satellogic Inc.
 UID:SATL-blue-2026-03-19@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
-CATEGORIES:blue
-DESCRIPTION:VIDRALA\, S.A. (VID.MC)\nFecha de resultados: 2026-04-29
-SUMMARY:💰Result – VIDRALA\, S.A.
-UID:VID.MC-blue-2026-04-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
@@ -352,11 +317,11 @@ SUMMARY:💰Result – ACS\,ACTIVIDADES DE CONSTRUCCION
 UID:ACS.MC-blue-2026-05-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
+DTSTART;VALUE=DATE:20260728
 CATEGORIES:blue
-DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2026-04-29
-SUMMARY:💰Result – ACCIONES IBERDROLA
-UID:IBE.MC-blue-2026-04-29@mi.calendario.financiero.v2
+DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de resultados: 2026-07-28
+SUMMARY:💰Result – American Tower Corporation (REI
+UID:AMT-blue-2026-07-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
@@ -394,13 +359,6 @@ SUMMARY:💰Result – Blackstone Inc.
 UID:BX-blue-2026-04-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
-CATEGORIES:blue
-DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2026-04-29
-SUMMARY:💰Result – BANCO SANTANDER S.A.
-UID:SAN.MC-blue-2026-04-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
 CATEGORIES:blue
 DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2026-04-30
@@ -422,11 +380,11 @@ SUMMARY:💰Result – BANCO SANTANDER S.A.
 UID:SAN.MC-blue-2026-02-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260514
+DTSTART;VALUE=DATE:20260428
 CATEGORIES:blue
-DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2026-05-14
-SUMMARY:💰Result – Alibaba Group Holding Limited
-UID:BABA-blue-2026-05-14@mi.calendario.financiero.v2
+DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2026-04-28
+SUMMARY:💰Result – ACCIONES IBERDROLA
+UID:IBE.MC-blue-2026-04-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260429
@@ -469,6 +427,20 @@ CATEGORIES:blue
 DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-02-04
 SUMMARY:💰Result – T. Rowe Price Group\, Inc.
 UID:TROW-blue-2026-02-04@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+CATEGORIES:blue
+DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de resultados: 2026-07-30
+SUMMARY:💰Result – BRITISH AMERICAN TOBACCO PLC OR
+UID:BATS.L-blue-2026-07-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260428
+CATEGORIES:blue
+DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2026-04-28
+SUMMARY:💰Result – BANCO SANTANDER S.A.
+UID:SAN.MC-blue-2026-04-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260428
