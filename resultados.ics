@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260430
-CATEGORIES:blue
-DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha de resultados: 2026-04-30
-SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
-UID:LOG.MC-blue-2026-04-30@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260223
 CATEGORIES:blue
 DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2026-02-23
@@ -72,18 +65,18 @@ SUMMARY:💰Result – Super Micro Computer\, Inc.
 UID:SMCI-blue-2026-05-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+CATEGORIES:blue
+DESCRIPTION:REDEIA CORPORACION\, S.A. (RED.MC)\nFecha de resultados: 2026-07-29
+SUMMARY:💰Result – REDEIA CORPORACION\, S.A.
+UID:RED.MC-blue-2026-07-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
 CATEGORIES:blue
 DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-04-30
 SUMMARY:💰Result – The Hershey Company
 UID:HSY-blue-2026-04-30@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260423
-CATEGORIES:blue
-DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-04-23
-SUMMARY:💰Result – Robert Half Inc.
-UID:RHI-blue-2026-04-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260224
@@ -105,6 +98,13 @@ CATEGORIES:blue
 DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-02-05
 SUMMARY:💰Result – The Hershey Company
 UID:HSY-blue-2026-02-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260423
+CATEGORIES:blue
+DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-04-23
+SUMMARY:💰Result – Robert Half Inc.
+UID:RHI-blue-2026-04-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260421
@@ -163,6 +163,20 @@ SUMMARY:💰Result – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-blue-2026-03-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+CATEGORIES:blue
+DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2026-07-29
+SUMMARY:💰Result – Meta Platforms\, Inc.
+UID:META-blue-2026-07-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+CATEGORIES:blue
+DESCRIPTION:VIDRALA\, S.A. (VID.MC)\nFecha de resultados: 2026-07-23
+SUMMARY:💰Result – VIDRALA\, S.A.
+UID:VID.MC-blue-2026-07-23@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260514
 CATEGORIES:blue
 DESCRIPTION:BURBERRY GROUP PLC ORD 0.05P (BRBY.L)\nFecha de resultados: 2026-05-14
@@ -196,6 +210,13 @@ CATEGORIES:blue
 DESCRIPTION:Fortinet\, Inc. (FTNT)\nFecha de resultados: 2026-02-05
 SUMMARY:💰Result – Fortinet\, Inc.
 UID:FTNT-blue-2026-02-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+CATEGORIES:blue
+DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-07-29
+SUMMARY:💰Result – Microsoft Corporation
+UID:MSFT-blue-2026-07-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260603
@@ -261,11 +282,25 @@ SUMMARY:💰Result – Blackstone Inc.
 UID:BX-blue-2026-07-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260722
+CATEGORIES:blue
+DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2026-07-22
+SUMMARY:💰Result – ACCIONES IBERDROLA
+UID:IBE.MC-blue-2026-07-22@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260202
 CATEGORIES:blue
 DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-02-02
 SUMMARY:💰Result – Simon Property Group\, Inc.
 UID:SPG-blue-2026-02-02@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+CATEGORIES:blue
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-07-29
+SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
+UID:BXMT-blue-2026-07-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
@@ -303,18 +338,18 @@ SUMMARY:💰Result – Microsoft Corporation
 UID:MSFT-blue-2026-04-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260130
-CATEGORIES:blue
-DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2026-01-30
-SUMMARY:💰Result – Verizon Communications Inc.
-UID:VZ-blue-2026-01-30@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260512
 CATEGORIES:blue
 DESCRIPTION:ACS\,ACTIVIDADES DE CONSTRUCCION (ACS.MC)\nFecha de resultados: 2026-05-12
 SUMMARY:💰Result – ACS\,ACTIVIDADES DE CONSTRUCCION
 UID:ACS.MC-blue-2026-05-12@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260722
+CATEGORIES:blue
+DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2026-07-22
+SUMMARY:💰Result – BANCO SANTANDER S.A.
+UID:SAN.MC-blue-2026-07-22@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260728
@@ -406,13 +441,6 @@ CATEGORIES:blue
 DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-05-05
 SUMMARY:💰Result – PayPal Holdings\, Inc.
 UID:PYPL-blue-2026-05-05@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260430
-CATEGORIES:blue
-DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2026-04-30
-SUMMARY:💰Result – CAIXABANK\, S.A.
-UID:CABK.MC-blue-2026-04-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260721
