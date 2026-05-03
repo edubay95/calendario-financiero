@@ -317,13 +317,6 @@ SUMMARY:💰Result – ACCIONES IBERDROLA
 UID:IBE.MC-blue-2026-07-22@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260202
-CATEGORIES:blue
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-02-02
-SUMMARY:💰Result – Simon Property Group\, Inc.
-UID:SPG-blue-2026-02-02@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
 CATEGORIES:blue
 DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-07-29
