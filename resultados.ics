@@ -23,13 +23,6 @@ SUMMARY:💰Result – ACCIONES IBERDROLA
 UID:IBE.MC-blue-2026-02-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260204
-CATEGORIES:blue
-DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-02-04
-SUMMARY:💰Result – Brookfield Asset Management Inc
-UID:BAM-blue-2026-02-04@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260513
 CATEGORIES:blue
 DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2026-05-13
@@ -462,13 +455,6 @@ CATEGORIES:blue
 DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-07-21
 SUMMARY:💰Result – 3M Company
 UID:MMM-blue-2026-07-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260204
-CATEGORIES:blue
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-02-04
-SUMMARY:💰Result – T. Rowe Price Group\, Inc.
-UID:TROW-blue-2026-02-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
