@@ -86,13 +86,6 @@ SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-05-08@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260205
-CATEGORIES:blue
-DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-02-05
-SUMMARY:💰Result – The Hershey Company
-UID:HSY-blue-2026-02-05@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
 CATEGORIES:blue
 DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-04-23
@@ -217,13 +210,6 @@ CATEGORIES:blue
 DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-03-10
 SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-blue-2026-03-10@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260205
-CATEGORIES:blue
-DESCRIPTION:Fortinet\, Inc. (FTNT)\nFecha de resultados: 2026-02-05
-SUMMARY:💰Result – Fortinet\, Inc.
-UID:FTNT-blue-2026-02-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
@@ -378,6 +364,13 @@ CATEGORIES:blue
 DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-05-06
 SUMMARY:💰Result – CVS Health Corporation
 UID:CVS-blue-2026-05-06@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+CATEGORIES:blue
+DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de resultados: 2026-08-06
+SUMMARY:💰Result – DIAGEO PLC ORD 28 101/108P
+UID:DGE.L-blue-2026-08-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260414
