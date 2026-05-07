@@ -37,6 +37,13 @@ SUMMARY:💰Result – Fortinet\, Inc.
 UID:FTNT-blue-2026-05-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260804
+CATEGORIES:blue
+DESCRIPTION:Super Micro Computer\, Inc. (SMCI)\nFecha de resultados: 2026-08-04
+SUMMARY:💰Result – Super Micro Computer\, Inc.
+UID:SMCI-blue-2026-08-04@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260722
 CATEGORIES:blue
 DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-07-22
@@ -182,6 +189,13 @@ CATEGORIES:blue
 DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-07-31
 SUMMARY:💰Result – T. Rowe Price Group\, Inc.
 UID:TROW-blue-2026-07-31@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260728
+CATEGORIES:blue
+DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-07-28
+SUMMARY:💰Result – PayPal Holdings\, Inc.
+UID:PYPL-blue-2026-07-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260514
