@@ -233,6 +233,13 @@ SUMMARY:💰Result – Microsoft Corporation
 UID:MSFT-blue-2026-07-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260803
+CATEGORIES:blue
+DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-08-03
+SUMMARY:💰Result – Realty Income Corporation
+UID:O-blue-2026-08-03@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260603
 CATEGORIES:blue
 DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-06-03
@@ -317,11 +324,11 @@ SUMMARY:💰Result – HERMES INTL
 UID:RMS.PA-blue-2026-07-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260514
+DTSTART;VALUE=DATE:20260429
 CATEGORIES:blue
-DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2026-05-14
-SUMMARY:💰Result – Brookfield Corporation
-UID:BN-blue-2026-05-14@mi.calendario.financiero.v2
+DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-04-29
+SUMMARY:💰Result – Microsoft Corporation
+UID:MSFT-blue-2026-04-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260512
@@ -329,13 +336,6 @@ CATEGORIES:blue
 DESCRIPTION:CIE AUTOMOTIVE\, S.A. (CIE.MC)\nFecha de resultados: 2026-05-12
 SUMMARY:💰Result – CIE AUTOMOTIVE\, S.A.
 UID:CIE.MC-blue-2026-05-12@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
-CATEGORIES:blue
-DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-04-29
-SUMMARY:💰Result – Microsoft Corporation
-UID:MSFT-blue-2026-04-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260512
@@ -450,6 +450,13 @@ SUMMARY:💰Result – AST SpaceMobile\, Inc.
 UID:ASTS-blue-2026-05-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+CATEGORIES:blue
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-07-30
+SUMMARY:💰Result – CVS Health Corporation
+UID:CVS-blue-2026-07-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260505
 CATEGORIES:blue
 DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-05-05
@@ -469,6 +476,13 @@ CATEGORIES:blue
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de resultados: 2026-07-30
 SUMMARY:💰Result – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-blue-2026-07-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260805
+CATEGORIES:blue
+DESCRIPTION:Fortinet\, Inc. (FTNT)\nFecha de resultados: 2026-08-05
+SUMMARY:💰Result – Fortinet\, Inc.
+UID:FTNT-blue-2026-08-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260428

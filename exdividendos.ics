@@ -30,6 +30,13 @@ SUMMARY:📅Ex-Div – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-orange-2026-07-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+CATEGORIES:orange
+DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha Ex-Dividendo (corte): 2026-06-04
+SUMMARY:📅Ex-Div – PayPal Holdings\, Inc.
+UID:PYPL-orange-2026-06-04@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260703
 CATEGORIES:orange
 DESCRIPTION:CIE AUTOMOTIVE\, S.A. (CIE.MC)\nFecha Ex-Dividendo (corte): 2026-07-03
