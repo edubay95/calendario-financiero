@@ -135,6 +135,13 @@ SUMMARY:📅Ex-Div – Brookfield Asset Management Inc
 UID:BAM-orange-2026-02-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260615
+CATEGORIES:orange
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha Ex-Dividendo (corte): 2026-06-15
+SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
+UID:TROW-orange-2026-06-15@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260225
 CATEGORIES:orange
 DESCRIPTION:Robert Half Inc. (RHI)\nFecha Ex-Dividendo (corte): 2026-02-25
