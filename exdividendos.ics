@@ -72,13 +72,6 @@ SUMMARY:📅Ex-Div – Verizon Communications Inc.
 UID:VZ-orange-2026-04-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260209
-CATEGORIES:orange
-DESCRIPTION:Blackstone Inc. (BX)\nFecha Ex-Dividendo (corte): 2026-02-09
-SUMMARY:📅Ex-Div – Blackstone Inc.
-UID:BX-orange-2026-02-09@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260629
 CATEGORIES:orange
 DESCRIPTION:REDEIA CORPORACION\, S.A. (RED.MC)\nFecha Ex-Dividendo (corte): 2026-06-29
@@ -254,11 +247,11 @@ SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
 UID:META-orange-2026-03-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260416
+DTSTART;VALUE=DATE:20260529
 CATEGORIES:orange
-DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha Ex-Dividendo (corte): 2026-04-16
-SUMMARY:📅Ex-Div – DIAGEO PLC ORD 28 101/108P
-UID:DGE.L-orange-2026-04-16@mi.calendario.financiero.v2
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha Ex-Dividendo (corte): 2026-05-29
+SUMMARY:📅Ex-Div – Brookfield Asset Management Inc
+UID:BAM-orange-2026-05-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
@@ -273,6 +266,13 @@ CATEGORIES:orange
 DESCRIPTION:VIDRALA\, S.A. (VID.MC)\nFecha Ex-Dividendo (corte): 2026-07-13
 SUMMARY:📅Ex-Div – VIDRALA\, S.A.
 UID:VID.MC-orange-2026-07-13@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260416
+CATEGORIES:orange
+DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha Ex-Dividendo (corte): 2026-04-16
+SUMMARY:📅Ex-Div – DIAGEO PLC ORD 28 101/108P
+UID:DGE.L-orange-2026-04-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260224
