@@ -128,11 +128,11 @@ SUMMARY:💰Result – Realty Income Corporation
 UID:O-blue-2026-02-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260210
+DTSTART;VALUE=DATE:20260506
 CATEGORIES:blue
-DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-02-10
-SUMMARY:💰Result – CVS Health Corporation
-UID:CVS-blue-2026-02-10@mi.calendario.financiero.v2
+DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-05-06
+SUMMARY:💰Result – Realty Income Corporation
+UID:O-blue-2026-05-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260429
@@ -140,13 +140,6 @@ CATEGORIES:blue
 DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2026-04-29
 SUMMARY:💰Result – CAIXABANK\, S.A.
 UID:CABK.MC-blue-2026-04-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260506
-CATEGORIES:blue
-DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-05-06
-SUMMARY:💰Result – Realty Income Corporation
-UID:O-blue-2026-05-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260305
