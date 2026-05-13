@@ -86,6 +86,13 @@ SUMMARY:💰Result – American Tower Corporation (REI
 UID:AMT-blue-2026-02-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260803
+CATEGORIES:blue
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-08-03
+SUMMARY:💰Result – Simon Property Group\, Inc.
+UID:SPG-blue-2026-08-03@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260508
 CATEGORIES:blue
 DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-05-08
@@ -182,6 +189,13 @@ CATEGORIES:blue
 DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-07-28
 SUMMARY:💰Result – PayPal Holdings\, Inc.
 UID:PYPL-blue-2026-07-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260511
+CATEGORIES:blue
+DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-05-11
+SUMMARY:💰Result – Satellogic Inc.
+UID:SATL-blue-2026-05-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260514
@@ -296,6 +310,13 @@ SUMMARY:💰Result – Altria Group\, Inc.
 UID:MO-blue-2026-07-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260511
+CATEGORIES:blue
+DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de resultados: 2026-05-11
+SUMMARY:💰Result – Petroleo Brasileiro S.A. Petrob
+UID:PBR-A-blue-2026-05-11@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260722
 CATEGORIES:blue
 DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2026-07-22
@@ -324,25 +345,11 @@ SUMMARY:💰Result – Brookfield Corporation
 UID:BN-blue-2026-05-14@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260512
-CATEGORIES:blue
-DESCRIPTION:CIE AUTOMOTIVE\, S.A. (CIE.MC)\nFecha de resultados: 2026-05-12
-SUMMARY:💰Result – CIE AUTOMOTIVE\, S.A.
-UID:CIE.MC-blue-2026-05-12@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260429
 CATEGORIES:blue
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-04-29
 SUMMARY:💰Result – Microsoft Corporation
 UID:MSFT-blue-2026-04-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260512
-CATEGORIES:blue
-DESCRIPTION:ACS\,ACTIVIDADES DE CONSTRUCCION (ACS.MC)\nFecha de resultados: 2026-05-12
-SUMMARY:💰Result – ACS\,ACTIVIDADES DE CONSTRUCCION
-UID:ACS.MC-blue-2026-05-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260722
@@ -387,6 +394,13 @@ SUMMARY:💰Result – DIAGEO PLC ORD 28 101/108P
 UID:DGE.L-blue-2026-08-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260813
+CATEGORIES:blue
+DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-08-13
+SUMMARY:💰Result – Satellogic Inc.
+UID:SATL-blue-2026-08-13@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260414
 CATEGORIES:blue
 DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de resultados: 2026-04-14
@@ -413,6 +427,13 @@ CATEGORIES:blue
 DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2026-07-21
 SUMMARY:💰Result – Verizon Communications Inc.
 UID:VZ-blue-2026-07-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260810
+CATEGORIES:blue
+DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2026-08-10
+SUMMARY:💰Result – AST SpaceMobile\, Inc.
+UID:ASTS-blue-2026-08-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260428
