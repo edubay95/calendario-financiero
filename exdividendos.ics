@@ -289,6 +289,13 @@ SUMMARY:📅Ex-Div – DIAGEO PLC ORD 28 101/108P
 UID:DGE.L-orange-2026-04-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260611
+CATEGORIES:orange
+DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha Ex-Dividendo (corte): 2026-06-11
+SUMMARY:📅Ex-Div – Alibaba Group Holding Limited
+UID:BABA-orange-2026-06-11@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260224
 CATEGORIES:orange
 DESCRIPTION:Johnson & Johnson (JNJ)\nFecha Ex-Dividendo (corte): 2026-02-24
