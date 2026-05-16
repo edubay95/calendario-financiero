@@ -51,6 +51,13 @@ SUMMARY:📅Ex-Div – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-orange-2026-07-01@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+CATEGORIES:orange
+DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-05-29
+SUMMARY:📅Ex-Div – Realty Income Corporation
+UID:O-orange-2026-05-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260528
 CATEGORIES:orange
 DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha Ex-Dividendo (corte): 2026-05-28
@@ -191,6 +198,13 @@ SUMMARY:📅Ex-Div – HERMES INTL
 UID:RMS.PA-orange-2026-04-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260615
+CATEGORIES:orange
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha Ex-Dividendo (corte): 2026-06-15
+SUMMARY:📅Ex-Div – Altria Group\, Inc.
+UID:MO-orange-2026-06-15@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
 CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-04-30
@@ -282,11 +296,11 @@ SUMMARY:📅Ex-Div – VIDRALA\, S.A.
 UID:VID.MC-orange-2026-07-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260416
+DTSTART;VALUE=DATE:20260615
 CATEGORIES:orange
-DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha Ex-Dividendo (corte): 2026-04-16
-SUMMARY:📅Ex-Div – DIAGEO PLC ORD 28 101/108P
-UID:DGE.L-orange-2026-04-16@mi.calendario.financiero.v2
+DESCRIPTION:Brookfield Corporation (BN)\nFecha Ex-Dividendo (corte): 2026-06-15
+SUMMARY:📅Ex-Div – Brookfield Corporation
+UID:BN-orange-2026-06-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260611
@@ -294,6 +308,13 @@ CATEGORIES:orange
 DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha Ex-Dividendo (corte): 2026-06-11
 SUMMARY:📅Ex-Div – Alibaba Group Holding Limited
 UID:BABA-orange-2026-06-11@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260416
+CATEGORIES:orange
+DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha Ex-Dividendo (corte): 2026-04-16
+SUMMARY:📅Ex-Div – DIAGEO PLC ORD 28 101/108P
+UID:DGE.L-orange-2026-04-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260224
