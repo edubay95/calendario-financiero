@@ -156,13 +156,6 @@ SUMMARY:📅Ex-Div – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-orange-2026-04-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260217
-CATEGORIES:orange
-DESCRIPTION:The Hershey Company (HSY)\nFecha Ex-Dividendo (corte): 2026-02-17
-SUMMARY:📅Ex-Div – The Hershey Company
-UID:HSY-orange-2026-02-17@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260316
 CATEGORIES:orange
 DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha Ex-Dividendo (corte): 2026-03-16
