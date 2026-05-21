@@ -25,15 +25,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260416
 CATEGORIES:green
-DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de PAGO: 2026-04-16\nCantidad: 545 acciones\nDiv x Acc: 0.1493 GBP\n--- Cálculo en EUR (FX: 1.1540) ---\nNETO: 76.06 EUR\nBruto: 93.90 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -17.84 EUR
-SUMMARY:💵Div (76.06€) – DIAGEO PLC ORD 28 101/108P
+DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de PAGO: 2026-04-16\nCantidad: 545 acciones\nDiv x Acc: 0.1490 GBP\n--- Cálculo en EUR (FX: 1.1556) ---\nNETO: 76.03 EUR\nBruto: 93.86 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -17.83 EUR
+SUMMARY:💵Div (76.03€) – DIAGEO PLC ORD 28 101/108P
 UID:DGE.L-green-2026-04-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260326
 CATEGORIES:green
-DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de PAGO: 2026-03-26\nCantidad: 330 acciones\nDiv x Acc: 0.6126 GBP\n--- Cálculo en EUR (FX: 1.1540) ---\nNETO: 188.96 EUR\nBruto: 233.28 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -44.32 EUR
-SUMMARY:💵Div (188.96€) – BRITISH AMERICAN TOBACCO PLC OR
+DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de PAGO: 2026-03-26\nCantidad: 330 acciones\nDiv x Acc: 0.6126 GBP\n--- Cálculo en EUR (FX: 1.1556) ---\nNETO: 189.23 EUR\nBruto: 233.62 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -44.39 EUR
+SUMMARY:💵Div (189.23€) – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-green-2026-03-26@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -109,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
 CATEGORIES:green
-DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de PAGO: 2026-02-27\nCantidad: 115 acciones\nDiv x Acc: 0.5020 USD\n--- Cálculo en EUR (FX: 0.8612) ---\nNETO: 34.80 EUR\nBruto: 49.72 EUR\nRet. Origen (30.0%): -14.92 EUR\nRet. España (dif): -0.00 EUR
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de PAGO: 2026-02-27\nCantidad: 115 acciones\nDiv x Acc: 0.5020 USD\n--- Cálculo en EUR (FX: 0.8612) ---\nNETO: 34.80 EUR\nBruto: 49.72 EUR\nRet. Origen (30.0%): -14.91 EUR\nRet. España (dif): -0.00 EUR
 SUMMARY:💵Div (34.80€) – Brookfield Asset Management Inc
 UID:BAM-green-2026-02-27@mi.calendario.financiero.v2
 END:VEVENT
@@ -137,14 +137,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260316
 CATEGORIES:green
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2026-03-16\nCantidad: 100 acciones\nDiv x Acc: 1.3000 USD\n--- Cálculo en EUR (FX: 0.8612) ---\nNETO: 78.37 EUR\nBruto: 111.96 EUR\nRet. Origen (30.0%): -33.59 EUR\nRet. España (dif): -0.00 EUR
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2026-03-16\nCantidad: 100 acciones\nDiv x Acc: 1.3000 USD\n--- Cálculo en EUR (FX: 0.8612) ---\nNETO: 78.37 EUR\nBruto: 111.95 EUR\nRet. Origen (30.0%): -33.59 EUR\nRet. España (dif): -0.00 EUR
 SUMMARY:💵Div (78.37€) – T. Rowe Price Group\, Inc.
 UID:TROW-green-2026-03-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260629
 CATEGORIES:green
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2026-06-29\nCantidad: 100 acciones\nDiv x Acc: 1.3000 USD\n--- Cálculo en EUR (FX: 0.8612) ---\nNETO: 78.37 EUR\nBruto: 111.96 EUR\nRet. Origen (30.0%): -33.59 EUR\nRet. España (dif): -0.00 EUR
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2026-06-29\nCantidad: 100 acciones\nDiv x Acc: 1.3000 USD\n--- Cálculo en EUR (FX: 0.8612) ---\nNETO: 78.37 EUR\nBruto: 111.95 EUR\nRet. Origen (30.0%): -33.59 EUR\nRet. España (dif): -0.00 EUR
 SUMMARY:💵Div (78.37€) – T. Rowe Price Group\, Inc.
 UID:TROW-green-2026-06-29@mi.calendario.financiero.v2
 END:VEVENT
@@ -235,7 +235,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260630
 CATEGORIES:green
-DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de PAGO: 2026-06-30\nCantidad: 115 acciones\nDiv x Acc: 0.5020 USD\n--- Cálculo en EUR (FX: 0.8612) ---\nNETO: 34.80 EUR\nBruto: 49.72 EUR\nRet. Origen (30.0%): -14.92 EUR\nRet. España (dif): -0.00 EUR
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de PAGO: 2026-06-30\nCantidad: 115 acciones\nDiv x Acc: 0.5020 USD\n--- Cálculo en EUR (FX: 0.8612) ---\nNETO: 34.80 EUR\nBruto: 49.72 EUR\nRet. Origen (30.0%): -14.91 EUR\nRet. España (dif): -0.00 EUR
 SUMMARY:💵Div (34.80€) – Brookfield Asset Management Inc
 UID:BAM-green-2026-06-30@mi.calendario.financiero.v2
 END:VEVENT
