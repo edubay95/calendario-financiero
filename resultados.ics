@@ -30,13 +30,6 @@ SUMMARY:💰Result – Alibaba Group Holding Limited
 UID:BABA-blue-2026-05-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260506
-CATEGORIES:blue
-DESCRIPTION:Fortinet\, Inc. (FTNT)\nFecha de resultados: 2026-05-06
-SUMMARY:💰Result – Fortinet\, Inc.
-UID:FTNT-blue-2026-05-06@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260804
 CATEGORIES:blue
 DESCRIPTION:Super Micro Computer\, Inc. (SMCI)\nFecha de resultados: 2026-08-04
@@ -511,13 +504,6 @@ CATEGORIES:blue
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de resultados: 2026-07-30
 SUMMARY:💰Result – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-blue-2026-07-30@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260805
-CATEGORIES:blue
-DESCRIPTION:Fortinet\, Inc. (FTNT)\nFecha de resultados: 2026-08-05
-SUMMARY:💰Result – Fortinet\, Inc.
-UID:FTNT-blue-2026-08-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260428
