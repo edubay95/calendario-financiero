@@ -65,13 +65,6 @@ SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2026-05-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260528
-CATEGORIES:orange
-DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha Ex-Dividendo (corte): 2026-05-28
-SUMMARY:📅Ex-Div – ACCIONES IBERDROLA
-UID:IBE.MC-orange-2026-05-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
 CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-03-31
@@ -149,6 +142,13 @@ SUMMARY:📅Ex-Div – Simon Property Group\, Inc.
 UID:SPG-orange-2026-06-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260615
+CATEGORIES:orange
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha Ex-Dividendo (corte): 2026-06-15
+SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
+UID:TROW-orange-2026-06-15@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260429
 CATEGORIES:orange
 DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-04-29
@@ -184,6 +184,13 @@ SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-orange-2026-06-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260706
+CATEGORIES:orange
+DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha Ex-Dividendo (corte): 2026-07-06
+SUMMARY:📅Ex-Div – ACCIONES IBERDROLA
+UID:IBE.MC-orange-2026-07-06@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260504
 CATEGORIES:orange
 DESCRIPTION:Blackstone Inc. (BX)\nFecha Ex-Dividendo (corte): 2026-05-04
@@ -203,6 +210,13 @@ CATEGORIES:orange
 DESCRIPTION:HERMES INTL (RMS.PA)\nFecha Ex-Dividendo (corte): 2026-04-21
 SUMMARY:📅Ex-Div – HERMES INTL
 UID:RMS.PA-orange-2026-04-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260615
+CATEGORIES:orange
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha Ex-Dividendo (corte): 2026-06-15
+SUMMARY:📅Ex-Div – Altria Group\, Inc.
+UID:MO-orange-2026-06-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
