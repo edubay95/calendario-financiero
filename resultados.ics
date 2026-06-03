@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260302
-CATEGORIES:blue
-DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2026-03-02
-SUMMARY:💰Result – AST SpaceMobile\, Inc.
-UID:ASTS-blue-2026-03-02@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260513
 CATEGORIES:blue
 DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2026-05-13
