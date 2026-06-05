@@ -128,13 +128,6 @@ SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-orange-2026-04-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260304
-CATEGORIES:orange
-DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha Ex-Dividendo (corte): 2026-03-04
-SUMMARY:📅Ex-Div – PayPal Holdings\, Inc.
-UID:PYPL-orange-2026-03-04@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260609
 CATEGORIES:orange
 DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha Ex-Dividendo (corte): 2026-06-09
