@@ -331,6 +331,13 @@ SUMMARY:📅Ex-Div – NextEra Energy\, Inc.
 UID:NEE-orange-2026-06-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+CATEGORIES:orange
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha Ex-Dividendo (corte): 2026-07-10
+SUMMARY:📅Ex-Div – Verizon Communications Inc.
+UID:VZ-orange-2026-07-10@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260326
 CATEGORIES:orange
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha Ex-Dividendo (corte): 2026-03-26
