@@ -51,6 +51,13 @@ SUMMARY:📅Ex-Div – CIE AUTOMOTIVE\, S.A.
 UID:CIE.MC-orange-2026-07-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260630
+CATEGORIES:orange
+DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-06-30
+SUMMARY:📅Ex-Div – Realty Income Corporation
+UID:O-orange-2026-06-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260701
 CATEGORIES:orange
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha Ex-Dividendo (corte): 2026-07-01
@@ -93,11 +100,11 @@ SUMMARY:📅Ex-Div – REDEIA CORPORACION\, S.A.
 UID:RED.MC-orange-2026-06-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260310
+DTSTART;VALUE=DATE:20260423
 CATEGORIES:orange
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha Ex-Dividendo (corte): 2026-03-10
-SUMMARY:📅Ex-Div – Simon Property Group\, Inc.
-UID:SPG-orange-2026-03-10@mi.calendario.financiero.v2
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha Ex-Dividendo (corte): 2026-04-23
+SUMMARY:📅Ex-Div – CVS Health Corporation
+UID:CVS-orange-2026-04-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260521
@@ -112,13 +119,6 @@ CATEGORIES:orange
 DESCRIPTION:Johnson & Johnson (JNJ)\nFecha Ex-Dividendo (corte): 2026-05-26
 SUMMARY:📅Ex-Div – Johnson & Johnson
 UID:JNJ-orange-2026-05-26@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260423
-CATEGORIES:orange
-DESCRIPTION:CVS Health Corporation (CVS)\nFecha Ex-Dividendo (corte): 2026-04-23
-SUMMARY:📅Ex-Div – CVS Health Corporation
-UID:CVS-orange-2026-04-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260424
