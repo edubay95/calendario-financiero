@@ -324,6 +324,13 @@ SUMMARY:📅Ex-Div – DIAGEO PLC ORD 28 101/108P
 UID:DGE.L-orange-2026-04-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260820
+CATEGORIES:orange
+DESCRIPTION:Microsoft Corporation (MSFT)\nFecha Ex-Dividendo (corte): 2026-08-20
+SUMMARY:📅Ex-Div – Microsoft Corporation
+UID:MSFT-orange-2026-08-20@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260605
 CATEGORIES:orange
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2026-06-05
