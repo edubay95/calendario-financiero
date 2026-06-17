@@ -156,13 +156,6 @@ SUMMARY:📅Ex-Div – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEPG.L-orange-2026-04-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260316
-CATEGORIES:orange
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha Ex-Dividendo (corte): 2026-03-16
-SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
-UID:TROW-orange-2026-03-16@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260521
 CATEGORIES:orange
 DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha Ex-Dividendo (corte): 2026-05-21
@@ -170,11 +163,11 @@ SUMMARY:📅Ex-Div – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEPG.L-orange-2026-05-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260603
+DTSTART;VALUE=DATE:20260630
 CATEGORIES:orange
-DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2026-06-03
-SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
-UID:PBR-A-orange-2026-06-03@mi.calendario.financiero.v2
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha Ex-Dividendo (corte): 2026-06-30
+SUMMARY:📅Ex-Div – Blackstone Mortgage Trust\, Inc.
+UID:BXMT-orange-2026-06-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260706
@@ -198,11 +191,11 @@ SUMMARY:📅Ex-Div – American Tower Corporation (REI
 UID:AMT-orange-2026-06-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260421
+DTSTART;VALUE=DATE:20260603
 CATEGORIES:orange
-DESCRIPTION:HERMES INTL (RMS.PA)\nFecha Ex-Dividendo (corte): 2026-04-21
-SUMMARY:📅Ex-Div – HERMES INTL
-UID:RMS.PA-orange-2026-04-21@mi.calendario.financiero.v2
+DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2026-06-03
+SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
+UID:PBR-A-orange-2026-06-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
@@ -217,6 +210,13 @@ CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-04-30
 SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2026-04-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260421
+CATEGORIES:orange
+DESCRIPTION:HERMES INTL (RMS.PA)\nFecha Ex-Dividendo (corte): 2026-04-21
+SUMMARY:📅Ex-Div – HERMES INTL
+UID:RMS.PA-orange-2026-04-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260331
@@ -247,6 +247,13 @@ SUMMARY:📅Ex-Div – Robert Half Inc.
 UID:RHI-orange-2026-05-22@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260414
+CATEGORIES:orange
+DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha Ex-Dividendo (corte): 2026-04-14
+SUMMARY:📅Ex-Div – American Tower Corporation (REI
+UID:AMT-orange-2026-04-14@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
 CATEGORIES:orange
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha Ex-Dividendo (corte): 2026-06-15
@@ -259,20 +266,6 @@ CATEGORIES:orange
 DESCRIPTION:Brookfield Corporation (BN)\nFecha Ex-Dividendo (corte): 2026-03-17
 SUMMARY:📅Ex-Div – Brookfield Corporation
 UID:BN-orange-2026-03-17@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260414
-CATEGORIES:orange
-DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha Ex-Dividendo (corte): 2026-04-14
-SUMMARY:📅Ex-Div – American Tower Corporation (REI
-UID:AMT-orange-2026-04-14@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260316
-CATEGORIES:orange
-DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha Ex-Dividendo (corte): 2026-03-16
-SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
-UID:META-orange-2026-03-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260529
