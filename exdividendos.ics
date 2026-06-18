@@ -261,13 +261,6 @@ SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
 UID:META-orange-2026-06-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260317
-CATEGORIES:orange
-DESCRIPTION:Brookfield Corporation (BN)\nFecha Ex-Dividendo (corte): 2026-03-17
-SUMMARY:📅Ex-Div – Brookfield Corporation
-UID:BN-orange-2026-03-17@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260529
 CATEGORIES:orange
 DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha Ex-Dividendo (corte): 2026-05-29
