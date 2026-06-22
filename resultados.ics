@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260513
-CATEGORIES:blue
-DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2026-05-13
-SUMMARY:💰Result – Alibaba Group Holding Limited
-UID:BABA-blue-2026-05-13@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260804
 CATEGORIES:blue
 DESCRIPTION:Super Micro Computer\, Inc. (SMCI)\nFecha de resultados: 2026-08-04
@@ -77,13 +70,6 @@ CATEGORIES:blue
 DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-04-21
 SUMMARY:💰Result – 3M Company
 UID:MMM-blue-2026-04-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260828
-CATEGORIES:blue
-DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2026-08-28
-SUMMARY:💰Result – Alibaba Group Holding Limited
-UID:BABA-blue-2026-08-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260506
