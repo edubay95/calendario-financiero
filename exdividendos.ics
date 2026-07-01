@@ -65,13 +65,6 @@ SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2026-05-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260331
-CATEGORIES:orange
-DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-03-31
-SUMMARY:📅Ex-Div – Realty Income Corporation
-UID:O-orange-2026-03-31@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260410
 CATEGORIES:orange
 DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha Ex-Dividendo (corte): 2026-04-10
@@ -210,13 +203,6 @@ CATEGORIES:orange
 DESCRIPTION:HERMES INTL (RMS.PA)\nFecha Ex-Dividendo (corte): 2026-04-21
 SUMMARY:📅Ex-Div – HERMES INTL
 UID:RMS.PA-orange-2026-04-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260331
-CATEGORIES:orange
-DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha Ex-Dividendo (corte): 2026-03-31
-SUMMARY:📅Ex-Div – Blackstone Mortgage Trust\, Inc.
-UID:BXMT-orange-2026-03-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260515
