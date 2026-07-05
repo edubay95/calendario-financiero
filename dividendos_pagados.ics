@@ -32,15 +32,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260630
 CATEGORIES:green
-DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de PAGO: 2026-06-30\nCantidad: 310 acciones\nDiv x Acc: 0.4700 USD\n--- Cálculo en EUR (FX: 0.8743) ---\nNETO: 89.16 EUR\nBruto: 127.38 EUR\nRet. Origen (30.0%): -38.21 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (89.16€) – Blackstone Mortgage Trust\, Inc.
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de PAGO: 2026-06-30\nCantidad: 310 acciones\nDiv x Acc: 0.4700 USD\n--- Cálculo en EUR (FX: 0.8743) ---\nNETO: 89.17 EUR\nBruto: 127.38 EUR\nRet. Origen (30.0%): -38.21 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (89.17€) – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-green-2026-06-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260715
 CATEGORIES:green
-DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de PAGO: 2026-07-15\nCantidad: 310 acciones\nDiv x Acc: 0.4700 USD\n--- Cálculo en EUR (FX: 0.8743) ---\nNETO: 89.16 EUR\nBruto: 127.38 EUR\nRet. Origen (30.0%): -38.21 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (89.16€) – Blackstone Mortgage Trust\, Inc.
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de PAGO: 2026-07-15\nCantidad: 310 acciones\nDiv x Acc: 0.4700 USD\n--- Cálculo en EUR (FX: 0.8743) ---\nNETO: 89.17 EUR\nBruto: 127.38 EUR\nRet. Origen (30.0%): -38.21 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (89.17€) – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-green-2026-07-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -53,8 +53,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260827
 CATEGORIES:green
-DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de PAGO: 2026-08-27\nCantidad: 1000 acciones\nDiv x Acc: 0.1430 USD\n--- Cálculo en EUR (FX: 0.8743) ---\nNETO: 101.26 EUR\nBruto: 125.02 EUR\nRet. Origen (15.0%): -18.75 EUR\nRet. España (dif): -5.00 EUR
-SUMMARY:💵Div (101.26€) – Petroleo Brasileiro S.A. Petrob
+DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de PAGO: 2026-08-27\nCantidad: 1000 acciones\nDiv x Acc: 0.1430 USD\n--- Cálculo en EUR (FX: 0.8743) ---\nNETO: 101.27 EUR\nBruto: 125.02 EUR\nRet. Origen (15.0%): -18.75 EUR\nRet. España (dif): -5.00 EUR
+SUMMARY:💵Div (101.27€) – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-green-2026-08-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -305,8 +305,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
 CATEGORIES:green
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de PAGO: 2026-06-15\nCantidad: 180 acciones\nDiv x Acc: 1.0600 USD\n--- Cálculo en EUR (FX: 0.8743) ---\nNETO: 116.76 EUR\nBruto: 166.81 EUR\nRet. Origen (30.0%): -50.04 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (116.76€) – Altria Group\, Inc.
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de PAGO: 2026-06-15\nCantidad: 180 acciones\nDiv x Acc: 1.0600 USD\n--- Cálculo en EUR (FX: 0.8743) ---\nNETO: 116.77 EUR\nBruto: 166.81 EUR\nRet. Origen (30.0%): -50.04 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (116.77€) – Altria Group\, Inc.
 UID:MO-green-2026-06-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -354,15 +354,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
 CATEGORIES:green
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de PAGO: 2026-07-10\nCantidad: 180 acciones\nDiv x Acc: 1.0600 USD\n--- Cálculo en EUR (FX: 0.8743) ---\nNETO: 116.76 EUR\nBruto: 166.81 EUR\nRet. Origen (30.0%): -50.04 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (116.76€) – Altria Group\, Inc.
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de PAGO: 2026-07-10\nCantidad: 180 acciones\nDiv x Acc: 1.0600 USD\n--- Cálculo en EUR (FX: 0.8743) ---\nNETO: 116.77 EUR\nBruto: 166.81 EUR\nRet. Origen (30.0%): -50.04 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (116.77€) – Altria Group\, Inc.
 UID:MO-green-2026-07-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260609
 CATEGORIES:green
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2026-06-09\nCantidad: 100 acciones\nDiv x Acc: 2.2500 USD\n--- Cálculo en EUR (FX: 0.8743) ---\nNETO: 137.69 EUR\nBruto: 196.71 EUR\nRet. Origen (30.0%): -59.01 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (137.69€) – Simon Property Group\, Inc.
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2026-06-09\nCantidad: 100 acciones\nDiv x Acc: 2.2500 USD\n--- Cálculo en EUR (FX: 0.8743) ---\nNETO: 137.70 EUR\nBruto: 196.71 EUR\nRet. Origen (30.0%): -59.01 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (137.70€) – Simon Property Group\, Inc.
 UID:SPG-green-2026-06-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -396,8 +396,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260603
 CATEGORIES:green
-DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de PAGO: 2026-06-03\nCantidad: 1000 acciones\nDiv x Acc: 0.1430 USD\n--- Cálculo en EUR (FX: 0.8743) ---\nNETO: 101.26 EUR\nBruto: 125.02 EUR\nRet. Origen (15.0%): -18.75 EUR\nRet. España (dif): -5.00 EUR
-SUMMARY:💵Div (101.26€) – Petroleo Brasileiro S.A. Petrob
+DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de PAGO: 2026-06-03\nCantidad: 1000 acciones\nDiv x Acc: 0.1430 USD\n--- Cálculo en EUR (FX: 0.8743) ---\nNETO: 101.27 EUR\nBruto: 125.02 EUR\nRet. Origen (15.0%): -18.75 EUR\nRet. España (dif): -5.00 EUR
+SUMMARY:💵Div (101.27€) – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-green-2026-06-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -431,8 +431,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260630
 CATEGORIES:green
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2026-06-30\nCantidad: 100 acciones\nDiv x Acc: 2.2500 USD\n--- Cálculo en EUR (FX: 0.8743) ---\nNETO: 137.69 EUR\nBruto: 196.71 EUR\nRet. Origen (30.0%): -59.01 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (137.69€) – Simon Property Group\, Inc.
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2026-06-30\nCantidad: 100 acciones\nDiv x Acc: 2.2500 USD\n--- Cálculo en EUR (FX: 0.8743) ---\nNETO: 137.70 EUR\nBruto: 196.71 EUR\nRet. Origen (30.0%): -59.01 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (137.70€) – Simon Property Group\, Inc.
 UID:SPG-green-2026-06-30@mi.calendario.financiero.v2
 END:VEVENT
 END:VCALENDAR
