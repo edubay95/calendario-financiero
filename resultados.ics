@@ -23,6 +23,13 @@ SUMMARY:💰Result – Robert Half Inc.
 UID:RHI-blue-2026-07-22@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260724
+CATEGORIES:blue
+DESCRIPTION:CIE AUTOMOTIVE\, S.A. (CIE.MC)\nFecha de resultados: 2026-07-24
+SUMMARY:💰Result – CIE AUTOMOTIVE\, S.A.
+UID:CIE.MC-blue-2026-07-24@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260427
 CATEGORIES:blue
 DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2026-04-27
@@ -247,13 +254,6 @@ SUMMARY:💰Result – Blackstone Inc.
 UID:BX-blue-2026-07-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260727
-CATEGORIES:blue
-DESCRIPTION:CIE AUTOMOTIVE\, S.A. (CIE.MC)\nFecha de resultados: 2026-07-27
-SUMMARY:💰Result – CIE AUTOMOTIVE\, S.A.
-UID:CIE.MC-blue-2026-07-27@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
 CATEGORIES:blue
 DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2026-07-30
@@ -301,6 +301,13 @@ CATEGORIES:blue
 DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-08-10
 SUMMARY:💰Result – Simon Property Group\, Inc.
 UID:SPG-blue-2026-08-10@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260805
+CATEGORIES:blue
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-08-05
+SUMMARY:💰Result – CVS Health Corporation
+UID:CVS-blue-2026-08-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260722
@@ -415,13 +422,6 @@ SUMMARY:💰Result – The Hershey Company
 UID:HSY-blue-2026-07-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260730
-CATEGORIES:blue
-DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-07-30
-SUMMARY:💰Result – CVS Health Corporation
-UID:CVS-blue-2026-07-30@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260511
 CATEGORIES:blue
 DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2026-05-11
@@ -429,18 +429,18 @@ SUMMARY:💰Result – AST SpaceMobile\, Inc.
 UID:ASTS-blue-2026-05-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260721
-CATEGORIES:blue
-DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-07-21
-SUMMARY:💰Result – 3M Company
-UID:MMM-blue-2026-07-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260505
 CATEGORIES:blue
 DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-05-05
 SUMMARY:💰Result – PayPal Holdings\, Inc.
 UID:PYPL-blue-2026-05-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260721
+CATEGORIES:blue
+DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-07-21
+SUMMARY:💰Result – 3M Company
+UID:MMM-blue-2026-07-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
