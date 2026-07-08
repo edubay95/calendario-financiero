@@ -289,13 +289,6 @@ SUMMARY:📅Ex-Div – Alibaba Group Holding Limited
 UID:BABA-orange-2026-06-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260416
-CATEGORIES:orange
-DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha Ex-Dividendo (corte): 2026-04-16
-SUMMARY:📅Ex-Div – DIAGEO PLC ORD 28 101/108P
-UID:DGE.L-orange-2026-04-16@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260820
 CATEGORIES:orange
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha Ex-Dividendo (corte): 2026-08-20
@@ -324,10 +317,10 @@ SUMMARY:📅Ex-Div – Microsoft Corporation
 UID:MSFT-orange-2026-05-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260407
+DTSTART;VALUE=DATE:20260416
 CATEGORIES:orange
-DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha Ex-Dividendo (corte): 2026-04-07
-SUMMARY:📅Ex-Div – CAIXABANK\, S.A.
-UID:CABK.MC-orange-2026-04-07@mi.calendario.financiero.v2
+DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha Ex-Dividendo (corte): 2026-04-16
+SUMMARY:📅Ex-Div – DIAGEO PLC ORD 28 101/108P
+UID:DGE.L-orange-2026-04-16@mi.calendario.financiero.v2
 END:VEVENT
 END:VCALENDAR
