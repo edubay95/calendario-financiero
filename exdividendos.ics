@@ -79,6 +79,13 @@ SUMMARY:📅Ex-Div – Verizon Communications Inc.
 UID:VZ-orange-2026-04-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260731
+CATEGORIES:orange
+DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-07-31
+SUMMARY:📅Ex-Div – Realty Income Corporation
+UID:O-orange-2026-07-31@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260629
 CATEGORIES:orange
 DESCRIPTION:REDEIA CORPORACION\, S.A. (RED.MC)\nFecha Ex-Dividendo (corte): 2026-06-29
