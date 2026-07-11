@@ -79,6 +79,13 @@ SUMMARY:💰Result – Robert Half Inc.
 UID:RHI-blue-2026-04-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260724
+CATEGORIES:blue
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-07-24
+SUMMARY:💰Result – NextEra Energy\, Inc.
+UID:NEE-blue-2026-07-24@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260421
 CATEGORIES:blue
 DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-04-21
@@ -217,13 +224,6 @@ CATEGORIES:blue
 DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-06-03
 SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-blue-2026-06-03@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260722
-CATEGORIES:blue
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-07-22
-SUMMARY:💰Result – NextEra Energy\, Inc.
-UID:NEE-blue-2026-07-22@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260731

@@ -9,6 +9,13 @@ SUMMARY:📅Ex-Div – TELEFONICA\,S.A.
 UID:TEF.MC-orange-2026-06-16@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+CATEGORIES:orange
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha Ex-Dividendo (corte): 2026-07-23
+SUMMARY:📅Ex-Div – CVS Health Corporation
+UID:CVS-orange-2026-07-23@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260709
 CATEGORIES:orange
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha Ex-Dividendo (corte): 2026-07-09
@@ -63,13 +70,6 @@ CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-05-29
 SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2026-05-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-CATEGORIES:orange
-DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha Ex-Dividendo (corte): 2026-04-10
-SUMMARY:📅Ex-Div – Verizon Communications Inc.
-UID:VZ-orange-2026-04-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260731
@@ -294,6 +294,13 @@ CATEGORIES:orange
 DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha Ex-Dividendo (corte): 2026-06-11
 SUMMARY:📅Ex-Div – Alibaba Group Holding Limited
 UID:BABA-orange-2026-06-11@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260709
+CATEGORIES:orange
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha Ex-Dividendo (corte): 2026-07-09
+SUMMARY:📅Ex-Div – JPMORGAN ETFS (IRELAND) ICAV JP
+UID:JEQP.L-orange-2026-07-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260820
