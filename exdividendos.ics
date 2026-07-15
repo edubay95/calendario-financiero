@@ -240,13 +240,6 @@ SUMMARY:📅Ex-Div – Robert Half Inc.
 UID:RHI-orange-2026-05-22@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260414
-CATEGORIES:orange
-DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha Ex-Dividendo (corte): 2026-04-14
-SUMMARY:📅Ex-Div – American Tower Corporation (REI
-UID:AMT-orange-2026-04-14@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
 CATEGORIES:orange
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha Ex-Dividendo (corte): 2026-06-15
