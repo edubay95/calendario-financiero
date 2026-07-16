@@ -268,6 +268,13 @@ SUMMARY:💰Result – Altria Group\, Inc.
 UID:MO-blue-2026-07-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260813
+CATEGORIES:blue
+DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2026-08-13
+SUMMARY:💰Result – Brookfield Corporation
+UID:BN-blue-2026-08-13@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260511
 CATEGORIES:blue
 DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de resultados: 2026-05-11
@@ -399,13 +406,6 @@ CATEGORIES:blue
 DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha de resultados: 2026-07-24
 SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-blue-2026-07-24@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260806
-CATEGORIES:blue
-DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2026-08-06
-SUMMARY:💰Result – Brookfield Corporation
-UID:BN-blue-2026-08-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
