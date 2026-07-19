@@ -46,8 +46,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260805
 CATEGORIES:blue
-DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-08-05
-SUMMARY:💰Result – Realty Income Corporation
+DESCRIPTION:Realty Income (O)\nFecha de resultados: 2026-08-05
+SUMMARY:💰Result – Realty Income
 UID:O-blue-2026-08-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -67,15 +67,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
 CATEGORIES:blue
-DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-04-23
-SUMMARY:💰Result – Robert Half Inc.
+DESCRIPTION:RHI (RHI)\nFecha de resultados: 2026-04-23
+SUMMARY:💰Result – RHI
 UID:RHI-blue-2026-04-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260724
 CATEGORIES:blue
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-07-24
-SUMMARY:💰Result – NextEra Energy\, Inc.
+DESCRIPTION:NextEra Energy (NEE)\nFecha de resultados: 2026-07-24
+SUMMARY:💰Result – NextEra Energy
 UID:NEE-blue-2026-07-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -95,8 +95,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260506
 CATEGORIES:blue
-DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-05-06
-SUMMARY:💰Result – Realty Income Corporation
+DESCRIPTION:Realty Income (O)\nFecha de resultados: 2026-05-06
+SUMMARY:💰Result – Realty Income
 UID:O-blue-2026-05-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -109,8 +109,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260909
 CATEGORIES:blue
-DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-09-09
-SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
+DESCRIPTION:Inditex (ITX.MC)\nFecha de resultados: 2026-09-09
+SUMMARY:💰Result – Inditex
 UID:ITX.MC-blue-2026-09-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -221,8 +221,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260603
 CATEGORIES:blue
-DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-06-03
-SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
+DESCRIPTION:Inditex (ITX.MC)\nFecha de resultados: 2026-06-03
+SUMMARY:💰Result – Inditex
 UID:ITX.MC-blue-2026-06-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -249,8 +249,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
 CATEGORIES:blue
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-04-23
-SUMMARY:💰Result – NextEra Energy\, Inc.
+DESCRIPTION:NextEra Energy (NEE)\nFecha de resultados: 2026-04-23
+SUMMARY:💰Result – NextEra Energy
 UID:NEE-blue-2026-04-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -263,16 +263,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
 CATEGORIES:blue
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2026-07-30
-SUMMARY:💰Result – Altria Group\, Inc.
+DESCRIPTION:Altria (MO)\nFecha de resultados: 2026-07-30
+SUMMARY:💰Result – Altria
 UID:MO-blue-2026-07-30@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260813
-CATEGORIES:blue
-DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2026-08-13
-SUMMARY:💰Result – Brookfield Corporation
-UID:BN-blue-2026-08-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260511
@@ -291,8 +284,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
 CATEGORIES:blue
-DESCRIPTION:HERMES INTL (RMS.PA)\nFecha de resultados: 2026-07-29
-SUMMARY:💰Result – HERMES INTL
+DESCRIPTION:HERMES (RMS.PA)\nFecha de resultados: 2026-07-29
+SUMMARY:💰Result – HERMES
 UID:RMS.PA-blue-2026-07-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -305,8 +298,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260810
 CATEGORIES:blue
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-08-10
-SUMMARY:💰Result – Simon Property Group\, Inc.
+DESCRIPTION:Simon Property Group (SPG)\nFecha de resultados: 2026-08-10
+SUMMARY:💰Result – Simon Property Group
 UID:SPG-blue-2026-08-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -340,8 +333,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260511
 CATEGORIES:blue
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-05-11
-SUMMARY:💰Result – Simon Property Group\, Inc.
+DESCRIPTION:Simon Property Group (SPG)\nFecha de resultados: 2026-05-11
+SUMMARY:💰Result – Simon Property Group
 UID:SPG-blue-2026-05-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -375,8 +368,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
 CATEGORIES:blue
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2026-04-30
-SUMMARY:💰Result – Altria Group\, Inc.
+DESCRIPTION:Altria (MO)\nFecha de resultados: 2026-04-30
+SUMMARY:💰Result – Altria
 UID:MO-blue-2026-04-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -408,6 +401,13 @@ SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-blue-2026-07-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+CATEGORIES:blue
+DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2026-08-06
+SUMMARY:💰Result – Brookfield Corporation
+UID:BN-blue-2026-08-06@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
 CATEGORIES:blue
 DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-07-30
@@ -429,18 +429,18 @@ SUMMARY:💰Result – PayPal Holdings\, Inc.
 UID:PYPL-blue-2026-05-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260723
-CATEGORIES:blue
-DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-07-23
-SUMMARY:💰Result – Robert Half Inc.
-UID:RHI-blue-2026-07-23@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260721
 CATEGORIES:blue
 DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-07-21
 SUMMARY:💰Result – 3M Company
 UID:MMM-blue-2026-07-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+CATEGORIES:blue
+DESCRIPTION:RHI (RHI)\nFecha de resultados: 2026-07-23
+SUMMARY:💰Result – RHI
+UID:RHI-blue-2026-07-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730

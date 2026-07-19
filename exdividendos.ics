@@ -46,8 +46,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260630
 CATEGORIES:orange
-DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-06-30
-SUMMARY:📅Ex-Div – Realty Income Corporation
+DESCRIPTION:Realty Income (O)\nFecha Ex-Dividendo (corte): 2026-06-30
+SUMMARY:📅Ex-Div – Realty Income
 UID:O-orange-2026-06-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -67,15 +67,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260529
 CATEGORIES:orange
-DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-05-29
-SUMMARY:📅Ex-Div – Realty Income Corporation
+DESCRIPTION:Realty Income (O)\nFecha Ex-Dividendo (corte): 2026-05-29
+SUMMARY:📅Ex-Div – Realty Income
 UID:O-orange-2026-05-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260731
 CATEGORIES:orange
-DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-07-31
-SUMMARY:📅Ex-Div – Realty Income Corporation
+DESCRIPTION:Realty Income (O)\nFecha Ex-Dividendo (corte): 2026-07-31
+SUMMARY:📅Ex-Div – Realty Income
 UID:O-orange-2026-07-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -137,8 +137,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260609
 CATEGORIES:orange
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha Ex-Dividendo (corte): 2026-06-09
-SUMMARY:📅Ex-Div – Simon Property Group\, Inc.
+DESCRIPTION:Simon Property Group (SPG)\nFecha Ex-Dividendo (corte): 2026-06-09
+SUMMARY:📅Ex-Div – Simon Property Group
 UID:SPG-orange-2026-06-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -158,8 +158,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260429
 CATEGORIES:orange
-DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-04-29
-SUMMARY:📅Ex-Div – INDUSTRIA DE DISE...O TEXTIL S.
+DESCRIPTION:Inditex (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-04-29
+SUMMARY:📅Ex-Div – Inditex
 UID:ITX.MC-orange-2026-04-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -207,22 +207,22 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
 CATEGORIES:orange
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha Ex-Dividendo (corte): 2026-06-15
-SUMMARY:📅Ex-Div – Altria Group\, Inc.
+DESCRIPTION:Altria (MO)\nFecha Ex-Dividendo (corte): 2026-06-15
+SUMMARY:📅Ex-Div – Altria
 UID:MO-orange-2026-06-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
 CATEGORIES:orange
-DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-04-30
-SUMMARY:📅Ex-Div – Realty Income Corporation
+DESCRIPTION:Realty Income (O)\nFecha Ex-Dividendo (corte): 2026-04-30
+SUMMARY:📅Ex-Div – Realty Income
 UID:O-orange-2026-04-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260421
 CATEGORIES:orange
-DESCRIPTION:HERMES INTL (RMS.PA)\nFecha Ex-Dividendo (corte): 2026-04-21
-SUMMARY:📅Ex-Div – HERMES INTL
+DESCRIPTION:HERMES (RMS.PA)\nFecha Ex-Dividendo (corte): 2026-04-21
+SUMMARY:📅Ex-Div – HERMES
 UID:RMS.PA-orange-2026-04-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -242,8 +242,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260522
 CATEGORIES:orange
-DESCRIPTION:Robert Half Inc. (RHI)\nFecha Ex-Dividendo (corte): 2026-05-22
-SUMMARY:📅Ex-Div – Robert Half Inc.
+DESCRIPTION:RHI (RHI)\nFecha Ex-Dividendo (corte): 2026-05-22
+SUMMARY:📅Ex-Div – RHI
 UID:RHI-orange-2026-05-22@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -312,8 +312,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260605
 CATEGORIES:orange
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2026-06-05
-SUMMARY:📅Ex-Div – NextEra Energy\, Inc.
+DESCRIPTION:NextEra Energy (NEE)\nFecha Ex-Dividendo (corte): 2026-06-05
+SUMMARY:📅Ex-Div – NextEra Energy
 UID:NEE-orange-2026-06-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
