@@ -46,8 +46,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260805
 CATEGORIES:blue
-DESCRIPTION:Realty Income (O)\nFecha de resultados: 2026-08-05
-SUMMARY:💰Result – Realty Income
+DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-08-05
+SUMMARY:💰Result – Realty Income Corporation
 UID:O-blue-2026-08-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -67,15 +67,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
 CATEGORIES:blue
-DESCRIPTION:RHI (RHI)\nFecha de resultados: 2026-04-23
-SUMMARY:💰Result – RHI
+DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-04-23
+SUMMARY:💰Result – Robert Half Inc.
 UID:RHI-blue-2026-04-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260724
 CATEGORIES:blue
-DESCRIPTION:NextEra Energy (NEE)\nFecha de resultados: 2026-07-24
-SUMMARY:💰Result – NextEra Energy
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-07-24
+SUMMARY:💰Result – NextEra Energy\, Inc.
 UID:NEE-blue-2026-07-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -95,8 +95,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260506
 CATEGORIES:blue
-DESCRIPTION:Realty Income (O)\nFecha de resultados: 2026-05-06
-SUMMARY:💰Result – Realty Income
+DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-05-06
+SUMMARY:💰Result – Realty Income Corporation
 UID:O-blue-2026-05-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -249,8 +249,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
 CATEGORIES:blue
-DESCRIPTION:NextEra Energy (NEE)\nFecha de resultados: 2026-04-23
-SUMMARY:💰Result – NextEra Energy
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-04-23
+SUMMARY:💰Result – NextEra Energy\, Inc.
 UID:NEE-blue-2026-04-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -263,8 +263,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
 CATEGORIES:blue
-DESCRIPTION:Altria (MO)\nFecha de resultados: 2026-07-30
-SUMMARY:💰Result – Altria
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2026-07-30
+SUMMARY:💰Result – Altria Group\, Inc.
 UID:MO-blue-2026-07-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -284,8 +284,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
 CATEGORIES:blue
-DESCRIPTION:HERMES (RMS.PA)\nFecha de resultados: 2026-07-29
-SUMMARY:💰Result – HERMES
+DESCRIPTION:HERMES INTL (RMS.PA)\nFecha de resultados: 2026-07-29
+SUMMARY:💰Result – HERMES INTL
 UID:RMS.PA-blue-2026-07-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -298,8 +298,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260810
 CATEGORIES:blue
-DESCRIPTION:Simon Property Group (SPG)\nFecha de resultados: 2026-08-10
-SUMMARY:💰Result – Simon Property Group
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-08-10
+SUMMARY:💰Result – Simon Property Group\, Inc.
 UID:SPG-blue-2026-08-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -333,8 +333,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260511
 CATEGORIES:blue
-DESCRIPTION:Simon Property Group (SPG)\nFecha de resultados: 2026-05-11
-SUMMARY:💰Result – Simon Property Group
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-05-11
+SUMMARY:💰Result – Simon Property Group\, Inc.
 UID:SPG-blue-2026-05-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -368,8 +368,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
 CATEGORIES:blue
-DESCRIPTION:Altria (MO)\nFecha de resultados: 2026-04-30
-SUMMARY:💰Result – Altria
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2026-04-30
+SUMMARY:💰Result – Altria Group\, Inc.
 UID:MO-blue-2026-04-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -438,8 +438,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260723
 CATEGORIES:blue
-DESCRIPTION:RHI (RHI)\nFecha de resultados: 2026-07-23
-SUMMARY:💰Result – RHI
+DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-07-23
+SUMMARY:💰Result – Robert Half Inc.
 UID:RHI-blue-2026-07-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
