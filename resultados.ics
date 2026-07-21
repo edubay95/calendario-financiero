@@ -109,8 +109,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260909
 CATEGORIES:blue
-DESCRIPTION:Inditex (ITX.MC)\nFecha de resultados: 2026-09-09
-SUMMARY:💰Result – Inditex
+DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-09-09
+SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-blue-2026-09-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -126,13 +126,6 @@ CATEGORIES:blue
 DESCRIPTION:ACS\,ACTIVIDADES DE CONSTRUCCION (ACS.MC)\nFecha de resultados: 2026-07-29
 SUMMARY:💰Result – ACS\,ACTIVIDADES DE CONSTRUCCION
 UID:ACS.MC-blue-2026-07-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260729
-CATEGORIES:blue
-DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2026-07-29
-SUMMARY:💰Result – TELEFONICA\,S.A.
-UID:TEF.MC-blue-2026-07-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260723
@@ -177,11 +170,11 @@ SUMMARY:💰Result – PayPal Holdings\, Inc.
 UID:PYPL-blue-2026-07-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260514
+DTSTART;VALUE=DATE:20260511
 CATEGORIES:blue
-DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2026-05-14
-SUMMARY:💰Result – TELEFONICA\,S.A.
-UID:TEF.MC-blue-2026-05-14@mi.calendario.financiero.v2
+DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-05-11
+SUMMARY:💰Result – Satellogic Inc.
+UID:SATL-blue-2026-05-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260428
@@ -205,13 +198,6 @@ SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-08-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260511
-CATEGORIES:blue
-DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-05-11
-SUMMARY:💰Result – Satellogic Inc.
-UID:SATL-blue-2026-05-11@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
 CATEGORIES:blue
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-07-29
@@ -221,8 +207,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260603
 CATEGORIES:blue
-DESCRIPTION:Inditex (ITX.MC)\nFecha de resultados: 2026-06-03
-SUMMARY:💰Result – Inditex
+DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-06-03
+SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-blue-2026-06-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -266,6 +252,13 @@ CATEGORIES:blue
 DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2026-07-30
 SUMMARY:💰Result – Altria Group\, Inc.
 UID:MO-blue-2026-07-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260813
+CATEGORIES:blue
+DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2026-08-13
+SUMMARY:💰Result – Brookfield Corporation
+UID:BN-blue-2026-08-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260511
@@ -401,13 +394,6 @@ SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-blue-2026-07-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260806
-CATEGORIES:blue
-DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2026-08-06
-SUMMARY:💰Result – Brookfield Corporation
-UID:BN-blue-2026-08-06@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
 CATEGORIES:blue
 DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-07-30
@@ -429,18 +415,18 @@ SUMMARY:💰Result – PayPal Holdings\, Inc.
 UID:PYPL-blue-2026-05-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260721
-CATEGORIES:blue
-DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-07-21
-SUMMARY:💰Result – 3M Company
-UID:MMM-blue-2026-07-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260723
 CATEGORIES:blue
 DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-07-23
 SUMMARY:💰Result – Robert Half Inc.
 UID:RHI-blue-2026-07-23@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260721
+CATEGORIES:blue
+DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-07-21
+SUMMARY:💰Result – 3M Company
+UID:MMM-blue-2026-07-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
