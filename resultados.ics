@@ -65,6 +65,13 @@ SUMMARY:💰Result – Robert Half Inc.
 UID:RHI-blue-2026-04-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260724
+CATEGORIES:blue
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-07-24
+SUMMARY:💰Result – NextEra Energy\, Inc.
+UID:NEE-blue-2026-07-24@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260828
 CATEGORIES:blue
 DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2026-08-28
@@ -91,6 +98,13 @@ CATEGORIES:blue
 DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-09-09
 SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-blue-2026-09-09@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260805
+CATEGORIES:blue
+DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-08-05
+SUMMARY:💰Result – Satellogic Inc.
+UID:SATL-blue-2026-08-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
@@ -226,6 +240,13 @@ SUMMARY:💰Result – Johnson & Johnson
 UID:JNJ-blue-2026-10-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260423
+CATEGORIES:blue
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-04-23
+SUMMARY:💰Result – NextEra Energy\, Inc.
+UID:NEE-blue-2026-04-23@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260723
 CATEGORIES:blue
 DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2026-07-23
@@ -254,13 +275,6 @@ SUMMARY:💰Result – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-blue-2026-05-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260722
-CATEGORIES:blue
-DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2026-07-22
-SUMMARY:💰Result – ACCIONES IBERDROLA
-UID:IBE.MC-blue-2026-07-22@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
 CATEGORIES:blue
 DESCRIPTION:HERMES INTL (RMS.PA)\nFecha de resultados: 2026-07-29
@@ -287,13 +301,6 @@ CATEGORIES:blue
 DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-08-05
 SUMMARY:💰Result – CVS Health Corporation
 UID:CVS-blue-2026-08-05@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260722
-CATEGORIES:blue
-DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2026-07-22
-SUMMARY:💰Result – BANCO SANTANDER S.A.
-UID:SAN.MC-blue-2026-07-22@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260728
@@ -338,11 +345,11 @@ SUMMARY:💰Result – DIAGEO PLC ORD 28 101/108P
 UID:DGE.L-blue-2026-08-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260813
+DTSTART;VALUE=DATE:20260721
 CATEGORIES:blue
-DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-08-13
-SUMMARY:💰Result – Satellogic Inc.
-UID:SATL-blue-2026-08-13@mi.calendario.financiero.v2
+DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2026-07-21
+SUMMARY:💰Result – ACCIONES IBERDROLA
+UID:IBE.MC-blue-2026-07-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
@@ -387,6 +394,13 @@ SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-blue-2026-07-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260721
+CATEGORIES:blue
+DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2026-07-21
+SUMMARY:💰Result – BANCO SANTANDER S.A.
+UID:SAN.MC-blue-2026-07-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
 CATEGORIES:blue
 DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-07-30
@@ -394,11 +408,25 @@ SUMMARY:💰Result – The Hershey Company
 UID:HSY-blue-2026-07-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261020
+CATEGORIES:blue
+DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-10-20
+SUMMARY:💰Result – 3M Company
+UID:MMM-blue-2026-10-20@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260511
 CATEGORIES:blue
 DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2026-05-11
 SUMMARY:💰Result – AST SpaceMobile\, Inc.
 UID:ASTS-blue-2026-05-11@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260721
+CATEGORIES:blue
+DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-07-21
+SUMMARY:💰Result – 3M Company
+UID:MMM-blue-2026-07-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260505
@@ -413,13 +441,6 @@ CATEGORIES:blue
 DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-07-23
 SUMMARY:💰Result – Robert Half Inc.
 UID:RHI-blue-2026-07-23@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260721
-CATEGORIES:blue
-DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-07-21
-SUMMARY:💰Result – 3M Company
-UID:MMM-blue-2026-07-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
