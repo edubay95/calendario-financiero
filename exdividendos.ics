@@ -107,13 +107,6 @@ SUMMARY:📅Ex-Div – REDEIA CORPORACION\, S.A.
 UID:RED.MC-orange-2026-06-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260423
-CATEGORIES:orange
-DESCRIPTION:CVS Health Corporation (CVS)\nFecha Ex-Dividendo (corte): 2026-04-23
-SUMMARY:📅Ex-Div – CVS Health Corporation
-UID:CVS-orange-2026-04-23@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260521
 CATEGORIES:orange
 DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha Ex-Dividendo (corte): 2026-05-21

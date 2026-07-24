@@ -58,13 +58,6 @@ SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-05-08@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260423
-CATEGORIES:blue
-DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-04-23
-SUMMARY:💰Result – Robert Half Inc.
-UID:RHI-blue-2026-04-23@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260724
 CATEGORIES:blue
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-07-24
@@ -126,13 +119,6 @@ CATEGORIES:blue
 DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2026-07-29
 SUMMARY:💰Result – TELEFONICA\,S.A.
 UID:TEF.MC-blue-2026-07-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260723
-CATEGORIES:blue
-DESCRIPTION:VIDRALA\, S.A. (VID.MC)\nFecha de resultados: 2026-07-23
-SUMMARY:💰Result – VIDRALA\, S.A.
-UID:VID.MC-blue-2026-07-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
@@ -240,13 +226,6 @@ SUMMARY:💰Result – Johnson & Johnson
 UID:JNJ-blue-2026-10-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260423
-CATEGORIES:blue
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-04-23
-SUMMARY:💰Result – NextEra Energy\, Inc.
-UID:NEE-blue-2026-04-23@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260723
 CATEGORIES:blue
 DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2026-07-23
@@ -259,6 +238,13 @@ CATEGORIES:blue
 DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2026-07-30
 SUMMARY:💰Result – Altria Group\, Inc.
 UID:MO-blue-2026-07-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261021
+CATEGORIES:blue
+DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2026-10-21
+SUMMARY:💰Result – ACCIONES IBERDROLA
+UID:IBE.MC-blue-2026-10-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260813
@@ -350,13 +336,6 @@ CATEGORIES:blue
 DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2026-07-21
 SUMMARY:💰Result – ACCIONES IBERDROLA
 UID:IBE.MC-blue-2026-07-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260423
-CATEGORIES:blue
-DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2026-04-23
-SUMMARY:💰Result – Blackstone Inc.
-UID:BX-blue-2026-04-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260430
