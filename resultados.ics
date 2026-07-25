@@ -9,11 +9,11 @@ SUMMARY:💰Result – Alibaba Group Holding Limited
 UID:BABA-blue-2026-05-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260724
+DTSTART;VALUE=DATE:20261021
 CATEGORIES:blue
-DESCRIPTION:CIE AUTOMOTIVE\, S.A. (CIE.MC)\nFecha de resultados: 2026-07-24
-SUMMARY:💰Result – CIE AUTOMOTIVE\, S.A.
-UID:CIE.MC-blue-2026-07-24@mi.calendario.financiero.v2
+DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-10-21
+SUMMARY:💰Result – Robert Half Inc.
+UID:RHI-blue-2026-10-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260427
@@ -226,6 +226,13 @@ SUMMARY:💰Result – Johnson & Johnson
 UID:JNJ-blue-2026-10-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261022
+CATEGORIES:blue
+DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2026-10-22
+SUMMARY:💰Result – Blackstone Inc.
+UID:BX-blue-2026-10-22@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260723
 CATEGORIES:blue
 DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2026-07-23
@@ -366,11 +373,11 @@ SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-blue-2026-04-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260724
+DTSTART;VALUE=DATE:20260730
 CATEGORIES:blue
-DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha de resultados: 2026-07-24
-SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
-UID:LOG.MC-blue-2026-07-24@mi.calendario.financiero.v2
+DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-07-30
+SUMMARY:💰Result – The Hershey Company
+UID:HSY-blue-2026-07-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260721
@@ -380,11 +387,11 @@ SUMMARY:💰Result – BANCO SANTANDER S.A.
 UID:SAN.MC-blue-2026-07-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260730
+DTSTART;VALUE=DATE:20260511
 CATEGORIES:blue
-DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-07-30
-SUMMARY:💰Result – The Hershey Company
-UID:HSY-blue-2026-07-30@mi.calendario.financiero.v2
+DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2026-05-11
+SUMMARY:💰Result – AST SpaceMobile\, Inc.
+UID:ASTS-blue-2026-05-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261020
@@ -394,11 +401,11 @@ SUMMARY:💰Result – 3M Company
 UID:MMM-blue-2026-10-20@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260511
+DTSTART;VALUE=DATE:20260505
 CATEGORIES:blue
-DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2026-05-11
-SUMMARY:💰Result – AST SpaceMobile\, Inc.
-UID:ASTS-blue-2026-05-11@mi.calendario.financiero.v2
+DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-05-05
+SUMMARY:💰Result – PayPal Holdings\, Inc.
+UID:PYPL-blue-2026-05-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260721
@@ -406,13 +413,6 @@ CATEGORIES:blue
 DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-07-21
 SUMMARY:💰Result – 3M Company
 UID:MMM-blue-2026-07-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260505
-CATEGORIES:blue
-DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-05-05
-SUMMARY:💰Result – PayPal Holdings\, Inc.
-UID:PYPL-blue-2026-05-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260723
