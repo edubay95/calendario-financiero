@@ -88,8 +88,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260909
 CATEGORIES:blue
-DESCRIPTION:Inditex (ITX.MC)\nFecha de resultados: 2026-09-09
-SUMMARY:💰Result – Inditex
+DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-09-09
+SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-blue-2026-09-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -170,11 +170,11 @@ SUMMARY:💰Result – TELEFONICA\,S.A.
 UID:TEF.MC-blue-2026-05-14@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260428
+DTSTART;VALUE=DATE:20260511
 CATEGORIES:blue
-DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de resultados: 2026-04-28
-SUMMARY:💰Result – American Tower Corporation (REI
-UID:AMT-blue-2026-04-28@mi.calendario.financiero.v2
+DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-05-11
+SUMMARY:💰Result – Satellogic Inc.
+UID:SATL-blue-2026-05-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260715
@@ -191,13 +191,6 @@ SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-08-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260511
-CATEGORIES:blue
-DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-05-11
-SUMMARY:💰Result – Satellogic Inc.
-UID:SATL-blue-2026-05-11@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
 CATEGORIES:blue
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-07-29
@@ -207,8 +200,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260603
 CATEGORIES:blue
-DESCRIPTION:Inditex (ITX.MC)\nFecha de resultados: 2026-06-03
-SUMMARY:💰Result – Inditex
+DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-06-03
+SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-blue-2026-06-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -387,13 +380,6 @@ SUMMARY:💰Result – AST SpaceMobile\, Inc.
 UID:ASTS-blue-2026-08-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260428
-CATEGORIES:blue
-DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2026-04-28
-SUMMARY:💰Result – ACCIONES IBERDROLA
-UID:IBE.MC-blue-2026-04-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260429
 CATEGORIES:blue
 DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-04-29
@@ -406,6 +392,13 @@ CATEGORIES:blue
 DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-07-30
 SUMMARY:💰Result – The Hershey Company
 UID:HSY-blue-2026-07-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+CATEGORIES:blue
+DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-07-23
+SUMMARY:💰Result – Robert Half Inc.
+UID:RHI-blue-2026-07-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260721
@@ -443,25 +436,11 @@ SUMMARY:💰Result – 3M Company
 UID:MMM-blue-2026-07-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260723
-CATEGORIES:blue
-DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-07-23
-SUMMARY:💰Result – Robert Half Inc.
-UID:RHI-blue-2026-07-23@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
 CATEGORIES:blue
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de resultados: 2026-07-30
 SUMMARY:💰Result – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-blue-2026-07-30@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260428
-CATEGORIES:blue
-DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2026-04-28
-SUMMARY:💰Result – BANCO SANTANDER S.A.
-UID:SAN.MC-blue-2026-04-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
