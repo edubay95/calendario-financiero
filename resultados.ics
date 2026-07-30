@@ -23,11 +23,11 @@ SUMMARY:💰Result – Super Micro Computer\, Inc.
 UID:SMCI-blue-2026-05-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260729
+DTSTART;VALUE=DATE:20260430
 CATEGORIES:blue
-DESCRIPTION:REDEIA CORPORACION\, S.A. (RED.MC)\nFecha de resultados: 2026-07-29
-SUMMARY:💰Result – REDEIA CORPORACION\, S.A.
-UID:RED.MC-blue-2026-07-29@mi.calendario.financiero.v2
+DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-04-30
+SUMMARY:💰Result – The Hershey Company
+UID:HSY-blue-2026-04-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260805
@@ -37,18 +37,18 @@ SUMMARY:💰Result – Realty Income Corporation
 UID:O-blue-2026-08-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260430
-CATEGORIES:blue
-DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-04-30
-SUMMARY:💰Result – The Hershey Company
-UID:HSY-blue-2026-04-30@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260508
 CATEGORIES:blue
 DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-05-08
 SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-05-08@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260728
+CATEGORIES:blue
+DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2026-07-28
+SUMMARY:💰Result – CAIXABANK\, S.A.
+UID:CABK.MC-blue-2026-07-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260724
@@ -70,13 +70,6 @@ CATEGORIES:blue
 DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-05-06
 SUMMARY:💰Result – Realty Income Corporation
 UID:O-blue-2026-05-06@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
-CATEGORIES:blue
-DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2026-04-29
-SUMMARY:💰Result – CAIXABANK\, S.A.
-UID:CABK.MC-blue-2026-04-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261028
@@ -107,25 +100,18 @@ SUMMARY:💰Result – Meta Platforms\, Inc.
 UID:META-blue-2026-07-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260729
-CATEGORIES:blue
-DESCRIPTION:ACS\,ACTIVIDADES DE CONSTRUCCION (ACS.MC)\nFecha de resultados: 2026-07-29
-SUMMARY:💰Result – ACS\,ACTIVIDADES DE CONSTRUCCION
-UID:ACS.MC-blue-2026-07-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260729
-CATEGORIES:blue
-DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2026-07-29
-SUMMARY:💰Result – TELEFONICA\,S.A.
-UID:TEF.MC-blue-2026-07-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261028
 CATEGORIES:blue
 DESCRIPTION:VIDRALA\, S.A. (VID.MC)\nFecha de resultados: 2026-10-28
 SUMMARY:💰Result – VIDRALA\, S.A.
 UID:VID.MC-blue-2026-10-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261027
+CATEGORIES:blue
+DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-10-27
+SUMMARY:💰Result – PayPal Holdings\, Inc.
+UID:PYPL-blue-2026-10-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
@@ -198,6 +184,13 @@ SUMMARY:💰Result – Microsoft Corporation
 UID:MSFT-blue-2026-07-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260728
+CATEGORIES:blue
+DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2026-07-28
+SUMMARY:💰Result – TELEFONICA\,S.A.
+UID:TEF.MC-blue-2026-07-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260603
 CATEGORIES:blue
 DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-06-03
@@ -217,13 +210,6 @@ CATEGORIES:blue
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2026-07-31
 SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-blue-2026-07-31@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
-CATEGORIES:blue
-DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2026-04-29
-SUMMARY:💰Result – Meta Platforms\, Inc.
-UID:META-blue-2026-04-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261013
@@ -282,20 +268,6 @@ SUMMARY:💰Result – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-blue-2026-05-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260729
-CATEGORIES:blue
-DESCRIPTION:HERMES INTL (RMS.PA)\nFecha de resultados: 2026-07-29
-SUMMARY:💰Result – HERMES INTL
-UID:RMS.PA-blue-2026-07-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
-CATEGORIES:blue
-DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-04-29
-SUMMARY:💰Result – Microsoft Corporation
-UID:MSFT-blue-2026-04-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260810
 CATEGORIES:blue
 DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-08-10
@@ -308,6 +280,13 @@ CATEGORIES:blue
 DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-08-05
 SUMMARY:💰Result – CVS Health Corporation
 UID:CVS-blue-2026-08-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261027
+CATEGORIES:blue
+DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de resultados: 2026-10-27
+SUMMARY:💰Result – American Tower Corporation (REI
+UID:AMT-blue-2026-10-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260728
@@ -380,13 +359,6 @@ SUMMARY:💰Result – AST SpaceMobile\, Inc.
 UID:ASTS-blue-2026-08-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
-CATEGORIES:blue
-DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-04-29
-SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
-UID:BXMT-blue-2026-04-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
 CATEGORIES:blue
 DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-07-30
@@ -441,12 +413,5 @@ CATEGORIES:blue
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de resultados: 2026-07-30
 SUMMARY:💰Result – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-blue-2026-07-30@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260729
-CATEGORIES:blue
-DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2026-07-29
-SUMMARY:💰Result – CAIXABANK\, S.A.
-UID:CABK.MC-blue-2026-07-29@mi.calendario.financiero.v2
 END:VEVENT
 END:VCALENDAR

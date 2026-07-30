@@ -149,13 +149,6 @@ SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
 UID:TROW-orange-2026-06-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
-CATEGORIES:orange
-DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-04-29
-SUMMARY:📅Ex-Div – INDUSTRIA DE DISE...O TEXTIL S.
-UID:ITX.MC-orange-2026-04-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260803
 CATEGORIES:orange
 DESCRIPTION:Blackstone Inc. (BX)\nFecha Ex-Dividendo (corte): 2026-08-03
