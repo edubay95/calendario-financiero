@@ -16,6 +16,13 @@ SUMMARY:💰Result – Robert Half Inc.
 UID:RHI-blue-2026-10-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261028
+CATEGORIES:blue
+DESCRIPTION:REDEIA CORPORACION\, S.A. (RED.MC)\nFecha de resultados: 2026-10-28
+SUMMARY:💰Result – REDEIA CORPORACION\, S.A.
+UID:RED.MC-blue-2026-10-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260505
 CATEGORIES:blue
 DESCRIPTION:Super Micro Computer\, Inc. (SMCI)\nFecha de resultados: 2026-05-05
@@ -79,10 +86,17 @@ SUMMARY:💰Result – CIE AUTOMOTIVE\, S.A.
 UID:CIE.MC-blue-2026-10-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261028
+CATEGORIES:blue
+DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2026-10-28
+SUMMARY:💰Result – Meta Platforms\, Inc.
+UID:META-blue-2026-10-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260909
 CATEGORIES:blue
-DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-09-09
-SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
+DESCRIPTION:Inditex (ITX.MC)\nFecha de resultados: 2026-09-09
+SUMMARY:💰Result – Inditex
 UID:ITX.MC-blue-2026-09-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -177,6 +191,13 @@ SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-08-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261028
+CATEGORIES:blue
+DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-10-28
+SUMMARY:💰Result – Microsoft Corporation
+UID:MSFT-blue-2026-10-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
 CATEGORIES:blue
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-07-29
@@ -193,8 +214,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260603
 CATEGORIES:blue
-DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-06-03
-SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
+DESCRIPTION:Inditex (ITX.MC)\nFecha de resultados: 2026-06-03
+SUMMARY:💰Result – Inditex
 UID:ITX.MC-blue-2026-06-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -203,6 +224,13 @@ CATEGORIES:blue
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-10-27
 SUMMARY:💰Result – NextEra Energy\, Inc.
 UID:NEE-blue-2026-10-27@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+CATEGORIES:blue
+DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2026-10-30
+SUMMARY:💰Result – CAIXABANK\, S.A.
+UID:CABK.MC-blue-2026-10-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260731
@@ -406,12 +434,5 @@ CATEGORIES:blue
 DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-07-21
 SUMMARY:💰Result – 3M Company
 UID:MMM-blue-2026-07-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260730
-CATEGORIES:blue
-DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de resultados: 2026-07-30
-SUMMARY:💰Result – BRITISH AMERICAN TOBACCO PLC OR
-UID:BATS.L-blue-2026-07-30@mi.calendario.financiero.v2
 END:VEVENT
 END:VCALENDAR
