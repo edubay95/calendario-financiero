@@ -135,6 +135,13 @@ SUMMARY:📅Ex-Div – Simon Property Group\, Inc.
 UID:SPG-orange-2026-06-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+CATEGORIES:orange
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2026-08-28
+SUMMARY:📅Ex-Div – NextEra Energy\, Inc.
+UID:NEE-orange-2026-08-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260612
 CATEGORIES:orange
 DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha Ex-Dividendo (corte): 2026-06-12
@@ -205,13 +212,6 @@ SUMMARY:📅Ex-Div – Altria Group\, Inc.
 UID:MO-orange-2026-06-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260430
-CATEGORIES:orange
-DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-04-30
-SUMMARY:📅Ex-Div – Realty Income Corporation
-UID:O-orange-2026-04-30@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260515
 CATEGORIES:orange
 DESCRIPTION:The Hershey Company (HSY)\nFecha Ex-Dividendo (corte): 2026-05-15
@@ -254,11 +254,11 @@ SUMMARY:📅Ex-Div – Brookfield Asset Management Inc
 UID:BAM-orange-2026-05-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260430
+DTSTART;VALUE=DATE:20260615
 CATEGORIES:orange
-DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha Ex-Dividendo (corte): 2026-04-30
-SUMMARY:📅Ex-Div – BANCO SANTANDER S.A.
-UID:SAN.MC-orange-2026-04-30@mi.calendario.financiero.v2
+DESCRIPTION:Brookfield Corporation (BN)\nFecha Ex-Dividendo (corte): 2026-06-15
+SUMMARY:📅Ex-Div – Brookfield Corporation
+UID:BN-orange-2026-06-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260713
@@ -268,11 +268,11 @@ SUMMARY:📅Ex-Div – VIDRALA\, S.A.
 UID:VID.MC-orange-2026-07-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260615
+DTSTART;VALUE=DATE:20260904
 CATEGORIES:orange
-DESCRIPTION:Brookfield Corporation (BN)\nFecha Ex-Dividendo (corte): 2026-06-15
-SUMMARY:📅Ex-Div – Brookfield Corporation
-UID:BN-orange-2026-06-15@mi.calendario.financiero.v2
+DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha Ex-Dividendo (corte): 2026-09-04
+SUMMARY:📅Ex-Div – PayPal Holdings\, Inc.
+UID:PYPL-orange-2026-09-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260611
@@ -280,13 +280,6 @@ CATEGORIES:orange
 DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha Ex-Dividendo (corte): 2026-06-11
 SUMMARY:📅Ex-Div – Alibaba Group Holding Limited
 UID:BABA-orange-2026-06-11@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260904
-CATEGORIES:orange
-DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha Ex-Dividendo (corte): 2026-09-04
-SUMMARY:📅Ex-Div – PayPal Holdings\, Inc.
-UID:PYPL-orange-2026-09-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260709

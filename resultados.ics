@@ -30,13 +30,6 @@ SUMMARY:💰Result – Super Micro Computer\, Inc.
 UID:SMCI-blue-2026-05-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260430
-CATEGORIES:blue
-DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-04-30
-SUMMARY:💰Result – The Hershey Company
-UID:HSY-blue-2026-04-30@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260805
 CATEGORIES:blue
 DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-08-05
@@ -233,13 +226,6 @@ SUMMARY:💰Result – CAIXABANK\, S.A.
 UID:CABK.MC-blue-2026-10-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260731
-CATEGORIES:blue
-DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2026-07-31
-SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
-UID:AMS.MC-blue-2026-07-31@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:blue
 DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de resultados: 2026-10-13
@@ -289,11 +275,25 @@ SUMMARY:💰Result – Brookfield Corporation
 UID:BN-blue-2026-08-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261028
+CATEGORIES:blue
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-10-28
+SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
+UID:BXMT-blue-2026-10-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260511
 CATEGORIES:blue
 DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de resultados: 2026-05-11
 SUMMARY:💰Result – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-blue-2026-05-11@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+CATEGORIES:blue
+DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2026-07-30
+SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
+UID:AMS.MC-blue-2026-07-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260810
@@ -308,6 +308,13 @@ CATEGORIES:blue
 DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-08-05
 SUMMARY:💰Result – CVS Health Corporation
 UID:CVS-blue-2026-08-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261029
+CATEGORIES:blue
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2026-10-29
+SUMMARY:💰Result – Altria Group\, Inc.
+UID:MO-blue-2026-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261027
@@ -329,13 +336,6 @@ CATEGORIES:blue
 DESCRIPTION:Super Micro Computer\, Inc. (SMCI)\nFecha de resultados: 2026-08-11
 SUMMARY:💰Result – Super Micro Computer\, Inc.
 UID:SMCI-blue-2026-08-11@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260430
-CATEGORIES:blue
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-04-30
-SUMMARY:💰Result – T. Rowe Price Group\, Inc.
-UID:TROW-blue-2026-04-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260511
@@ -371,13 +371,6 @@ CATEGORIES:blue
 DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2026-10-20
 SUMMARY:💰Result – Verizon Communications Inc.
 UID:VZ-blue-2026-10-20@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260430
-CATEGORIES:blue
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2026-04-30
-SUMMARY:💰Result – Altria Group\, Inc.
-UID:MO-blue-2026-04-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260810
