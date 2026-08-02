@@ -198,11 +198,11 @@ SUMMARY:📅Ex-Div – American Tower Corporation (REI
 UID:AMT-orange-2026-06-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260603
+DTSTART;VALUE=DATE:20260814
 CATEGORIES:orange
-DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2026-06-03
-SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
-UID:PBR-A-orange-2026-06-03@mi.calendario.financiero.v2
+DESCRIPTION:The Hershey Company (HSY)\nFecha Ex-Dividendo (corte): 2026-08-14
+SUMMARY:📅Ex-Div – The Hershey Company
+UID:HSY-orange-2026-08-14@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
@@ -210,6 +210,13 @@ CATEGORIES:orange
 DESCRIPTION:Altria Group\, Inc. (MO)\nFecha Ex-Dividendo (corte): 2026-06-15
 SUMMARY:📅Ex-Div – Altria Group\, Inc.
 UID:MO-orange-2026-06-15@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260603
+CATEGORIES:orange
+DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2026-06-03
+SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
+UID:PBR-A-orange-2026-06-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260515

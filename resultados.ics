@@ -121,6 +121,13 @@ SUMMARY:💰Result – PayPal Holdings\, Inc.
 UID:PYPL-blue-2026-10-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+CATEGORIES:blue
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-10-30
+SUMMARY:💰Result – T. Rowe Price Group\, Inc.
+UID:TROW-blue-2026-10-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
 CATEGORIES:blue
 DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-07-30
