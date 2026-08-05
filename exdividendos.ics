@@ -11,8 +11,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:orange
-DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-10-29
-SUMMARY:📅Ex-Div – INDUSTRIA DE DISE...O TEXTIL S.
+DESCRIPTION:Inditex (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-10-29
+SUMMARY:📅Ex-Div – Inditex
 UID:ITX.MC-orange-2026-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -184,11 +184,11 @@ SUMMARY:📅Ex-Div – ACCIONES IBERDROLA
 UID:IBE.MC-orange-2026-07-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260504
+DTSTART;VALUE=DATE:20260814
 CATEGORIES:orange
-DESCRIPTION:Blackstone Inc. (BX)\nFecha Ex-Dividendo (corte): 2026-05-04
-SUMMARY:📅Ex-Div – Blackstone Inc.
-UID:BX-orange-2026-05-04@mi.calendario.financiero.v2
+DESCRIPTION:The Hershey Company (HSY)\nFecha Ex-Dividendo (corte): 2026-08-14
+SUMMARY:📅Ex-Div – The Hershey Company
+UID:HSY-orange-2026-08-14@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260612
@@ -198,11 +198,11 @@ SUMMARY:📅Ex-Div – American Tower Corporation (REI
 UID:AMT-orange-2026-06-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260814
+DTSTART;VALUE=DATE:20260603
 CATEGORIES:orange
-DESCRIPTION:The Hershey Company (HSY)\nFecha Ex-Dividendo (corte): 2026-08-14
-SUMMARY:📅Ex-Div – The Hershey Company
-UID:HSY-orange-2026-08-14@mi.calendario.financiero.v2
+DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2026-06-03
+SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
+UID:PBR-A-orange-2026-06-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
@@ -210,13 +210,6 @@ CATEGORIES:orange
 DESCRIPTION:Altria Group\, Inc. (MO)\nFecha Ex-Dividendo (corte): 2026-06-15
 SUMMARY:📅Ex-Div – Altria Group\, Inc.
 UID:MO-orange-2026-06-15@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260603
-CATEGORIES:orange
-DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2026-06-03
-SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
-UID:PBR-A-orange-2026-06-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260611
