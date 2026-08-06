@@ -65,6 +65,13 @@ SUMMARY:📅Ex-Div – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEQP.L-orange-2026-06-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260831
+CATEGORIES:orange
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha Ex-Dividendo (corte): 2026-08-31
+SUMMARY:📅Ex-Div – Brookfield Asset Management Inc
+UID:BAM-orange-2026-08-31@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260701
 CATEGORIES:orange
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha Ex-Dividendo (corte): 2026-07-01
@@ -322,5 +329,12 @@ CATEGORIES:orange
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha Ex-Dividendo (corte): 2026-05-21
 SUMMARY:📅Ex-Div – Microsoft Corporation
 UID:MSFT-orange-2026-05-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260825
+CATEGORIES:orange
+DESCRIPTION:Robert Half Inc. (RHI)\nFecha Ex-Dividendo (corte): 2026-08-25
+SUMMARY:📅Ex-Div – Robert Half Inc.
+UID:RHI-orange-2026-08-25@mi.calendario.financiero.v2
 END:VEVENT
 END:VCALENDAR
