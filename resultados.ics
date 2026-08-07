@@ -16,6 +16,13 @@ SUMMARY:💰Result – Robert Half Inc.
 UID:RHI-blue-2026-10-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+CATEGORIES:blue
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-11-06
+SUMMARY:💰Result – Brookfield Asset Management Inc
+UID:BAM-blue-2026-11-06@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261028
 CATEGORIES:blue
 DESCRIPTION:REDEIA CORPORACION\, S.A. (RED.MC)\nFecha de resultados: 2026-10-28
@@ -28,6 +35,13 @@ CATEGORIES:blue
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2026-11-06
 SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-blue-2026-11-06@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260805
+CATEGORIES:blue
+DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-08-05
+SUMMARY:💰Result – Realty Income Corporation
+UID:O-blue-2026-08-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260508
@@ -65,11 +79,11 @@ SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-blue-2026-11-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260506
+DTSTART;VALUE=DATE:20261028
 CATEGORIES:blue
-DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-05-06
-SUMMARY:💰Result – Realty Income Corporation
-UID:O-blue-2026-05-06@mi.calendario.financiero.v2
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-10-28
+SUMMARY:💰Result – CVS Health Corporation
+UID:CVS-blue-2026-10-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261028
@@ -93,6 +107,13 @@ SUMMARY:💰Result – Inditex
 UID:ITX.MC-blue-2026-09-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260805
+CATEGORIES:blue
+DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-08-05
+SUMMARY:💰Result – Satellogic Inc.
+UID:SATL-blue-2026-08-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
 CATEGORIES:blue
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2026-07-29
@@ -107,11 +128,11 @@ SUMMARY:💰Result – VIDRALA\, S.A.
 UID:VID.MC-blue-2026-10-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261027
+DTSTART;VALUE=DATE:20260806
 CATEGORIES:blue
-DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-10-27
-SUMMARY:💰Result – PayPal Holdings\, Inc.
-UID:PYPL-blue-2026-10-27@mi.calendario.financiero.v2
+DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de resultados: 2026-08-06
+SUMMARY:💰Result – Petroleo Brasileiro S.A. Petrob
+UID:PBR-A-blue-2026-08-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
@@ -163,11 +184,11 @@ SUMMARY:💰Result – TELEFONICA\,S.A.
 UID:TEF.MC-blue-2026-05-14@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260511
+DTSTART;VALUE=DATE:20261027
 CATEGORIES:blue
-DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-05-11
-SUMMARY:💰Result – Satellogic Inc.
-UID:SATL-blue-2026-05-11@mi.calendario.financiero.v2
+DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-10-27
+SUMMARY:💰Result – PayPal Holdings\, Inc.
+UID:PYPL-blue-2026-10-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260715
@@ -177,11 +198,32 @@ SUMMARY:💰Result – Johnson & Johnson
 UID:JNJ-blue-2026-07-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260805
+CATEGORIES:blue
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-08-05
+SUMMARY:💰Result – Brookfield Asset Management Inc
+UID:BAM-blue-2026-08-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260511
+CATEGORIES:blue
+DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-05-11
+SUMMARY:💰Result – Satellogic Inc.
+UID:SATL-blue-2026-05-11@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261028
 CATEGORIES:blue
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-10-28
 SUMMARY:💰Result – Microsoft Corporation
 UID:MSFT-blue-2026-10-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261102
+CATEGORIES:blue
+DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-11-02
+SUMMARY:💰Result – Realty Income Corporation
+UID:O-blue-2026-11-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
@@ -303,6 +345,13 @@ SUMMARY:💰Result – Simon Property Group\, Inc.
 UID:SPG-blue-2026-08-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260805
+CATEGORIES:blue
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-08-05
+SUMMARY:💰Result – CVS Health Corporation
+UID:CVS-blue-2026-08-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:blue
 DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2026-10-29
@@ -336,20 +385,6 @@ CATEGORIES:blue
 DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-05-11
 SUMMARY:💰Result – Simon Property Group\, Inc.
 UID:SPG-blue-2026-05-11@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260506
-CATEGORIES:blue
-DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-05-06
-SUMMARY:💰Result – CVS Health Corporation
-UID:CVS-blue-2026-05-06@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260806
-CATEGORIES:blue
-DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de resultados: 2026-08-06
-SUMMARY:💰Result – DIAGEO PLC ORD 28 101/108P
-UID:DGE.L-blue-2026-08-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260721
