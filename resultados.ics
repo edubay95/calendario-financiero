@@ -65,13 +65,6 @@ SUMMARY:💰Result – NextEra Energy\, Inc.
 UID:NEE-blue-2026-07-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260828
-CATEGORIES:blue
-DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2026-08-28
-SUMMARY:💰Result – Alibaba Group Holding Limited
-UID:BABA-blue-2026-08-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
 CATEGORIES:blue
 DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha de resultados: 2026-11-06
@@ -156,13 +149,6 @@ SUMMARY:💰Result – Verizon Communications Inc.
 UID:VZ-blue-2026-07-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260507
-CATEGORIES:blue
-DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2026-05-07
-SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
-UID:AMS.MC-blue-2026-05-07@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260731
 CATEGORIES:blue
 DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-07-31
@@ -177,6 +163,13 @@ SUMMARY:💰Result – PayPal Holdings\, Inc.
 UID:PYPL-blue-2026-07-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261027
+CATEGORIES:blue
+DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-10-27
+SUMMARY:💰Result – PayPal Holdings\, Inc.
+UID:PYPL-blue-2026-10-27@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260514
 CATEGORIES:blue
 DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2026-05-14
@@ -184,11 +177,11 @@ SUMMARY:💰Result – TELEFONICA\,S.A.
 UID:TEF.MC-blue-2026-05-14@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261027
+DTSTART;VALUE=DATE:20260511
 CATEGORIES:blue
-DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-10-27
-SUMMARY:💰Result – PayPal Holdings\, Inc.
-UID:PYPL-blue-2026-10-27@mi.calendario.financiero.v2
+DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-05-11
+SUMMARY:💰Result – Satellogic Inc.
+UID:SATL-blue-2026-05-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260715
@@ -203,13 +196,6 @@ CATEGORIES:blue
 DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-08-05
 SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-08-05@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260511
-CATEGORIES:blue
-DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-05-11
-SUMMARY:💰Result – Satellogic Inc.
-UID:SATL-blue-2026-05-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261028
@@ -266,6 +252,13 @@ CATEGORIES:blue
 DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2026-10-30
 SUMMARY:💰Result – CAIXABANK\, S.A.
 UID:CABK.MC-blue-2026-10-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260820
+CATEGORIES:blue
+DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2026-08-20
+SUMMARY:💰Result – Alibaba Group Holding Limited
+UID:BABA-blue-2026-08-20@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261013

@@ -100,6 +100,13 @@ SUMMARY:📅Ex-Div – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-orange-2026-10-01@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260915
+CATEGORIES:orange
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha Ex-Dividendo (corte): 2026-09-15
+SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
+UID:TROW-orange-2026-09-15@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260825
 CATEGORIES:orange
 DESCRIPTION:Johnson & Johnson (JNJ)\nFecha Ex-Dividendo (corte): 2026-08-25
@@ -240,11 +247,11 @@ SUMMARY:📅Ex-Div – 3M Company
 UID:MMM-orange-2026-05-22@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260522
+DTSTART;VALUE=DATE:20261015
 CATEGORIES:orange
-DESCRIPTION:Robert Half Inc. (RHI)\nFecha Ex-Dividendo (corte): 2026-05-22
-SUMMARY:📅Ex-Div – Robert Half Inc.
-UID:RHI-orange-2026-05-22@mi.calendario.financiero.v2
+DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha Ex-Dividendo (corte): 2026-10-15
+SUMMARY:📅Ex-Div – DIAGEO PLC ORD 28 101/108P
+UID:DGE.L-orange-2026-10-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
@@ -252,6 +259,13 @@ CATEGORIES:orange
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha Ex-Dividendo (corte): 2026-06-15
 SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
 UID:META-orange-2026-06-15@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260522
+CATEGORIES:orange
+DESCRIPTION:Robert Half Inc. (RHI)\nFecha Ex-Dividendo (corte): 2026-05-22
+SUMMARY:📅Ex-Div – Robert Half Inc.
+UID:RHI-orange-2026-05-22@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260629
