@@ -11,8 +11,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:orange
-DESCRIPTION:Inditex (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-10-29
-SUMMARY:📅Ex-Div – Inditex
+DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-10-29
+SUMMARY:📅Ex-Div – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-orange-2026-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -58,11 +58,11 @@ SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2026-06-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260611
+DTSTART;VALUE=DATE:20260909
 CATEGORIES:orange
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha Ex-Dividendo (corte): 2026-06-11
-SUMMARY:📅Ex-Div – JPMORGAN ETFS (IRELAND) ICAV JP
-UID:JEQP.L-orange-2026-06-11@mi.calendario.financiero.v2
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha Ex-Dividendo (corte): 2026-09-09
+SUMMARY:📅Ex-Div – Simon Property Group\, Inc.
+UID:SPG-orange-2026-09-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260831
@@ -84,6 +84,13 @@ CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-05-29
 SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2026-05-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260611
+CATEGORIES:orange
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha Ex-Dividendo (corte): 2026-06-11
+SUMMARY:📅Ex-Div – JPMORGAN ETFS (IRELAND) ICAV JP
+UID:JEQP.L-orange-2026-06-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260731
