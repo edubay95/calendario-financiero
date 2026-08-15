@@ -79,18 +79,18 @@ SUMMARY:💰Result – CIE AUTOMOTIVE\, S.A.
 UID:CIE.MC-blue-2026-10-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260909
-CATEGORIES:blue
-DESCRIPTION:Inditex (ITX.MC)\nFecha de resultados: 2026-09-09
-SUMMARY:💰Result – Inditex
-UID:ITX.MC-blue-2026-09-09@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261028
 CATEGORIES:blue
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2026-10-28
 SUMMARY:💰Result – Meta Platforms\, Inc.
 UID:META-blue-2026-10-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260909
+CATEGORIES:blue
+DESCRIPTION:Inditex (ITX.MC)\nFecha de resultados: 2026-09-09
+SUMMARY:💰Result – Inditex
+UID:ITX.MC-blue-2026-09-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261112
@@ -182,13 +182,6 @@ CATEGORIES:blue
 DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-10-27
 SUMMARY:💰Result – PayPal Holdings\, Inc.
 UID:PYPL-blue-2026-10-27@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260514
-CATEGORIES:blue
-DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2026-05-14
-SUMMARY:💰Result – TELEFONICA\,S.A.
-UID:TEF.MC-blue-2026-05-14@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260715
@@ -294,6 +287,13 @@ CATEGORIES:blue
 DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2026-07-23
 SUMMARY:💰Result – Blackstone Inc.
 UID:BX-blue-2026-07-23@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261112
+CATEGORIES:blue
+DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2026-11-12
+SUMMARY:💰Result – Brookfield Corporation
+UID:BN-blue-2026-11-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
