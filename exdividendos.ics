@@ -16,6 +16,13 @@ SUMMARY:📅Ex-Div – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-orange-2026-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260824
+CATEGORIES:orange
+DESCRIPTION:3M Company (MMM)\nFecha Ex-Dividendo (corte): 2026-08-24
+SUMMARY:📅Ex-Div – 3M Company
+UID:MMM-orange-2026-08-24@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260723
 CATEGORIES:orange
 DESCRIPTION:CVS Health Corporation (CVS)\nFecha Ex-Dividendo (corte): 2026-07-23
@@ -35,13 +42,6 @@ CATEGORIES:orange
 DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha Ex-Dividendo (corte): 2026-06-04
 SUMMARY:📅Ex-Div – PayPal Holdings\, Inc.
 UID:PYPL-orange-2026-06-04@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260521
-CATEGORIES:orange
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha Ex-Dividendo (corte): 2026-05-21
-SUMMARY:📅Ex-Div – JPMORGAN ETFS (IRELAND) ICAV JP
-UID:JEQP.L-orange-2026-05-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260703
@@ -84,6 +84,13 @@ CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-05-29
 SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2026-05-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260521
+CATEGORIES:orange
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha Ex-Dividendo (corte): 2026-05-21
+SUMMARY:📅Ex-Div – JPMORGAN ETFS (IRELAND) ICAV JP
+UID:JEQP.L-orange-2026-05-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260611
