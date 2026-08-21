@@ -191,6 +191,13 @@ SUMMARY:📅Ex-Div – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEPG.L-orange-2026-06-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260831
+CATEGORIES:orange
+DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-08-31
+SUMMARY:📅Ex-Div – Realty Income Corporation
+UID:O-orange-2026-08-31@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
 CATEGORIES:orange
 DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha Ex-Dividendo (corte): 2026-06-15
