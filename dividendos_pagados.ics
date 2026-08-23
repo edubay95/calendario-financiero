@@ -18,16 +18,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260709
 CATEGORIES:green
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha de PAGO: 2026-07-09\nCantidad: 450 acciones\nDiv x Acc: 0.1884 GBP\n--- Cálculo en EUR (FX: 1.1682) ---\nNETO: 80.22 EUR\nBruto: 99.04 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -18.82 EUR
-SUMMARY:💵Div (80.22€) – JPMORGAN ETFS (IRELAND) ICAV JP
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha de PAGO: 2026-07-09\nCantidad: 450 acciones\nDiv x Acc: 0.1884 GBP\n--- Cálculo en EUR (FX: 1.1679) ---\nNETO: 80.20 EUR\nBruto: 99.02 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -18.81 EUR
+SUMMARY:💵Div (80.20€) – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEQP.L-green-2026-07-09@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260522
-CATEGORIES:green
-DESCRIPTION:Robert Half Inc. (RHI)\nFecha de PAGO: 2026-05-22\nCantidad: 480 acciones\nDiv x Acc: 0.5900 USD\n--- Cálculo en EUR (FX: 0.8560) ---\nNETO: 169.70 EUR\nBruto: 242.43 EUR\nRet. Origen (30.0%): -72.73 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (169.70€) – Robert Half Inc.
-UID:RHI-green-2026-05-22@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260713
@@ -39,8 +32,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260709
 CATEGORIES:green
-DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de PAGO: 2026-07-09\nCantidad: 330 acciones\nDiv x Acc: 0.6126 GBP\n--- Cálculo en EUR (FX: 1.1682) ---\nNETO: 191.29 EUR\nBruto: 236.16 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -44.87 EUR
-SUMMARY:💵Div (191.29€) – BRITISH AMERICAN TOBACCO PLC OR
+DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de PAGO: 2026-07-09\nCantidad: 330 acciones\nDiv x Acc: 0.6126 GBP\n--- Cálculo en EUR (FX: 1.1679) ---\nNETO: 191.24 EUR\nBruto: 236.10 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -44.86 EUR
+SUMMARY:💵Div (191.24€) – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-green-2026-07-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -86,13 +79,6 @@ SUMMARY:💵Div (97.58€) – Verizon Communications Inc.
 UID:VZ-green-2026-08-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260522
-CATEGORIES:green
-DESCRIPTION:3M Company (MMM)\nFecha de PAGO: 2026-05-22\nCantidad: 63 acciones\nDiv x Acc: 0.7800 USD\n--- Cálculo en EUR (FX: 0.8560) ---\nNETO: 29.45 EUR\nBruto: 42.07 EUR\nRet. Origen (30.0%): -12.62 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (29.45€) – 3M Company
-UID:MMM-green-2026-05-22@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260630
 CATEGORIES:green
 DESCRIPTION:Realty Income Corporation (O)\nFecha de PAGO: 2026-06-30\nCantidad: 200 acciones\nDiv x Acc: 0.2710 USD\n--- Cálculo en EUR (FX: 0.8560) ---\nNETO: 32.48 EUR\nBruto: 46.40 EUR\nRet. Origen (30.0%): -13.92 EUR\nRet. España (dif): -0.00 EUR
@@ -130,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260709
 CATEGORIES:green
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-07-09\nCantidad: 400 acciones\nDiv x Acc: 0.0016 GBP\n--- Cálculo en EUR (FX: 1.1682) ---\nNETO: 0.60 EUR\nBruto: 0.75 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.14 EUR
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-07-09\nCantidad: 400 acciones\nDiv x Acc: 0.0016 GBP\n--- Cálculo en EUR (FX: 1.1679) ---\nNETO: 0.60 EUR\nBruto: 0.75 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.14 EUR
 SUMMARY:💵Div (0.60€) – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEPG.L-green-2026-07-09@mi.calendario.financiero.v2
 END:VEVENT
@@ -144,8 +130,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260611
 CATEGORIES:green
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha de PAGO: 2026-06-11\nCantidad: 450 acciones\nDiv x Acc: 0.1889 GBP\n--- Cálculo en EUR (FX: 1.1682) ---\nNETO: 80.42 EUR\nBruto: 99.29 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -18.86 EUR
-SUMMARY:💵Div (80.42€) – JPMORGAN ETFS (IRELAND) ICAV JP
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha de PAGO: 2026-06-11\nCantidad: 450 acciones\nDiv x Acc: 0.1889 GBP\n--- Cálculo en EUR (FX: 1.1679) ---\nNETO: 80.40 EUR\nBruto: 99.26 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -18.86 EUR
+SUMMARY:💵Div (80.40€) – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEQP.L-green-2026-06-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -158,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
 CATEGORIES:green
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2026-06-15\nCantidad: 100 acciones\nDiv x Acc: 1.3000 USD\n--- Cálculo en EUR (FX: 0.8560) ---\nNETO: 77.90 EUR\nBruto: 111.28 EUR\nRet. Origen (30.0%): -33.39 EUR\nRet. España (dif): -0.00 EUR
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2026-06-15\nCantidad: 100 acciones\nDiv x Acc: 1.3000 USD\n--- Cálculo en EUR (FX: 0.8560) ---\nNETO: 77.90 EUR\nBruto: 111.28 EUR\nRet. Origen (30.0%): -33.38 EUR\nRet. España (dif): -0.00 EUR
 SUMMARY:💵Div (77.90€) – T. Rowe Price Group\, Inc.
 UID:TROW-green-2026-06-15@mi.calendario.financiero.v2
 END:VEVENT
@@ -179,7 +165,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260612
 CATEGORIES:green
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-06-12\nCantidad: 400 acciones\nDiv x Acc: 0.0019 GBP\n--- Cálculo en EUR (FX: 1.1682) ---\nNETO: 0.71 EUR\nBruto: 0.87 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.17 EUR
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-06-12\nCantidad: 400 acciones\nDiv x Acc: 0.0019 GBP\n--- Cálculo en EUR (FX: 1.1679) ---\nNETO: 0.71 EUR\nBruto: 0.87 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.17 EUR
 SUMMARY:💵Div (0.71€) – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEPG.L-green-2026-06-12@mi.calendario.financiero.v2
 END:VEVENT
@@ -214,8 +200,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260813
 CATEGORIES:green
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha de PAGO: 2026-08-13\nCantidad: 450 acciones\nDiv x Acc: 0.2537 GBP\n--- Cálculo en EUR (FX: 1.1682) ---\nNETO: 108.02 EUR\nBruto: 133.36 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -25.34 EUR
-SUMMARY:💵Div (108.02€) – JPMORGAN ETFS (IRELAND) ICAV JP
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha de PAGO: 2026-08-13\nCantidad: 450 acciones\nDiv x Acc: 0.2537 GBP\n--- Cálculo en EUR (FX: 1.1679) ---\nNETO: 108.00 EUR\nBruto: 133.33 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -25.33 EUR
+SUMMARY:💵Div (108.00€) – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEQP.L-green-2026-08-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -235,7 +221,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260611
 CATEGORIES:green
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-06-11\nCantidad: 400 acciones\nDiv x Acc: 0.0019 GBP\n--- Cálculo en EUR (FX: 1.1682) ---\nNETO: 0.71 EUR\nBruto: 0.87 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.17 EUR
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-06-11\nCantidad: 400 acciones\nDiv x Acc: 0.0019 GBP\n--- Cálculo en EUR (FX: 1.1679) ---\nNETO: 0.71 EUR\nBruto: 0.87 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.17 EUR
 SUMMARY:💵Div (0.71€) – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEPG.L-green-2026-06-11@mi.calendario.financiero.v2
 END:VEVENT
@@ -284,7 +270,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:green
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2026-09-29\nCantidad: 100 acciones\nDiv x Acc: 1.3000 USD\n--- Cálculo en EUR (FX: 0.8560) ---\nNETO: 77.90 EUR\nBruto: 111.28 EUR\nRet. Origen (30.0%): -33.39 EUR\nRet. España (dif): -0.00 EUR
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2026-09-29\nCantidad: 100 acciones\nDiv x Acc: 1.3000 USD\n--- Cálculo en EUR (FX: 0.8560) ---\nNETO: 77.90 EUR\nBruto: 111.28 EUR\nRet. Origen (30.0%): -33.38 EUR\nRet. España (dif): -0.00 EUR
 SUMMARY:💵Div (77.90€) – T. Rowe Price Group\, Inc.
 UID:TROW-green-2026-09-29@mi.calendario.financiero.v2
 END:VEVENT
@@ -347,7 +333,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260813
 CATEGORIES:green
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-08-13\nCantidad: 400 acciones\nDiv x Acc: 0.0019 GBP\n--- Cálculo en EUR (FX: 1.1682) ---\nNETO: 0.72 EUR\nBruto: 0.89 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.17 EUR
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-08-13\nCantidad: 400 acciones\nDiv x Acc: 0.0019 GBP\n--- Cálculo en EUR (FX: 1.1679) ---\nNETO: 0.72 EUR\nBruto: 0.89 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.17 EUR
 SUMMARY:💵Div (0.72€) – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEPG.L-green-2026-08-13@mi.calendario.financiero.v2
 END:VEVENT
