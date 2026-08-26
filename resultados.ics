@@ -88,8 +88,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260909
 CATEGORIES:blue
-DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-09-09
-SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
+DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha de resultados: 2026-09-09
+SUMMARY:💰Result – Industria de Diseño Textil\, S.A.
 UID:ITX.MC-blue-2026-09-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -228,8 +228,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260603
 CATEGORIES:blue
-DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-06-03
-SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
+DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha de resultados: 2026-06-03
+SUMMARY:💰Result – Industria de Diseño Textil\, S.A.
 UID:ITX.MC-blue-2026-06-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
