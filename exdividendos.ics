@@ -11,8 +11,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:orange
-DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-10-29
-SUMMARY:📅Ex-Div – INDUSTRIA DE DISE...O TEXTIL S.
+DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-10-29
+SUMMARY:📅Ex-Div – Industria de Diseño Textil\, S.A.
 UID:ITX.MC-orange-2026-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -77,13 +77,6 @@ CATEGORIES:orange
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha Ex-Dividendo (corte): 2026-07-01
 SUMMARY:📅Ex-Div – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-orange-2026-07-01@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260529
-CATEGORIES:orange
-DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-05-29
-SUMMARY:📅Ex-Div – Realty Income Corporation
-UID:O-orange-2026-05-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260611
@@ -161,6 +154,13 @@ CATEGORIES:orange
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2026-08-28
 SUMMARY:📅Ex-Div – NextEra Energy\, Inc.
 UID:NEE-orange-2026-08-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260915
+CATEGORIES:orange
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha Ex-Dividendo (corte): 2026-09-15
+SUMMARY:📅Ex-Div – Altria Group\, Inc.
+UID:MO-orange-2026-09-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260612
@@ -280,13 +280,6 @@ CATEGORIES:orange
 DESCRIPTION:ACS\,ACTIVIDADES DE CONSTRUCCION (ACS.MC)\nFecha Ex-Dividendo (corte): 2026-06-29
 SUMMARY:📅Ex-Div – ACS\,ACTIVIDADES DE CONSTRUCCION
 UID:ACS.MC-orange-2026-06-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260529
-CATEGORIES:orange
-DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha Ex-Dividendo (corte): 2026-05-29
-SUMMARY:📅Ex-Div – Brookfield Asset Management Inc
-UID:BAM-orange-2026-05-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
