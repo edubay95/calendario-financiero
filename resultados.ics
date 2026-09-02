@@ -149,11 +149,11 @@ SUMMARY:💰Result – T. Rowe Price Group\, Inc.
 UID:TROW-blue-2026-10-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260730
+DTSTART;VALUE=DATE:20261027
 CATEGORIES:blue
-DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-07-30
-SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
-UID:BXMT-blue-2026-07-30@mi.calendario.financiero.v2
+DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-10-27
+SUMMARY:💰Result – PayPal Holdings\, Inc.
+UID:PYPL-blue-2026-10-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260724
@@ -175,13 +175,6 @@ CATEGORIES:blue
 DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-07-28
 SUMMARY:💰Result – PayPal Holdings\, Inc.
 UID:PYPL-blue-2026-07-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261027
-CATEGORIES:blue
-DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-10-27
-SUMMARY:💰Result – PayPal Holdings\, Inc.
-UID:PYPL-blue-2026-10-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260715
@@ -308,13 +301,6 @@ CATEGORIES:blue
 DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2026-10-21
 SUMMARY:💰Result – ACCIONES IBERDROLA
 UID:IBE.MC-blue-2026-10-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:blue
-DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-10-28
-SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
-UID:BXMT-blue-2026-10-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261124
