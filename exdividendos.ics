@@ -11,8 +11,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:orange
-DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-10-29
-SUMMARY:📅Ex-Div – INDUSTRIA DE DISE...O TEXTIL S.
+DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-10-29
+SUMMARY:📅Ex-Div – Industria de Diseño Textil\, S.A.
 UID:ITX.MC-orange-2026-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -219,11 +219,11 @@ SUMMARY:📅Ex-Div – American Tower Corporation (REI
 UID:AMT-orange-2026-06-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260603
+DTSTART;VALUE=DATE:20260611
 CATEGORIES:orange
-DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2026-06-03
-SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
-UID:PBR-A-orange-2026-06-03@mi.calendario.financiero.v2
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha Ex-Dividendo (corte): 2026-06-11
+SUMMARY:📅Ex-Div – JPMORGAN ETFS (IRELAND) ICAV JP
+UID:JEPG.L-orange-2026-06-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
@@ -231,13 +231,6 @@ CATEGORIES:orange
 DESCRIPTION:Altria Group\, Inc. (MO)\nFecha Ex-Dividendo (corte): 2026-06-15
 SUMMARY:📅Ex-Div – Altria Group\, Inc.
 UID:MO-orange-2026-06-15@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260611
-CATEGORIES:orange
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha Ex-Dividendo (corte): 2026-06-11
-SUMMARY:📅Ex-Div – JPMORGAN ETFS (IRELAND) ICAV JP
-UID:JEPG.L-orange-2026-06-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260825
