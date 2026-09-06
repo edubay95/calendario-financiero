@@ -16,13 +16,6 @@ SUMMARY:📅Ex-Div – Industria de Diseño Textil\, S.A.
 UID:ITX.MC-orange-2026-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260824
-CATEGORIES:orange
-DESCRIPTION:3M Company (MMM)\nFecha Ex-Dividendo (corte): 2026-08-24
-SUMMARY:📅Ex-Div – 3M Company
-UID:MMM-orange-2026-08-24@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260723
 CATEGORIES:orange
 DESCRIPTION:CVS Health Corporation (CVS)\nFecha Ex-Dividendo (corte): 2026-07-23
@@ -35,6 +28,13 @@ CATEGORIES:orange
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha Ex-Dividendo (corte): 2026-07-09
 SUMMARY:📅Ex-Div – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-orange-2026-07-09@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260817
+CATEGORIES:orange
+DESCRIPTION:Novo Nordisk A/S (NVO)\nFecha Ex-Dividendo (corte): 2026-08-17
+SUMMARY:📅Ex-Div – Novo Nordisk A/S
+UID:NVO-orange-2026-08-17@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260703
@@ -308,13 +308,6 @@ CATEGORIES:orange
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha Ex-Dividendo (corte): 2026-08-20
 SUMMARY:📅Ex-Div – Microsoft Corporation
 UID:MSFT-orange-2026-08-20@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260605
-CATEGORIES:orange
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2026-06-05
-SUMMARY:📅Ex-Div – NextEra Energy\, Inc.
-UID:NEE-orange-2026-06-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710

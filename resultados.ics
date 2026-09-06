@@ -72,6 +72,13 @@ SUMMARY:💰Result – CVS Health Corporation
 UID:CVS-blue-2026-10-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261104
+CATEGORIES:blue
+DESCRIPTION:Novo Nordisk A/S (NVO)\nFecha de resultados: 2026-11-04
+SUMMARY:💰Result – Novo Nordisk A/S
+UID:NVO-blue-2026-11-04@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261028
 CATEGORIES:blue
 DESCRIPTION:CIE AUTOMOTIVE\, S.A. (CIE.MC)\nFecha de resultados: 2026-10-28
@@ -105,13 +112,6 @@ CATEGORIES:blue
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2026-07-29
 SUMMARY:💰Result – Meta Platforms\, Inc.
 UID:META-blue-2026-07-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260805
-CATEGORIES:blue
-DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-08-05
-SUMMARY:💰Result – Satellogic Inc.
-UID:SATL-blue-2026-08-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261112
@@ -182,6 +182,13 @@ CATEGORIES:blue
 DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-10-27
 SUMMARY:💰Result – PayPal Holdings\, Inc.
 UID:PYPL-blue-2026-10-27@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260804
+CATEGORIES:blue
+DESCRIPTION:Novo Nordisk A/S (NVO)\nFecha de resultados: 2026-08-04
+SUMMARY:💰Result – Novo Nordisk A/S
+UID:NVO-blue-2026-08-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260715
@@ -366,13 +373,6 @@ SUMMARY:💰Result – Super Micro Computer\, Inc.
 UID:SMCI-blue-2026-08-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261112
-CATEGORIES:blue
-DESCRIPTION:Satellogic Inc. (SATL)\nFecha de resultados: 2026-11-12
-SUMMARY:💰Result – Satellogic Inc.
-UID:SATL-blue-2026-11-12@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260721
 CATEGORIES:blue
 DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2026-07-21
@@ -413,20 +413,6 @@ CATEGORIES:blue
 DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2026-07-21
 SUMMARY:💰Result – BANCO SANTANDER S.A.
 UID:SAN.MC-blue-2026-07-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261020
-CATEGORIES:blue
-DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-10-20
-SUMMARY:💰Result – 3M Company
-UID:MMM-blue-2026-10-20@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260721
-CATEGORIES:blue
-DESCRIPTION:3M Company (MMM)\nFecha de resultados: 2026-07-21
-SUMMARY:💰Result – 3M Company
-UID:MMM-blue-2026-07-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261109
