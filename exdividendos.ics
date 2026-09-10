@@ -11,9 +11,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:orange
-DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-10-29
-SUMMARY:📅Ex-Div – Industria de Diseño Textil\, S.A.
+DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-10-29
+SUMMARY:📅Ex-Div – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-orange-2026-10-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261009
+CATEGORIES:orange
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha Ex-Dividendo (corte): 2026-10-09
+SUMMARY:📅Ex-Div – Verizon Communications Inc.
+UID:VZ-orange-2026-10-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260723
@@ -135,11 +142,11 @@ SUMMARY:📅Ex-Div – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEQP.L-orange-2026-08-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260609
+DTSTART;VALUE=DATE:20260915
 CATEGORIES:orange
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha Ex-Dividendo (corte): 2026-06-09
-SUMMARY:📅Ex-Div – Simon Property Group\, Inc.
-UID:SPG-orange-2026-06-09@mi.calendario.financiero.v2
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha Ex-Dividendo (corte): 2026-09-15
+SUMMARY:📅Ex-Div – Altria Group\, Inc.
+UID:MO-orange-2026-09-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260828
@@ -147,13 +154,6 @@ CATEGORIES:orange
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2026-08-28
 SUMMARY:📅Ex-Div – NextEra Energy\, Inc.
 UID:NEE-orange-2026-08-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260915
-CATEGORIES:orange
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha Ex-Dividendo (corte): 2026-09-15
-SUMMARY:📅Ex-Div – Altria Group\, Inc.
-UID:MO-orange-2026-09-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260612
@@ -287,6 +287,13 @@ CATEGORIES:orange
 DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha Ex-Dividendo (corte): 2026-09-04
 SUMMARY:📅Ex-Div – PayPal Holdings\, Inc.
 UID:PYPL-orange-2026-09-04@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260930
+CATEGORIES:orange
+DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-09-30
+SUMMARY:📅Ex-Div – Realty Income Corporation
+UID:O-orange-2026-09-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260611
