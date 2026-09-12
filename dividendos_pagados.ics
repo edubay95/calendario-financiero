@@ -4,8 +4,8 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260915
 CATEGORIES:green
-DESCRIPTION:The Hershey Company (HSY)\nFecha de PAGO: 2026-09-15\nCantidad: 80 acciones\nDiv x Acc: 1.4520 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 69.99 EUR\nBruto: 99.98 EUR\nRet. Origen (30.0%): -29.99 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (69.99€) – The Hershey Company
+DESCRIPTION:The Hershey Company (HSY)\nFecha de PAGO: 2026-09-15\nCantidad: 80 acciones\nDiv x Acc: 1.4520 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 70.09 EUR\nBruto: 100.13 EUR\nRet. Origen (30.0%): -30.04 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (70.09€) – The Hershey Company
 UID:HSY-green-2026-09-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -18,8 +18,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260709
 CATEGORIES:green
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha de PAGO: 2026-07-09\nCantidad: 450 acciones\nDiv x Acc: 0.1884 GBP\n--- Cálculo en EUR (FX: 1.1638) ---\nNETO: 79.92 EUR\nBruto: 98.66 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -18.75 EUR
-SUMMARY:💵Div (79.92€) – JPMORGAN ETFS (IRELAND) ICAV JP
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha de PAGO: 2026-07-09\nCantidad: 450 acciones\nDiv x Acc: 0.1884 GBP\n--- Cálculo en EUR (FX: 1.1656) ---\nNETO: 80.05 EUR\nBruto: 98.82 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -18.78 EUR
+SUMMARY:💵Div (80.05€) – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEQP.L-green-2026-07-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -32,134 +32,134 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260831
 CATEGORIES:green
-DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de PAGO: 2026-08-31\nCantidad: 115 acciones\nDiv x Acc: 0.5020 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 34.78 EUR\nBruto: 49.69 EUR\nRet. Origen (30.0%): -14.91 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (34.78€) – Brookfield Asset Management Inc
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de PAGO: 2026-08-31\nCantidad: 115 acciones\nDiv x Acc: 0.5020 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 34.84 EUR\nBruto: 49.76 EUR\nRet. Origen (30.0%): -14.93 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (34.84€) – Brookfield Asset Management Inc
 UID:BAM-green-2026-08-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260709
 CATEGORIES:green
-DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de PAGO: 2026-07-09\nCantidad: 330 acciones\nDiv x Acc: 0.6126 GBP\n--- Cálculo en EUR (FX: 1.1638) ---\nNETO: 190.56 EUR\nBruto: 235.26 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -44.70 EUR
-SUMMARY:💵Div (190.56€) – BRITISH AMERICAN TOBACCO PLC OR
+DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha de PAGO: 2026-07-09\nCantidad: 330 acciones\nDiv x Acc: 0.6126 GBP\n--- Cálculo en EUR (FX: 1.1656) ---\nNETO: 190.87 EUR\nBruto: 235.64 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -44.77 EUR
+SUMMARY:💵Div (190.87€) – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-green-2026-07-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260810
 CATEGORIES:green
-DESCRIPTION:Blackstone Inc. (BX)\nFecha de PAGO: 2026-08-10\nCantidad: 80 acciones\nDiv x Acc: 1.2900 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 62.18 EUR\nBruto: 88.83 EUR\nRet. Origen (30.0%): -26.65 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (62.18€) – Blackstone Inc.
+DESCRIPTION:Blackstone Inc. (BX)\nFecha de PAGO: 2026-08-10\nCantidad: 80 acciones\nDiv x Acc: 1.2900 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 62.27 EUR\nBruto: 88.96 EUR\nRet. Origen (30.0%): -26.69 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (62.27€) – Blackstone Inc.
 UID:BX-green-2026-08-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260630
 CATEGORIES:green
-DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de PAGO: 2026-06-30\nCantidad: 310 acciones\nDiv x Acc: 0.4700 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 87.79 EUR\nBruto: 125.41 EUR\nRet. Origen (30.0%): -37.62 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (87.79€) – Blackstone Mortgage Trust\, Inc.
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de PAGO: 2026-06-30\nCantidad: 310 acciones\nDiv x Acc: 0.4700 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 87.92 EUR\nBruto: 125.60 EUR\nRet. Origen (30.0%): -37.68 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (87.92€) – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-green-2026-06-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260715
 CATEGORIES:green
-DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de PAGO: 2026-07-15\nCantidad: 310 acciones\nDiv x Acc: 0.4700 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 87.79 EUR\nBruto: 125.41 EUR\nRet. Origen (30.0%): -37.62 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (87.79€) – Blackstone Mortgage Trust\, Inc.
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de PAGO: 2026-07-15\nCantidad: 310 acciones\nDiv x Acc: 0.4700 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 87.92 EUR\nBruto: 125.60 EUR\nRet. Origen (30.0%): -37.68 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (87.92€) – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-green-2026-07-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260803
 CATEGORIES:green
-DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de PAGO: 2026-08-03\nCantidad: 230 acciones\nDiv x Acc: 0.7080 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 98.11 EUR\nBruto: 140.16 EUR\nRet. Origen (30.0%): -42.05 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (98.11€) – Verizon Communications Inc.
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de PAGO: 2026-08-03\nCantidad: 230 acciones\nDiv x Acc: 0.7080 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 98.26 EUR\nBruto: 140.37 EUR\nRet. Origen (30.0%): -42.11 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (98.26€) – Verizon Communications Inc.
 UID:VZ-green-2026-08-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260612
 CATEGORIES:green
-DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de PAGO: 2026-06-12\nCantidad: 41 acciones\nDiv x Acc: 1.7900 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 44.22 EUR\nBruto: 63.17 EUR\nRet. Origen (30.0%): -18.95 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (44.22€) – American Tower Corporation (REI
+DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de PAGO: 2026-06-12\nCantidad: 41 acciones\nDiv x Acc: 1.7900 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 44.28 EUR\nBruto: 63.26 EUR\nRet. Origen (30.0%): -18.98 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (44.28€) – American Tower Corporation (REI
 UID:AMT-green-2026-06-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260825
 CATEGORIES:green
-DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de PAGO: 2026-08-25\nCantidad: 87 acciones\nDiv x Acc: 1.3400 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 70.24 EUR\nBruto: 100.34 EUR\nRet. Origen (30.0%): -30.10 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (70.24€) – Johnson & Johnson
+DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de PAGO: 2026-08-25\nCantidad: 87 acciones\nDiv x Acc: 1.3400 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 70.35 EUR\nBruto: 100.49 EUR\nRet. Origen (30.0%): -30.15 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (70.35€) – Johnson & Johnson
 UID:JNJ-green-2026-08-25@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260630
 CATEGORIES:green
-DESCRIPTION:Realty Income Corporation (O)\nFecha de PAGO: 2026-06-30\nCantidad: 200 acciones\nDiv x Acc: 0.2710 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 32.66 EUR\nBruto: 46.65 EUR\nRet. Origen (30.0%): -14.00 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (32.66€) – Realty Income Corporation
+DESCRIPTION:Realty Income Corporation (O)\nFecha de PAGO: 2026-06-30\nCantidad: 200 acciones\nDiv x Acc: 0.2710 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 32.71 EUR\nBruto: 46.72 EUR\nRet. Origen (30.0%): -14.02 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (32.71€) – Realty Income Corporation
 UID:O-green-2026-06-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260910
+CATEGORIES:green
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha de PAGO: 2026-09-10\nCantidad: 450 acciones\nDiv x Acc: 0.1942 GBP\n--- Cálculo en EUR (FX: 1.1656) ---\nNETO: 82.51 EUR\nBruto: 101.86 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -19.35 EUR
+SUMMARY:💵Div (82.51€) – JPMORGAN ETFS (IRELAND) ICAV JP
+UID:JEQP.L-green-2026-09-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260713
 CATEGORIES:green
-DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de PAGO: 2026-07-13\nCantidad: 41 acciones\nDiv x Acc: 1.7900 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 44.22 EUR\nBruto: 63.17 EUR\nRet. Origen (30.0%): -18.95 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (44.22€) – American Tower Corporation (REI
+DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de PAGO: 2026-07-13\nCantidad: 41 acciones\nDiv x Acc: 1.7900 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 44.28 EUR\nBruto: 63.26 EUR\nRet. Origen (30.0%): -18.98 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (44.28€) – American Tower Corporation (REI
 UID:AMT-green-2026-07-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260817
 CATEGORIES:green
-DESCRIPTION:Novo Nordisk A/S (NVO)\nFecha de PAGO: 2026-08-17\nCantidad: 150 acciones\nDiv x Acc: 0.5790 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 52.33 EUR\nBruto: 74.76 EUR\nRet. Origen (30.0%): -22.43 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (52.33€) – Novo Nordisk A/S
+DESCRIPTION:Novo Nordisk A/S (NVO)\nFecha de PAGO: 2026-08-17\nCantidad: 150 acciones\nDiv x Acc: 0.5790 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 52.41 EUR\nBruto: 74.87 EUR\nRet. Origen (30.0%): -22.46 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (52.41€) – Novo Nordisk A/S
 UID:NVO-green-2026-08-17@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
 CATEGORIES:green
-DESCRIPTION:Brookfield Corporation (BN)\nFecha de PAGO: 2026-06-15\nCantidad: 233 acciones\nDiv x Acc: 0.0700 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 9.83 EUR\nBruto: 14.04 EUR\nRet. Origen (30.0%): -4.21 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (9.83€) – Brookfield Corporation
+DESCRIPTION:Brookfield Corporation (BN)\nFecha de PAGO: 2026-06-15\nCantidad: 233 acciones\nDiv x Acc: 0.0700 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 9.84 EUR\nBruto: 14.06 EUR\nRet. Origen (30.0%): -4.22 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (9.84€) – Brookfield Corporation
 UID:BN-green-2026-06-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260825
 CATEGORIES:green
-DESCRIPTION:Robert Half Inc. (RHI)\nFecha de PAGO: 2026-08-25\nCantidad: 480 acciones\nDiv x Acc: 0.5900 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 170.63 EUR\nBruto: 243.76 EUR\nRet. Origen (30.0%): -73.13 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (170.63€) – Robert Half Inc.
+DESCRIPTION:Robert Half Inc. (RHI)\nFecha de PAGO: 2026-08-25\nCantidad: 480 acciones\nDiv x Acc: 0.5900 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 170.89 EUR\nBruto: 244.12 EUR\nRet. Origen (30.0%): -73.24 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (170.89€) – Robert Half Inc.
 UID:RHI-green-2026-08-25@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260731
 CATEGORIES:green
-DESCRIPTION:Realty Income Corporation (O)\nFecha de PAGO: 2026-07-31\nCantidad: 200 acciones\nDiv x Acc: 0.2710 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 32.66 EUR\nBruto: 46.65 EUR\nRet. Origen (30.0%): -14.00 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (32.66€) – Realty Income Corporation
+DESCRIPTION:Realty Income Corporation (O)\nFecha de PAGO: 2026-07-31\nCantidad: 200 acciones\nDiv x Acc: 0.2710 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 32.71 EUR\nBruto: 46.72 EUR\nRet. Origen (30.0%): -14.02 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (32.71€) – Realty Income Corporation
 UID:O-green-2026-07-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260709
 CATEGORIES:green
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-07-09\nCantidad: 400 acciones\nDiv x Acc: 0.0016 GBP\n--- Cálculo en EUR (FX: 1.1638) ---\nNETO: 0.60 EUR\nBruto: 0.74 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.14 EUR
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-07-09\nCantidad: 400 acciones\nDiv x Acc: 0.0016 GBP\n--- Cálculo en EUR (FX: 1.1656) ---\nNETO: 0.60 EUR\nBruto: 0.74 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.14 EUR
 SUMMARY:💵Div (0.60€) – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEPG.L-green-2026-07-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260611
-CATEGORIES:green
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha de PAGO: 2026-06-11\nCantidad: 450 acciones\nDiv x Acc: 0.1889 GBP\n--- Cálculo en EUR (FX: 1.1638) ---\nNETO: 80.12 EUR\nBruto: 98.91 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -18.79 EUR
-SUMMARY:💵Div (80.12€) – JPMORGAN ETFS (IRELAND) ICAV JP
-UID:JEQP.L-green-2026-06-11@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260915
 CATEGORIES:green
-DESCRIPTION:Robert Half Inc. (RHI)\nFecha de PAGO: 2026-09-15\nCantidad: 480 acciones\nDiv x Acc: 0.5900 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 170.63 EUR\nBruto: 243.76 EUR\nRet. Origen (30.0%): -73.13 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (170.63€) – Robert Half Inc.
+DESCRIPTION:Robert Half Inc. (RHI)\nFecha de PAGO: 2026-09-15\nCantidad: 480 acciones\nDiv x Acc: 0.5900 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 170.89 EUR\nBruto: 244.12 EUR\nRet. Origen (30.0%): -73.24 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (170.89€) – Robert Half Inc.
 UID:RHI-green-2026-09-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
 CATEGORIES:green
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2026-06-15\nCantidad: 100 acciones\nDiv x Acc: 1.3000 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 78.33 EUR\nBruto: 111.90 EUR\nRet. Origen (30.0%): -33.57 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (78.33€) – T. Rowe Price Group\, Inc.
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2026-06-15\nCantidad: 100 acciones\nDiv x Acc: 1.3000 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 78.44 EUR\nBruto: 112.06 EUR\nRet. Origen (30.0%): -33.62 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (78.44€) – T. Rowe Price Group\, Inc.
 UID:TROW-green-2026-06-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260803
 CATEGORIES:green
-DESCRIPTION:Blackstone Inc. (BX)\nFecha de PAGO: 2026-08-03\nCantidad: 80 acciones\nDiv x Acc: 1.2900 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 62.18 EUR\nBruto: 88.83 EUR\nRet. Origen (30.0%): -26.65 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (62.18€) – Blackstone Inc.
+DESCRIPTION:Blackstone Inc. (BX)\nFecha de PAGO: 2026-08-03\nCantidad: 80 acciones\nDiv x Acc: 1.2900 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 62.27 EUR\nBruto: 88.96 EUR\nRet. Origen (30.0%): -26.69 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (62.27€) – Blackstone Inc.
 UID:BX-green-2026-08-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -172,29 +172,29 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260825
 CATEGORIES:green
-DESCRIPTION:Novo Nordisk A/S (NVO)\nFecha de PAGO: 2026-08-25\nCantidad: 150 acciones\nDiv x Acc: 0.5790 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 52.33 EUR\nBruto: 74.76 EUR\nRet. Origen (30.0%): -22.43 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (52.33€) – Novo Nordisk A/S
+DESCRIPTION:Novo Nordisk A/S (NVO)\nFecha de PAGO: 2026-08-25\nCantidad: 150 acciones\nDiv x Acc: 0.5790 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 52.41 EUR\nBruto: 74.87 EUR\nRet. Origen (30.0%): -22.46 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (52.41€) – Novo Nordisk A/S
 UID:NVO-green-2026-08-25@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260915
 CATEGORIES:green
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de PAGO: 2026-09-15\nCantidad: 152 acciones\nDiv x Acc: 0.6230 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 57.06 EUR\nBruto: 81.51 EUR\nRet. Origen (30.0%): -24.45 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (57.06€) – NextEra Energy\, Inc.
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de PAGO: 2026-09-15\nCantidad: 152 acciones\nDiv x Acc: 0.6230 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 57.14 EUR\nBruto: 81.63 EUR\nRet. Origen (30.0%): -24.49 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (57.14€) – NextEra Energy\, Inc.
 UID:NEE-green-2026-09-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260612
 CATEGORIES:green
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-06-12\nCantidad: 400 acciones\nDiv x Acc: 0.0019 GBP\n--- Cálculo en EUR (FX: 1.1638) ---\nNETO: 0.70 EUR\nBruto: 0.87 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.17 EUR
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-06-12\nCantidad: 400 acciones\nDiv x Acc: 0.0019 GBP\n--- Cálculo en EUR (FX: 1.1656) ---\nNETO: 0.70 EUR\nBruto: 0.87 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.17 EUR
 SUMMARY:💵Div (0.70€) – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEPG.L-green-2026-06-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260803
 CATEGORIES:green
-DESCRIPTION:CVS Health Corporation (CVS)\nFecha de PAGO: 2026-08-03\nCantidad: 135 acciones\nDiv x Acc: 0.6650 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 54.09 EUR\nBruto: 77.27 EUR\nRet. Origen (30.0%): -23.18 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (54.09€) – CVS Health Corporation
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha de PAGO: 2026-08-03\nCantidad: 135 acciones\nDiv x Acc: 0.6650 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 54.17 EUR\nBruto: 77.39 EUR\nRet. Origen (30.0%): -23.22 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (54.17€) – CVS Health Corporation
 UID:CVS-green-2026-08-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -207,78 +207,71 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260825
 CATEGORIES:green
-DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de PAGO: 2026-08-25\nCantidad: 1000 acciones\nDiv x Acc: 0.5300 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 369.51 EUR\nBruto: 456.19 EUR\nRet. Origen (15.0%): -68.43 EUR\nRet. España (dif): -18.25 EUR
-SUMMARY:💵Div (369.51€) – Petroleo Brasileiro S.A. Petrob
+DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de PAGO: 2026-08-25\nCantidad: 1000 acciones\nDiv x Acc: 0.5300 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 370.06 EUR\nBruto: 456.87 EUR\nRet. Origen (15.0%): -68.53 EUR\nRet. España (dif): -18.27 EUR
+SUMMARY:💵Div (370.06€) – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-green-2026-08-25@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260813
 CATEGORIES:green
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha de PAGO: 2026-08-13\nCantidad: 450 acciones\nDiv x Acc: 0.2537 GBP\n--- Cálculo en EUR (FX: 1.1638) ---\nNETO: 107.61 EUR\nBruto: 132.86 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -25.24 EUR
-SUMMARY:💵Div (107.61€) – JPMORGAN ETFS (IRELAND) ICAV JP
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha de PAGO: 2026-08-13\nCantidad: 450 acciones\nDiv x Acc: 0.2537 GBP\n--- Cálculo en EUR (FX: 1.1656) ---\nNETO: 107.79 EUR\nBruto: 133.07 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -25.28 EUR
+SUMMARY:💵Div (107.79€) – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEQP.L-green-2026-08-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260908
 CATEGORIES:green
-DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de PAGO: 2026-09-08\nCantidad: 87 acciones\nDiv x Acc: 1.3400 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 70.24 EUR\nBruto: 100.34 EUR\nRet. Origen (30.0%): -30.10 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (70.24€) – Johnson & Johnson
+DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de PAGO: 2026-09-08\nCantidad: 87 acciones\nDiv x Acc: 1.3400 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 70.35 EUR\nBruto: 100.49 EUR\nRet. Origen (30.0%): -30.15 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (70.35€) – Johnson & Johnson
 UID:JNJ-green-2026-09-08@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:green
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-09-10\nCantidad: 400 acciones\nDiv x Acc: 0.0015 GBP\n--- Cálculo en EUR (FX: 1.1638) ---\nNETO: 0.55 EUR\nBruto: 0.68 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.13 EUR
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-09-10\nCantidad: 400 acciones\nDiv x Acc: 0.0015 GBP\n--- Cálculo en EUR (FX: 1.1656) ---\nNETO: 0.55 EUR\nBruto: 0.68 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.13 EUR
 SUMMARY:💵Div (0.55€) – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEPG.L-green-2026-09-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260909
 CATEGORIES:green
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2026-09-09\nCantidad: 100 acciones\nDiv x Acc: 2.2500 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 135.57 EUR\nBruto: 193.67 EUR\nRet. Origen (30.0%): -58.10 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (135.57€) – Simon Property Group\, Inc.
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2026-09-09\nCantidad: 100 acciones\nDiv x Acc: 2.2500 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 135.77 EUR\nBruto: 193.95 EUR\nRet. Origen (30.0%): -58.19 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (135.77€) – Simon Property Group\, Inc.
 UID:SPG-green-2026-09-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260713
 CATEGORIES:green
-DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de PAGO: 2026-07-13\nCantidad: 12 acciones\nDiv x Acc: 1.0500 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 7.59 EUR\nBruto: 10.85 EUR\nRet. Origen (30.0%): -3.25 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (7.59€) – Alibaba Group Holding Limited
+DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de PAGO: 2026-07-13\nCantidad: 12 acciones\nDiv x Acc: 1.0500 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 7.60 EUR\nBruto: 10.86 EUR\nRet. Origen (30.0%): -3.26 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (7.60€) – Alibaba Group Holding Limited
 UID:BABA-green-2026-07-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260831
 CATEGORIES:green
-DESCRIPTION:Realty Income Corporation (O)\nFecha de PAGO: 2026-08-31\nCantidad: 200 acciones\nDiv x Acc: 0.2710 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 32.66 EUR\nBruto: 46.65 EUR\nRet. Origen (30.0%): -14.00 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (32.66€) – Realty Income Corporation
+DESCRIPTION:Realty Income Corporation (O)\nFecha de PAGO: 2026-08-31\nCantidad: 200 acciones\nDiv x Acc: 0.2710 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 32.71 EUR\nBruto: 46.72 EUR\nRet. Origen (30.0%): -14.02 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (32.71€) – Realty Income Corporation
 UID:O-green-2026-08-31@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260611
-CATEGORIES:green
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-06-11\nCantidad: 400 acciones\nDiv x Acc: 0.0019 GBP\n--- Cálculo en EUR (FX: 1.1638) ---\nNETO: 0.70 EUR\nBruto: 0.87 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.17 EUR
-SUMMARY:💵Div (0.70€) – JPMORGAN ETFS (IRELAND) ICAV JP
-UID:JEPG.L-green-2026-06-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
 CATEGORIES:green
-DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de PAGO: 2026-07-10\nCantidad: 230 acciones\nDiv x Acc: 0.7080 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 98.11 EUR\nBruto: 140.16 EUR\nRet. Origen (30.0%): -42.05 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (98.11€) – Verizon Communications Inc.
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de PAGO: 2026-07-10\nCantidad: 230 acciones\nDiv x Acc: 0.7080 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 98.26 EUR\nBruto: 140.37 EUR\nRet. Origen (30.0%): -42.11 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (98.26€) – Verizon Communications Inc.
 UID:VZ-green-2026-07-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260904
 CATEGORIES:green
-DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de PAGO: 2026-09-04\nCantidad: 350 acciones\nDiv x Acc: 0.1400 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 29.52 EUR\nBruto: 42.18 EUR\nRet. Origen (30.0%): -12.65 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (29.52€) – PayPal Holdings\, Inc.
+DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de PAGO: 2026-09-04\nCantidad: 350 acciones\nDiv x Acc: 0.1400 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 29.57 EUR\nBruto: 42.24 EUR\nRet. Origen (30.0%): -12.67 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (29.57€) – PayPal Holdings\, Inc.
 UID:PYPL-green-2026-09-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:green
-DESCRIPTION:Brookfield Corporation (BN)\nFecha de PAGO: 2026-09-29\nCantidad: 233 acciones\nDiv x Acc: 0.0700 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 9.83 EUR\nBruto: 14.04 EUR\nRet. Origen (30.0%): -4.21 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (9.83€) – Brookfield Corporation
+DESCRIPTION:Brookfield Corporation (BN)\nFecha de PAGO: 2026-09-29\nCantidad: 233 acciones\nDiv x Acc: 0.0700 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 9.84 EUR\nBruto: 14.06 EUR\nRet. Origen (30.0%): -4.22 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (9.84€) – Brookfield Corporation
 UID:BN-green-2026-09-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -298,71 +291,64 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260723
 CATEGORIES:green
-DESCRIPTION:CVS Health Corporation (CVS)\nFecha de PAGO: 2026-07-23\nCantidad: 135 acciones\nDiv x Acc: 0.6650 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 54.09 EUR\nBruto: 77.27 EUR\nRet. Origen (30.0%): -23.18 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (54.09€) – CVS Health Corporation
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha de PAGO: 2026-07-23\nCantidad: 135 acciones\nDiv x Acc: 0.6650 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 54.17 EUR\nBruto: 77.39 EUR\nRet. Origen (30.0%): -23.22 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (54.17€) – CVS Health Corporation
 UID:CVS-green-2026-07-23@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260611
-CATEGORIES:green
-DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de PAGO: 2026-06-11\nCantidad: 12 acciones\nDiv x Acc: 1.0500 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 7.59 EUR\nBruto: 10.85 EUR\nRet. Origen (30.0%): -3.25 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (7.59€) – Alibaba Group Holding Limited
-UID:BABA-green-2026-06-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:green
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2026-09-29\nCantidad: 100 acciones\nDiv x Acc: 1.3000 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 78.33 EUR\nBruto: 111.90 EUR\nRet. Origen (30.0%): -33.57 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (78.33€) – T. Rowe Price Group\, Inc.
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de PAGO: 2026-09-29\nCantidad: 100 acciones\nDiv x Acc: 1.3000 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 78.44 EUR\nBruto: 112.06 EUR\nRet. Origen (30.0%): -33.62 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (78.44€) – T. Rowe Price Group\, Inc.
 UID:TROW-green-2026-09-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260930
 CATEGORIES:green
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2026-09-30\nCantidad: 100 acciones\nDiv x Acc: 2.2500 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 135.57 EUR\nBruto: 193.67 EUR\nRet. Origen (30.0%): -58.10 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (135.57€) – Simon Property Group\, Inc.
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de PAGO: 2026-09-30\nCantidad: 100 acciones\nDiv x Acc: 2.2500 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 135.77 EUR\nBruto: 193.95 EUR\nRet. Origen (30.0%): -58.19 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (135.77€) – Simon Property Group\, Inc.
 UID:SPG-green-2026-09-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
 CATEGORIES:green
-DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de PAGO: 2026-06-15\nCantidad: 25 acciones\nDiv x Acc: 0.5250 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 7.91 EUR\nBruto: 11.30 EUR\nRet. Origen (30.0%): -3.39 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (7.91€) – Meta Platforms\, Inc.
+DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de PAGO: 2026-06-15\nCantidad: 25 acciones\nDiv x Acc: 0.5250 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 7.92 EUR\nBruto: 11.31 EUR\nRet. Origen (30.0%): -3.39 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (7.92€) – Meta Platforms\, Inc.
 UID:META-green-2026-06-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
 CATEGORIES:green
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de PAGO: 2026-06-15\nCantidad: 180 acciones\nDiv x Acc: 1.0600 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 114.96 EUR\nBruto: 164.23 EUR\nRet. Origen (30.0%): -49.27 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (114.96€) – Altria Group\, Inc.
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de PAGO: 2026-06-15\nCantidad: 180 acciones\nDiv x Acc: 1.0600 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 115.13 EUR\nBruto: 164.47 EUR\nRet. Origen (30.0%): -49.34 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (115.13€) – Altria Group\, Inc.
 UID:MO-green-2026-06-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260915
 CATEGORIES:green
-DESCRIPTION:Realty Income Corporation (O)\nFecha de PAGO: 2026-09-15\nCantidad: 200 acciones\nDiv x Acc: 0.2710 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 32.66 EUR\nBruto: 46.65 EUR\nRet. Origen (30.0%): -14.00 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (32.66€) – Realty Income Corporation
+DESCRIPTION:Realty Income Corporation (O)\nFecha de PAGO: 2026-09-15\nCantidad: 200 acciones\nDiv x Acc: 0.2710 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 32.71 EUR\nBruto: 46.72 EUR\nRet. Origen (30.0%): -14.02 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (32.71€) – Realty Income Corporation
 UID:O-green-2026-09-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260929
 CATEGORIES:green
-DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de PAGO: 2026-09-29\nCantidad: 115 acciones\nDiv x Acc: 0.5020 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 34.78 EUR\nBruto: 49.69 EUR\nRet. Origen (30.0%): -14.91 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (34.78€) – Brookfield Asset Management Inc
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de PAGO: 2026-09-29\nCantidad: 115 acciones\nDiv x Acc: 0.5020 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 34.84 EUR\nBruto: 49.76 EUR\nRet. Origen (30.0%): -14.93 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (34.84€) – Brookfield Asset Management Inc
 UID:BAM-green-2026-09-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260813
 CATEGORIES:green
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-08-13\nCantidad: 400 acciones\nDiv x Acc: 0.0019 GBP\n--- Cálculo en EUR (FX: 1.1638) ---\nNETO: 0.72 EUR\nBruto: 0.89 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.17 EUR
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-08-13\nCantidad: 400 acciones\nDiv x Acc: 0.0019 GBP\n--- Cálculo en EUR (FX: 1.1656) ---\nNETO: 0.72 EUR\nBruto: 0.89 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.17 EUR
 SUMMARY:💵Div (0.72€) – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEPG.L-green-2026-08-13@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260820
 CATEGORIES:green
-DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de PAGO: 2026-08-20\nCantidad: 20 acciones\nDiv x Acc: 0.9100 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 10.97 EUR\nBruto: 15.67 EUR\nRet. Origen (30.0%): -4.70 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (10.97€) – Microsoft Corporation
+DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de PAGO: 2026-08-20\nCantidad: 30 acciones\nDiv x Acc: 0.9100 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 16.47 EUR\nBruto: 23.53 EUR\nRet. Origen (30.0%): -7.06 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (16.47€) – Microsoft Corporation
 UID:MSFT-green-2026-08-20@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -375,36 +361,36 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260910
 CATEGORIES:green
-DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de PAGO: 2026-09-10\nCantidad: 20 acciones\nDiv x Acc: 0.9100 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 10.97 EUR\nBruto: 15.67 EUR\nRet. Origen (30.0%): -4.70 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (10.97€) – Microsoft Corporation
+DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de PAGO: 2026-09-10\nCantidad: 30 acciones\nDiv x Acc: 0.9100 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 16.47 EUR\nBruto: 23.53 EUR\nRet. Origen (30.0%): -7.06 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (16.47€) – Microsoft Corporation
 UID:MSFT-green-2026-09-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260814
 CATEGORIES:green
-DESCRIPTION:The Hershey Company (HSY)\nFecha de PAGO: 2026-08-14\nCantidad: 80 acciones\nDiv x Acc: 1.4520 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 69.99 EUR\nBruto: 99.98 EUR\nRet. Origen (30.0%): -29.99 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (69.99€) – The Hershey Company
+DESCRIPTION:The Hershey Company (HSY)\nFecha de PAGO: 2026-08-14\nCantidad: 80 acciones\nDiv x Acc: 1.4520 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 70.09 EUR\nBruto: 100.13 EUR\nRet. Origen (30.0%): -30.04 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (70.09€) – The Hershey Company
 UID:HSY-green-2026-08-14@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261009
 CATEGORIES:green
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de PAGO: 2026-10-09\nCantidad: 180 acciones\nDiv x Acc: 1.0600 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 114.96 EUR\nBruto: 164.23 EUR\nRet. Origen (30.0%): -49.27 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (114.96€) – Altria Group\, Inc.
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de PAGO: 2026-10-09\nCantidad: 180 acciones\nDiv x Acc: 1.0600 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 115.13 EUR\nBruto: 164.47 EUR\nRet. Origen (30.0%): -49.34 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (115.13€) – Altria Group\, Inc.
 UID:MO-green-2026-10-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260925
 CATEGORIES:green
-DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de PAGO: 2026-09-25\nCantidad: 350 acciones\nDiv x Acc: 0.1400 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 29.52 EUR\nBruto: 42.18 EUR\nRet. Origen (30.0%): -12.65 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (29.52€) – PayPal Holdings\, Inc.
+DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de PAGO: 2026-09-25\nCantidad: 350 acciones\nDiv x Acc: 0.1400 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 29.57 EUR\nBruto: 42.24 EUR\nRet. Origen (30.0%): -12.67 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (29.57€) – PayPal Holdings\, Inc.
 UID:PYPL-green-2026-09-25@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260625
 CATEGORIES:green
-DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de PAGO: 2026-06-25\nCantidad: 25 acciones\nDiv x Acc: 0.5250 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 7.91 EUR\nBruto: 11.30 EUR\nRet. Origen (30.0%): -3.39 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (7.91€) – Meta Platforms\, Inc.
+DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de PAGO: 2026-06-25\nCantidad: 25 acciones\nDiv x Acc: 0.5250 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 7.92 EUR\nBruto: 11.31 EUR\nRet. Origen (30.0%): -3.39 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (7.92€) – Meta Platforms\, Inc.
 UID:META-green-2026-06-25@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -417,8 +403,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260828
 CATEGORIES:green
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de PAGO: 2026-08-28\nCantidad: 152 acciones\nDiv x Acc: 0.6230 USD\n--- Cálculo en EUR (FX: 0.8607) ---\nNETO: 57.06 EUR\nBruto: 81.51 EUR\nRet. Origen (30.0%): -24.45 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (57.06€) – NextEra Energy\, Inc.
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de PAGO: 2026-08-28\nCantidad: 152 acciones\nDiv x Acc: 0.6230 USD\n--- Cálculo en EUR (FX: 0.8620) ---\nNETO: 57.14 EUR\nBruto: 81.63 EUR\nRet. Origen (30.0%): -24.49 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (57.14€) – NextEra Energy\, Inc.
 UID:NEE-green-2026-08-28@mi.calendario.financiero.v2
 END:VEVENT
 END:VCALENDAR
