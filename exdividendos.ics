@@ -163,13 +163,6 @@ SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
 UID:META-orange-2026-09-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260612
-CATEGORIES:orange
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha Ex-Dividendo (corte): 2026-06-12
-SUMMARY:📅Ex-Div – JPMORGAN ETFS (IRELAND) ICAV JP
-UID:JEPG.L-orange-2026-06-12@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260831
 CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-08-31
@@ -217,13 +210,6 @@ CATEGORIES:orange
 DESCRIPTION:The Hershey Company (HSY)\nFecha Ex-Dividendo (corte): 2026-08-14
 SUMMARY:📅Ex-Div – The Hershey Company
 UID:HSY-orange-2026-08-14@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260612
-CATEGORIES:orange
-DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha Ex-Dividendo (corte): 2026-06-12
-SUMMARY:📅Ex-Div – American Tower Corporation (REI
-UID:AMT-orange-2026-06-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
