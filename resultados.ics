@@ -65,6 +65,13 @@ SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-blue-2026-11-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261202
+CATEGORIES:blue
+DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha de resultados: 2026-12-02
+SUMMARY:💰Result – Industria de Diseño Textil\, S.A.
+UID:ITX.MC-blue-2026-12-02@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261028
 CATEGORIES:blue
 DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-10-28
@@ -189,6 +196,13 @@ CATEGORIES:blue
 DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de resultados: 2026-07-15
 SUMMARY:💰Result – Johnson & Johnson
 UID:JNJ-blue-2026-07-15@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260908
+CATEGORIES:blue
+DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha de resultados: 2026-09-08
+SUMMARY:💰Result – Industria de Diseño Textil\, S.A.
+UID:ITX.MC-blue-2026-09-08@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260805

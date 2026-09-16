@@ -170,13 +170,6 @@ SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2026-08-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260615
-CATEGORIES:orange
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha Ex-Dividendo (corte): 2026-06-15
-SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
-UID:TROW-orange-2026-06-15@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260803
 CATEGORIES:orange
 DESCRIPTION:Blackstone Inc. (BX)\nFecha Ex-Dividendo (corte): 2026-08-03
@@ -212,13 +205,6 @@ SUMMARY:📅Ex-Div – The Hershey Company
 UID:HSY-orange-2026-08-14@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260615
-CATEGORIES:orange
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha Ex-Dividendo (corte): 2026-06-15
-SUMMARY:📅Ex-Div – Altria Group\, Inc.
-UID:MO-orange-2026-06-15@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260825
 CATEGORIES:orange
 DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha Ex-Dividendo (corte): 2026-08-25
@@ -231,13 +217,6 @@ CATEGORIES:orange
 DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha Ex-Dividendo (corte): 2026-10-15
 SUMMARY:📅Ex-Div – DIAGEO PLC ORD 28 101/108P
 UID:DGE.L-orange-2026-10-15@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260615
-CATEGORIES:orange
-DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha Ex-Dividendo (corte): 2026-06-15
-SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
-UID:META-orange-2026-06-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260813
@@ -261,11 +240,11 @@ SUMMARY:📅Ex-Div – ACS\,ACTIVIDADES DE CONSTRUCCION
 UID:ACS.MC-orange-2026-06-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260615
+DTSTART;VALUE=DATE:20260709
 CATEGORIES:orange
-DESCRIPTION:Brookfield Corporation (BN)\nFecha Ex-Dividendo (corte): 2026-06-15
-SUMMARY:📅Ex-Div – Brookfield Corporation
-UID:BN-orange-2026-06-15@mi.calendario.financiero.v2
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha Ex-Dividendo (corte): 2026-07-09
+SUMMARY:📅Ex-Div – JPMORGAN ETFS (IRELAND) ICAV JP
+UID:JEQP.L-orange-2026-07-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260713
@@ -287,13 +266,6 @@ CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-09-30
 SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2026-09-30@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260709
-CATEGORIES:orange
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEQP.L)\nFecha Ex-Dividendo (corte): 2026-07-09
-SUMMARY:📅Ex-Div – JPMORGAN ETFS (IRELAND) ICAV JP
-UID:JEQP.L-orange-2026-07-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260820
