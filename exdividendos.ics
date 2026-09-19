@@ -51,6 +51,13 @@ SUMMARY:📅Ex-Div – Novo Nordisk A/S
 UID:NVO-orange-2026-08-17@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260930
+CATEGORIES:orange
+DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha Ex-Dividendo (corte): 2026-09-30
+SUMMARY:📅Ex-Div – American Tower Corporation (REI
+UID:AMT-orange-2026-09-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260703
 CATEGORIES:orange
 DESCRIPTION:CIE AUTOMOTIVE\, S.A. (CIE.MC)\nFecha Ex-Dividendo (corte): 2026-07-03
