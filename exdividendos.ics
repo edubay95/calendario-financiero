@@ -65,13 +65,6 @@ SUMMARY:📅Ex-Div – American Tower Corporation (REI
 UID:AMT-orange-2026-09-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260703
-CATEGORIES:orange
-DESCRIPTION:CIE AUTOMOTIVE\, S.A. (CIE.MC)\nFecha Ex-Dividendo (corte): 2026-07-03
-SUMMARY:📅Ex-Div – CIE AUTOMOTIVE\, S.A.
-UID:CIE.MC-orange-2026-07-03@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260909
 CATEGORIES:orange
 DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha Ex-Dividendo (corte): 2026-09-09
