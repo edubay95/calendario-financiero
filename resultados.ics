@@ -65,13 +65,6 @@ SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-blue-2026-11-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:blue
-DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-10-28
-SUMMARY:💰Result – CVS Health Corporation
-UID:CVS-blue-2026-10-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261104
 CATEGORIES:blue
 DESCRIPTION:Novo Nordisk A/S (NVO)\nFecha de resultados: 2026-11-04
@@ -322,6 +315,13 @@ CATEGORIES:blue
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2026-07-30
 SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-blue-2026-07-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261104
+CATEGORIES:blue
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-11-04
+SUMMARY:💰Result – CVS Health Corporation
+UID:CVS-blue-2026-11-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260810
