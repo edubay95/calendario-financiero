@@ -65,6 +65,13 @@ SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-blue-2026-11-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261202
+CATEGORIES:blue
+DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha de resultados: 2026-12-02
+SUMMARY:💰Result – Industria de Diseño Textil\, S.A.
+UID:ITX.MC-blue-2026-12-02@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261104
 CATEGORIES:blue
 DESCRIPTION:Novo Nordisk A/S (NVO)\nFecha de resultados: 2026-11-04
@@ -128,11 +135,11 @@ SUMMARY:💰Result – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-blue-2026-08-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261030
+DTSTART;VALUE=DATE:20261027
 CATEGORIES:blue
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-10-30
-SUMMARY:💰Result – T. Rowe Price Group\, Inc.
-UID:TROW-blue-2026-10-30@mi.calendario.financiero.v2
+DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-10-27
+SUMMARY:💰Result – PayPal Holdings\, Inc.
+UID:PYPL-blue-2026-10-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
@@ -163,13 +170,6 @@ SUMMARY:💰Result – PayPal Holdings\, Inc.
 UID:PYPL-blue-2026-07-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261027
-CATEGORIES:blue
-DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-10-27
-SUMMARY:💰Result – PayPal Holdings\, Inc.
-UID:PYPL-blue-2026-10-27@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260804
 CATEGORIES:blue
 DESCRIPTION:Novo Nordisk A/S (NVO)\nFecha de resultados: 2026-08-04
@@ -182,6 +182,13 @@ CATEGORIES:blue
 DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de resultados: 2026-07-15
 SUMMARY:💰Result – Johnson & Johnson
 UID:JNJ-blue-2026-07-15@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260908
+CATEGORIES:blue
+DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha de resultados: 2026-09-08
+SUMMARY:💰Result – Industria de Diseño Textil\, S.A.
+UID:ITX.MC-blue-2026-09-08@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260805
@@ -217,6 +224,13 @@ CATEGORIES:blue
 DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2026-07-28
 SUMMARY:💰Result – TELEFONICA\,S.A.
 UID:TEF.MC-blue-2026-07-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261105
+CATEGORIES:blue
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-11-05
+SUMMARY:💰Result – Simon Property Group\, Inc.
+UID:SPG-blue-2026-11-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261105
@@ -301,6 +315,13 @@ CATEGORIES:blue
 DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-10-28
 SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-blue-2026-10-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261029
+CATEGORIES:blue
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-10-29
+SUMMARY:💰Result – T. Rowe Price Group\, Inc.
+UID:TROW-blue-2026-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261124
@@ -413,12 +434,5 @@ CATEGORIES:blue
 DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2026-11-09
 SUMMARY:💰Result – AST SpaceMobile\, Inc.
 UID:ASTS-blue-2026-11-09@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261102
-CATEGORIES:blue
-DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-11-02
-SUMMARY:💰Result – Simon Property Group\, Inc.
-UID:SPG-blue-2026-11-02@mi.calendario.financiero.v2
 END:VEVENT
 END:VCALENDAR
