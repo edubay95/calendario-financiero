@@ -65,13 +65,6 @@ SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-blue-2026-11-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261202
-CATEGORIES:blue
-DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha de resultados: 2026-12-02
-SUMMARY:💰Result – Industria de Diseño Textil\, S.A.
-UID:ITX.MC-blue-2026-12-02@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261104
 CATEGORIES:blue
 DESCRIPTION:Novo Nordisk A/S (NVO)\nFecha de resultados: 2026-11-04
@@ -184,13 +177,6 @@ SUMMARY:💰Result – Johnson & Johnson
 UID:JNJ-blue-2026-07-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260908
-CATEGORIES:blue
-DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha de resultados: 2026-09-08
-SUMMARY:💰Result – Industria de Diseño Textil\, S.A.
-UID:ITX.MC-blue-2026-09-08@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260805
 CATEGORIES:blue
 DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-08-05
@@ -226,6 +212,13 @@ SUMMARY:💰Result – TELEFONICA\,S.A.
 UID:TEF.MC-blue-2026-07-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261029
+CATEGORIES:blue
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-10-29
+SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
+UID:BXMT-blue-2026-10-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261105
 CATEGORIES:blue
 DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-11-05
@@ -233,18 +226,18 @@ SUMMARY:💰Result – Simon Property Group\, Inc.
 UID:SPG-blue-2026-11-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261021
+CATEGORIES:blue
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-10-21
+SUMMARY:💰Result – NextEra Energy\, Inc.
+UID:NEE-blue-2026-10-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261105
 CATEGORIES:blue
 DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-11-05
 SUMMARY:💰Result – The Hershey Company
 UID:HSY-blue-2026-11-05@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261027
-CATEGORIES:blue
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-10-27
-SUMMARY:💰Result – NextEra Energy\, Inc.
-UID:NEE-blue-2026-10-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
@@ -282,18 +275,18 @@ SUMMARY:💰Result – BANCO SANTANDER S.A.
 UID:SAN.MC-blue-2026-10-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261028
+CATEGORIES:blue
+DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2026-10-28
+SUMMARY:💰Result – Brookfield Corporation
+UID:BN-blue-2026-10-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260723
 CATEGORIES:blue
 DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2026-07-23
 SUMMARY:💰Result – Blackstone Inc.
 UID:BX-blue-2026-07-23@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261112
-CATEGORIES:blue
-DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2026-11-12
-SUMMARY:💰Result – Brookfield Corporation
-UID:BN-blue-2026-11-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
@@ -308,13 +301,6 @@ CATEGORIES:blue
 DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2026-10-21
 SUMMARY:💰Result – ACCIONES IBERDROLA
 UID:IBE.MC-blue-2026-10-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:blue
-DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-10-28
-SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
-UID:BXMT-blue-2026-10-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
