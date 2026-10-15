@@ -72,6 +72,13 @@ SUMMARY:📅Ex-Div – Brookfield Asset Management Inc
 UID:BAM-orange-2026-08-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+CATEGORIES:orange
+DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-10-30
+SUMMARY:📅Ex-Div – Realty Income Corporation
+UID:O-orange-2026-10-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260825
 CATEGORIES:orange
 DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2026-08-25
