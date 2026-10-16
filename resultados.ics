@@ -16,13 +16,6 @@ SUMMARY:💰Result – Super Micro Computer\, Inc.
 UID:SMCI-blue-2026-11-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261021
-CATEGORIES:blue
-DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-10-21
-SUMMARY:💰Result – Robert Half Inc.
-UID:RHI-blue-2026-10-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
 CATEGORIES:blue
 DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-11-06
@@ -70,6 +63,13 @@ CATEGORIES:blue
 DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha de resultados: 2026-11-06
 SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-blue-2026-11-06@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261202
+CATEGORIES:blue
+DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha de resultados: 2026-12-02
+SUMMARY:💰Result – Industria de Diseño Textil\, S.A.
+UID:ITX.MC-blue-2026-12-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261104
@@ -170,11 +170,18 @@ SUMMARY:💰Result – Novo Nordisk A/S
 UID:NVO-blue-2026-08-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
+DTSTART;VALUE=DATE:20260805
 CATEGORIES:blue
-DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de resultados: 2026-07-15
-SUMMARY:💰Result – Johnson & Johnson
-UID:JNJ-blue-2026-07-15@mi.calendario.financiero.v2
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-08-05
+SUMMARY:💰Result – Brookfield Asset Management Inc
+UID:BAM-blue-2026-08-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260908
+CATEGORIES:blue
+DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha de resultados: 2026-09-08
+SUMMARY:💰Result – Industria de Diseño Textil\, S.A.
+UID:ITX.MC-blue-2026-09-08@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261021
@@ -182,13 +189,6 @@ CATEGORIES:blue
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2026-10-21
 SUMMARY:💰Result – Meta Platforms\, Inc.
 UID:META-blue-2026-10-21@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260805
-CATEGORIES:blue
-DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-08-05
-SUMMARY:💰Result – Brookfield Asset Management Inc
-UID:BAM-blue-2026-08-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261028
@@ -392,6 +392,13 @@ CATEGORIES:blue
 DESCRIPTION:AST SpaceMobile\, Inc. (ASTS)\nFecha de resultados: 2026-08-10
 SUMMARY:💰Result – AST SpaceMobile\, Inc.
 UID:ASTS-blue-2026-08-10@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261022
+CATEGORIES:blue
+DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-10-22
+SUMMARY:💰Result – Robert Half Inc.
+UID:RHI-blue-2026-10-22@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
