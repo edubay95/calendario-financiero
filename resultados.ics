@@ -65,13 +65,6 @@ SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-blue-2026-11-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261202
-CATEGORIES:blue
-DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha de resultados: 2026-12-02
-SUMMARY:💰Result – Industria de Diseño Textil\, S.A.
-UID:ITX.MC-blue-2026-12-02@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261104
 CATEGORIES:blue
 DESCRIPTION:Novo Nordisk A/S (NVO)\nFecha de resultados: 2026-11-04
@@ -93,11 +86,25 @@ SUMMARY:💰Result – BURBERRY GROUP PLC ORD 0.05P
 UID:BRBY.L-blue-2026-11-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261105
+CATEGORIES:blue
+DESCRIPTION:Molson Coors Beverage Company (TAP)\nFecha de resultados: 2026-11-05
+SUMMARY:💰Result – Molson Coors Beverage Company
+UID:TAP-blue-2026-11-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
 CATEGORIES:blue
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2026-07-29
 SUMMARY:💰Result – Meta Platforms\, Inc.
 UID:META-blue-2026-07-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+CATEGORIES:blue
+DESCRIPTION:Molson Coors Beverage Company (TAP)\nFecha de resultados: 2026-08-06
+SUMMARY:💰Result – Molson Coors Beverage Company
+UID:TAP-blue-2026-08-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261112
@@ -175,13 +182,6 @@ CATEGORIES:blue
 DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-08-05
 SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-08-05@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260908
-CATEGORIES:blue
-DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha de resultados: 2026-09-08
-SUMMARY:💰Result – Industria de Diseño Textil\, S.A.
-UID:ITX.MC-blue-2026-09-08@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261021

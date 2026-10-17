@@ -25,8 +25,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:orange
-DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-10-29
-SUMMARY:📅Ex-Div – Industria de Diseño Textil\, S.A.
+DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-10-29
+SUMMARY:📅Ex-Div – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-orange-2026-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -203,6 +203,13 @@ CATEGORIES:orange
 DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha Ex-Dividendo (corte): 2026-08-25
 SUMMARY:📅Ex-Div – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-orange-2026-08-25@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+CATEGORIES:orange
+DESCRIPTION:Molson Coors Beverage Company (TAP)\nFecha Ex-Dividendo (corte): 2026-08-28
+SUMMARY:📅Ex-Div – Molson Coors Beverage Company
+UID:TAP-orange-2026-08-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
