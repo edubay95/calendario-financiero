@@ -289,13 +289,6 @@ SUMMARY:💰Result – BANCO SANTANDER S.A.
 UID:SAN.MC-blue-2026-10-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260723
-CATEGORIES:blue
-DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2026-07-23
-SUMMARY:💰Result – Blackstone Inc.
-UID:BX-blue-2026-07-23@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261112
 CATEGORIES:blue
 DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2026-11-12
@@ -413,13 +406,6 @@ CATEGORIES:blue
 DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-07-30
 SUMMARY:💰Result – The Hershey Company
 UID:HSY-blue-2026-07-30@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260723
-CATEGORIES:blue
-DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-07-23
-SUMMARY:💰Result – Robert Half Inc.
-UID:RHI-blue-2026-07-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261109

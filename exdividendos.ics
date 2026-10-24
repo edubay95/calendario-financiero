@@ -37,13 +37,6 @@ SUMMARY:📅Ex-Div – Verizon Communications Inc.
 UID:VZ-orange-2026-10-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260723
-CATEGORIES:orange
-DESCRIPTION:CVS Health Corporation (CVS)\nFecha Ex-Dividendo (corte): 2026-07-23
-SUMMARY:📅Ex-Div – CVS Health Corporation
-UID:CVS-orange-2026-07-23@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260817
 CATEGORIES:orange
 DESCRIPTION:Novo Nordisk A/S (NVO)\nFecha Ex-Dividendo (corte): 2026-08-17
@@ -147,6 +140,13 @@ CATEGORIES:orange
 DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha Ex-Dividendo (corte): 2026-09-30
 SUMMARY:📅Ex-Div – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-orange-2026-09-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261127
+CATEGORIES:orange
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2026-11-27
+SUMMARY:📅Ex-Div – NextEra Energy\, Inc.
+UID:NEE-orange-2026-11-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260915
