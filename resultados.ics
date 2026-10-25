@@ -51,13 +51,6 @@ SUMMARY:💰Result – CAIXABANK\, S.A.
 UID:CABK.MC-blue-2026-07-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260724
-CATEGORIES:blue
-DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-07-24
-SUMMARY:💰Result – NextEra Energy\, Inc.
-UID:NEE-blue-2026-07-24@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
 CATEGORIES:blue
 DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha de resultados: 2026-11-06
@@ -154,13 +147,6 @@ CATEGORIES:blue
 DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-07-30
 SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-blue-2026-07-30@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260724
-CATEGORIES:blue
-DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2026-07-24
-SUMMARY:💰Result – Verizon Communications Inc.
-UID:VZ-blue-2026-07-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260731
