@@ -135,6 +135,13 @@ SUMMARY:💰Result – VIDRALA\, S.A.
 UID:VID.MC-blue-2026-10-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270127
+CATEGORIES:blue
+DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2027-01-27
+SUMMARY:💰Result – Meta Platforms\, Inc.
+UID:META-blue-2027-01-27@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260806
 CATEGORIES:blue
 DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de resultados: 2026-08-06
@@ -161,6 +168,13 @@ CATEGORIES:blue
 DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-07-31
 SUMMARY:💰Result – T. Rowe Price Group\, Inc.
 UID:TROW-blue-2026-07-31@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270127
+CATEGORIES:blue
+DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2027-01-27
+SUMMARY:💰Result – NextEra Energy\, Inc.
+UID:NEE-blue-2027-01-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260728
