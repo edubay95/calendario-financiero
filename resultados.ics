@@ -67,8 +67,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261202
 CATEGORIES:blue
-DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-12-02
-SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
+DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha de resultados: 2026-12-02
+SUMMARY:💰Result – Industria de Diseño Textil\, S.A.
 UID:ITX.MC-blue-2026-12-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -184,6 +184,13 @@ SUMMARY:💰Result – PayPal Holdings\, Inc.
 UID:PYPL-blue-2026-07-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270128
+CATEGORIES:blue
+DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2027-01-28
+SUMMARY:💰Result – Verizon Communications Inc.
+UID:VZ-blue-2027-01-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260804
 CATEGORIES:blue
 DESCRIPTION:Novo Nordisk A/S (NVO)\nFecha de resultados: 2026-08-04
@@ -198,6 +205,13 @@ SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-08-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260908
+CATEGORIES:blue
+DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha de resultados: 2026-09-08
+SUMMARY:💰Result – Industria de Diseño Textil\, S.A.
+UID:ITX.MC-blue-2026-09-08@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261021
 CATEGORIES:blue
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2026-10-21
@@ -210,6 +224,13 @@ CATEGORIES:blue
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2026-10-28
 SUMMARY:💰Result – Microsoft Corporation
 UID:MSFT-blue-2026-10-28@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270128
+CATEGORIES:blue
+DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2027-01-28
+SUMMARY:💰Result – Blackstone Inc.
+UID:BX-blue-2027-01-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261102
@@ -371,6 +392,13 @@ CATEGORIES:blue
 DESCRIPTION:Super Micro Computer\, Inc. (SMCI)\nFecha de resultados: 2026-08-11
 SUMMARY:💰Result – Super Micro Computer\, Inc.
 UID:SMCI-blue-2026-08-11@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270128
+CATEGORIES:blue
+DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2027-01-28
+SUMMARY:💰Result – Robert Half Inc.
+UID:RHI-blue-2027-01-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261020
