@@ -23,13 +23,6 @@ SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-11-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:blue
-DESCRIPTION:REDEIA CORPORACION\, S.A. (RED.MC)\nFecha de resultados: 2026-10-28
-SUMMARY:💰Result – REDEIA CORPORACION\, S.A.
-UID:RED.MC-blue-2026-10-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
 CATEGORIES:blue
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2026-11-06
@@ -51,13 +44,6 @@ SUMMARY:💰Result – Johnson & Johnson
 UID:JNJ-blue-2027-01-26@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260728
-CATEGORIES:blue
-DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2026-07-28
-SUMMARY:💰Result – CAIXABANK\, S.A.
-UID:CABK.MC-blue-2026-07-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
 CATEGORIES:blue
 DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha de resultados: 2026-11-06
@@ -77,13 +63,6 @@ CATEGORIES:blue
 DESCRIPTION:Novo Nordisk A/S (NVO)\nFecha de resultados: 2026-11-04
 SUMMARY:💰Result – Novo Nordisk A/S
 UID:NVO-blue-2026-11-04@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:blue
-DESCRIPTION:CIE AUTOMOTIVE\, S.A. (CIE.MC)\nFecha de resultados: 2026-10-28
-SUMMARY:💰Result – CIE AUTOMOTIVE\, S.A.
-UID:CIE.MC-blue-2026-10-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261112
@@ -128,13 +107,6 @@ SUMMARY:💰Result – TELEFONICA\,S.A.
 UID:TEF.MC-blue-2026-11-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:blue
-DESCRIPTION:VIDRALA\, S.A. (VID.MC)\nFecha de resultados: 2026-10-28
-SUMMARY:💰Result – VIDRALA\, S.A.
-UID:VID.MC-blue-2026-10-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270127
 CATEGORIES:blue
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2027-01-27
@@ -175,13 +147,6 @@ CATEGORIES:blue
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2027-01-27
 SUMMARY:💰Result – NextEra Energy\, Inc.
 UID:NEE-blue-2027-01-27@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260728
-CATEGORIES:blue
-DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2026-07-28
-SUMMARY:💰Result – PayPal Holdings\, Inc.
-UID:PYPL-blue-2026-07-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270128
@@ -247,18 +212,18 @@ SUMMARY:💰Result – Microsoft Corporation
 UID:MSFT-blue-2026-07-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260728
-CATEGORIES:blue
-DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2026-07-28
-SUMMARY:💰Result – TELEFONICA\,S.A.
-UID:TEF.MC-blue-2026-07-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:blue
 DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-10-29
 SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-blue-2026-10-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270127
+CATEGORIES:blue
+DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de resultados: 2027-01-27
+SUMMARY:💰Result – Microsoft Corporation
+UID:MSFT-blue-2027-01-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261105
@@ -301,13 +266,6 @@ CATEGORIES:blue
 DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2026-10-22
 SUMMARY:💰Result – Blackstone Inc.
 UID:BX-blue-2026-10-22@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261028
-CATEGORIES:blue
-DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2026-10-28
-SUMMARY:💰Result – BANCO SANTANDER S.A.
-UID:SAN.MC-blue-2026-10-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261112
@@ -366,11 +324,11 @@ SUMMARY:💰Result – CVS Health Corporation
 UID:CVS-blue-2026-08-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261029
+DTSTART;VALUE=DATE:20261027
 CATEGORIES:blue
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2026-10-29
-SUMMARY:💰Result – Altria Group\, Inc.
-UID:MO-blue-2026-10-29@mi.calendario.financiero.v2
+DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2026-10-27
+SUMMARY:💰Result – BANCO SANTANDER S.A.
+UID:SAN.MC-blue-2026-10-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261027
@@ -380,11 +338,11 @@ SUMMARY:💰Result – American Tower Corporation (REI
 UID:AMT-blue-2026-10-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260728
+DTSTART;VALUE=DATE:20261029
 CATEGORIES:blue
-DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de resultados: 2026-07-28
-SUMMARY:💰Result – American Tower Corporation (REI
-UID:AMT-blue-2026-07-28@mi.calendario.financiero.v2
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2026-10-29
+SUMMARY:💰Result – Altria Group\, Inc.
+UID:MO-blue-2026-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260811
