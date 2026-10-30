@@ -9,6 +9,13 @@ SUMMARY:📅Ex-Div – Microsoft Corporation
 UID:MSFT-orange-2026-11-19@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261116
+CATEGORIES:orange
+DESCRIPTION:The Hershey Company (HSY)\nFecha Ex-Dividendo (corte): 2026-11-16
+SUMMARY:📅Ex-Div – The Hershey Company
+UID:HSY-orange-2026-11-16@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261022
 CATEGORIES:orange
 DESCRIPTION:CVS Health Corporation (CVS)\nFecha Ex-Dividendo (corte): 2026-10-22
@@ -177,6 +184,13 @@ SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2026-08-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270105
+CATEGORIES:orange
+DESCRIPTION:REDEIA CORPORACION\, S.A. (RED.MC)\nFecha Ex-Dividendo (corte): 2027-01-05
+SUMMARY:📅Ex-Div – REDEIA CORPORACION\, S.A.
+UID:RED.MC-orange-2027-01-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261102
 CATEGORIES:orange
 DESCRIPTION:Blackstone Inc. (BX)\nFecha Ex-Dividendo (corte): 2026-11-02
@@ -280,6 +294,13 @@ CATEGORIES:orange
 DESCRIPTION:Microsoft Corporation (MSFT)\nFecha Ex-Dividendo (corte): 2026-08-20
 SUMMARY:📅Ex-Div – Microsoft Corporation
 UID:MSFT-orange-2026-08-20@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+CATEGORIES:orange
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha Ex-Dividendo (corte): 2026-12-31
+SUMMARY:📅Ex-Div – Blackstone Mortgage Trust\, Inc.
+UID:BXMT-orange-2026-12-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260825
