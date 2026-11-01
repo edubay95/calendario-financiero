@@ -121,13 +121,6 @@ SUMMARY:💰Result – PayPal Holdings\, Inc.
 UID:PYPL-blue-2026-10-27@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260731
-CATEGORIES:blue
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-07-31
-SUMMARY:💰Result – T. Rowe Price Group\, Inc.
-UID:TROW-blue-2026-07-31@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270127
 CATEGORIES:blue
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2027-01-27
@@ -336,13 +329,6 @@ CATEGORIES:blue
 DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2026-10-29
 SUMMARY:💰Result – CAIXABANK\, S.A.
 UID:CABK.MC-blue-2026-10-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270128
-CATEGORIES:blue
-DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2027-01-28
-SUMMARY:💰Result – CAIXABANK\, S.A.
-UID:CABK.MC-blue-2027-01-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261026

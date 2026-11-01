@@ -93,13 +93,6 @@ SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
 UID:PBR-A-orange-2026-08-25@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260731
-CATEGORIES:orange
-DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-07-31
-SUMMARY:📅Ex-Div – Realty Income Corporation
-UID:O-orange-2026-07-31@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261001
 CATEGORIES:orange
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha Ex-Dividendo (corte): 2026-10-01
