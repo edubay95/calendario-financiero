@@ -345,6 +345,13 @@ SUMMARY:💰Result – AST SpaceMobile\, Inc.
 UID:ASTS-blue-2026-08-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270202
+CATEGORIES:blue
+DESCRIPTION:PayPal Holdings\, Inc. (PYPL)\nFecha de resultados: 2027-02-02
+SUMMARY:💰Result – PayPal Holdings\, Inc.
+UID:PYPL-blue-2027-02-02@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261022
 CATEGORIES:blue
 DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2026-10-22
