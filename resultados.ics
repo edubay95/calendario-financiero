@@ -23,6 +23,13 @@ SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-11-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270203
+CATEGORIES:blue
+DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2027-02-03
+SUMMARY:💰Result – BANCO SANTANDER S.A.
+UID:SAN.MC-blue-2027-02-03@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
 CATEGORIES:blue
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2026-11-06
@@ -105,6 +112,13 @@ CATEGORIES:blue
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2027-01-27
 SUMMARY:💰Result – Meta Platforms\, Inc.
 UID:META-blue-2027-01-27@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270203
+CATEGORIES:blue
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2027-02-03
+SUMMARY:💰Result – T. Rowe Price Group\, Inc.
+UID:TROW-blue-2027-02-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260806
