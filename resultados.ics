@@ -23,6 +23,13 @@ SUMMARY:💰Result – Brookfield Asset Management Inc
 UID:BAM-blue-2026-11-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270202
+CATEGORIES:blue
+DESCRIPTION:Super Micro Computer\, Inc. (SMCI)\nFecha de resultados: 2027-02-02
+SUMMARY:💰Result – Super Micro Computer\, Inc.
+UID:SMCI-blue-2027-02-02@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270203
 CATEGORIES:blue
 DESCRIPTION:BANCO SANTANDER S.A. (SAN.MC)\nFecha de resultados: 2027-02-03
@@ -233,6 +240,13 @@ SUMMARY:💰Result – Alibaba Group Holding Limited
 UID:BABA-blue-2026-08-20@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270204
+CATEGORIES:blue
+DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2027-02-04
+SUMMARY:💰Result – The Hershey Company
+UID:HSY-blue-2027-02-04@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261013
 CATEGORIES:blue
 DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de resultados: 2026-10-13
@@ -336,6 +350,13 @@ CATEGORIES:blue
 DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha de resultados: 2026-10-20
 SUMMARY:💰Result – ACCIONES IBERDROLA
 UID:IBE.MC-blue-2026-10-20@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270204
+CATEGORIES:blue
+DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de resultados: 2027-02-04
+SUMMARY:💰Result – DIAGEO PLC ORD 28 101/108P
+UID:DGE.L-blue-2027-02-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
