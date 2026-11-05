@@ -58,6 +58,13 @@ SUMMARY:💰Result – Johnson & Johnson
 UID:JNJ-blue-2027-01-26@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270205
+CATEGORIES:blue
+DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2027-02-05
+SUMMARY:💰Result – CAIXABANK\, S.A.
+UID:CABK.MC-blue-2027-02-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
 CATEGORIES:blue
 DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha de resultados: 2026-11-06
@@ -77,6 +84,13 @@ CATEGORIES:blue
 DESCRIPTION:Novo Nordisk A/S (NVO)\nFecha de resultados: 2026-11-04
 SUMMARY:💰Result – Novo Nordisk A/S
 UID:NVO-blue-2026-11-04@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270203
+CATEGORIES:blue
+DESCRIPTION:Novo Nordisk A/S (NVO)\nFecha de resultados: 2027-02-03
+SUMMARY:💰Result – Novo Nordisk A/S
+UID:NVO-blue-2027-02-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261112
@@ -154,13 +168,6 @@ CATEGORIES:blue
 DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2027-01-28
 SUMMARY:💰Result – Verizon Communications Inc.
 UID:VZ-blue-2027-01-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260804
-CATEGORIES:blue
-DESCRIPTION:Novo Nordisk A/S (NVO)\nFecha de resultados: 2026-08-04
-SUMMARY:💰Result – Novo Nordisk A/S
-UID:NVO-blue-2026-08-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260805

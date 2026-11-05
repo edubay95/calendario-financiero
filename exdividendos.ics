@@ -142,6 +142,13 @@ SUMMARY:📅Ex-Div – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-orange-2026-09-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261104
+CATEGORIES:orange
+DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha Ex-Dividendo (corte): 2026-11-04
+SUMMARY:📅Ex-Div – CAIXABANK\, S.A.
+UID:CABK.MC-orange-2026-11-04@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261127
 CATEGORIES:orange
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha Ex-Dividendo (corte): 2026-11-27
