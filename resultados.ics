@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270201
+CATEGORIES:blue
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2027-02-01
+SUMMARY:💰Result – Simon Property Group\, Inc.
+UID:SPG-blue-2027-02-01@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:blue
 DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2026-10-29
@@ -42,13 +49,6 @@ CATEGORIES:blue
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2026-11-06
 SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-blue-2026-11-06@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260805
-CATEGORIES:blue
-DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-08-05
-SUMMARY:💰Result – Realty Income Corporation
-UID:O-blue-2026-08-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270126
@@ -105,6 +105,13 @@ CATEGORIES:blue
 DESCRIPTION:Molson Coors Beverage Company (TAP)\nFecha de resultados: 2026-11-05
 SUMMARY:💰Result – Molson Coors Beverage Company
 UID:TAP-blue-2026-11-05@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261105
+CATEGORIES:blue
+DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2026-11-05
+SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
+UID:AMS.MC-blue-2026-11-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260806
@@ -168,13 +175,6 @@ CATEGORIES:blue
 DESCRIPTION:Verizon Communications Inc. (VZ)\nFecha de resultados: 2027-01-28
 SUMMARY:💰Result – Verizon Communications Inc.
 UID:VZ-blue-2027-01-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260805
-CATEGORIES:blue
-DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2026-08-05
-SUMMARY:💰Result – Brookfield Asset Management Inc
-UID:BAM-blue-2026-08-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260908
@@ -301,13 +301,6 @@ CATEGORIES:blue
 DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha de resultados: 2026-08-10
 SUMMARY:💰Result – Simon Property Group\, Inc.
 UID:SPG-blue-2026-08-10@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260805
-CATEGORIES:blue
-DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2026-08-05
-SUMMARY:💰Result – CVS Health Corporation
-UID:CVS-blue-2026-08-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261027
