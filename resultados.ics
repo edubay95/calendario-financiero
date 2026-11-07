@@ -44,13 +44,6 @@ SUMMARY:💰Result – BANCO SANTANDER S.A.
 UID:SAN.MC-blue-2027-02-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261106
-CATEGORIES:blue
-DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2026-11-06
-SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
-UID:AMS.MC-blue-2026-11-06@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270126
 CATEGORIES:blue
 DESCRIPTION:Johnson & Johnson (JNJ)\nFecha de resultados: 2027-01-26
@@ -63,13 +56,6 @@ CATEGORIES:blue
 DESCRIPTION:CAIXABANK\, S.A. (CABK.MC)\nFecha de resultados: 2027-02-05
 SUMMARY:💰Result – CAIXABANK\, S.A.
 UID:CABK.MC-blue-2027-02-05@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261106
-CATEGORIES:blue
-DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha de resultados: 2026-11-06
-SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
-UID:LOG.MC-blue-2026-11-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261202
@@ -114,13 +100,6 @@ SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-blue-2026-11-05@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260806
-CATEGORIES:blue
-DESCRIPTION:Molson Coors Beverage Company (TAP)\nFecha de resultados: 2026-08-06
-SUMMARY:💰Result – Molson Coors Beverage Company
-UID:TAP-blue-2026-08-06@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261112
 CATEGORIES:blue
 DESCRIPTION:ACS\,ACTIVIDADES DE CONSTRUCCION (ACS.MC)\nFecha de resultados: 2026-11-12
@@ -147,13 +126,6 @@ CATEGORIES:blue
 DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2027-02-03
 SUMMARY:💰Result – T. Rowe Price Group\, Inc.
 UID:TROW-blue-2027-02-03@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260806
-CATEGORIES:blue
-DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de resultados: 2026-08-06
-SUMMARY:💰Result – Petroleo Brasileiro S.A. Petrob
-UID:PBR-A-blue-2026-08-06@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261027
@@ -275,18 +247,18 @@ SUMMARY:💰Result – Brookfield Corporation
 UID:BN-blue-2026-11-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261119
+CATEGORIES:blue
+DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2026-11-19
+SUMMARY:💰Result – Alibaba Group Holding Limited
+UID:BABA-blue-2026-11-19@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:blue
 DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha de resultados: 2026-10-29
 SUMMARY:💰Result – T. Rowe Price Group\, Inc.
 UID:TROW-blue-2026-10-29@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261124
-CATEGORIES:blue
-DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2026-11-24
-SUMMARY:💰Result – Alibaba Group Holding Limited
-UID:BABA-blue-2026-11-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261104
