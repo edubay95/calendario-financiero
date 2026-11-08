@@ -149,6 +149,13 @@ SUMMARY:💰Result – Verizon Communications Inc.
 UID:VZ-blue-2027-01-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270204
+CATEGORIES:blue
+DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha de resultados: 2027-02-04
+SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
+UID:LOG.MC-blue-2027-02-04@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260908
 CATEGORIES:blue
 DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha de resultados: 2026-09-08
@@ -161,6 +168,13 @@ CATEGORIES:blue
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2026-10-21
 SUMMARY:💰Result – Meta Platforms\, Inc.
 UID:META-blue-2026-10-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270203
+CATEGORIES:blue
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha de resultados: 2027-02-03
+SUMMARY:💰Result – Brookfield Asset Management Inc
+UID:BAM-blue-2027-02-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261028

@@ -58,6 +58,13 @@ SUMMARY:📅Ex-Div – American Tower Corporation (REI
 UID:AMT-orange-2026-09-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261130
+CATEGORIES:orange
+DESCRIPTION:Brookfield Asset Management Inc (BAM)\nFecha Ex-Dividendo (corte): 2026-11-30
+SUMMARY:📅Ex-Div – Brookfield Asset Management Inc
+UID:BAM-orange-2026-11-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270112
 CATEGORIES:orange
 DESCRIPTION:ACCIONES IBERDROLA (IBE.MC)\nFecha Ex-Dividendo (corte): 2027-01-12
@@ -100,18 +107,18 @@ SUMMARY:📅Ex-Div – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-orange-2026-10-01@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260915
-CATEGORIES:orange
-DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha Ex-Dividendo (corte): 2026-09-15
-SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
-UID:TROW-orange-2026-09-15@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261124
 CATEGORIES:orange
 DESCRIPTION:Johnson & Johnson (JNJ)\nFecha Ex-Dividendo (corte): 2026-11-24
 SUMMARY:📅Ex-Div – Johnson & Johnson
 UID:JNJ-orange-2026-11-24@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260915
+CATEGORIES:orange
+DESCRIPTION:T. Rowe Price Group\, Inc. (TROW)\nFecha Ex-Dividendo (corte): 2026-09-15
+SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
+UID:TROW-orange-2026-09-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260825
@@ -210,6 +217,13 @@ CATEGORIES:orange
 DESCRIPTION:The Hershey Company (HSY)\nFecha Ex-Dividendo (corte): 2026-08-14
 SUMMARY:📅Ex-Div – The Hershey Company
 UID:HSY-orange-2026-08-14@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261210
+CATEGORIES:orange
+DESCRIPTION:Simon Property Group\, Inc. (SPG)\nFecha Ex-Dividendo (corte): 2026-12-10
+SUMMARY:📅Ex-Div – Simon Property Group\, Inc.
+UID:SPG-orange-2026-12-10@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261224
