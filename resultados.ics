@@ -310,6 +310,13 @@ SUMMARY:💰Result – Altria Group\, Inc.
 UID:MO-blue-2026-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+CATEGORIES:blue
+DESCRIPTION:CVS Health Corporation (CVS)\nFecha de resultados: 2027-02-09
+SUMMARY:💰Result – CVS Health Corporation
+UID:CVS-blue-2027-02-09@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260811
 CATEGORIES:blue
 DESCRIPTION:Super Micro Computer\, Inc. (SMCI)\nFecha de resultados: 2026-08-11
@@ -319,16 +326,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270128
 CATEGORIES:blue
-DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2027-01-28
-SUMMARY:💰Result – Robert Half Inc.
-UID:RHI-blue-2027-01-28@mi.calendario.financiero.v2
+DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2027-01-28
+SUMMARY:💰Result – Altria Group\, Inc.
+UID:MO-blue-2027-01-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270128
 CATEGORIES:blue
-DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2027-01-28
-SUMMARY:💰Result – Altria Group\, Inc.
-UID:MO-blue-2027-01-28@mi.calendario.financiero.v2
+DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2027-01-28
+SUMMARY:💰Result – Robert Half Inc.
+UID:RHI-blue-2027-01-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261020
