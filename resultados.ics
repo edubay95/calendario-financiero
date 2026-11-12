@@ -261,6 +261,13 @@ SUMMARY:💰Result – Blackstone Inc.
 UID:BX-blue-2026-10-22@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270212
+CATEGORIES:blue
+DESCRIPTION:HERMES INTL (RMS.PA)\nFecha de resultados: 2027-02-12
+SUMMARY:💰Result – HERMES INTL
+UID:RMS.PA-blue-2027-02-12@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261112
 CATEGORIES:blue
 DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2026-11-12
@@ -324,11 +331,11 @@ SUMMARY:💰Result – CVS Health Corporation
 UID:CVS-blue-2027-02-09@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260811
+DTSTART;VALUE=DATE:20270128
 CATEGORIES:blue
-DESCRIPTION:Super Micro Computer\, Inc. (SMCI)\nFecha de resultados: 2026-08-11
-SUMMARY:💰Result – Super Micro Computer\, Inc.
-UID:SMCI-blue-2026-08-11@mi.calendario.financiero.v2
+DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2027-01-28
+SUMMARY:💰Result – Robert Half Inc.
+UID:RHI-blue-2027-01-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270128
@@ -336,13 +343,6 @@ CATEGORIES:blue
 DESCRIPTION:Altria Group\, Inc. (MO)\nFecha de resultados: 2027-01-28
 SUMMARY:💰Result – Altria Group\, Inc.
 UID:MO-blue-2027-01-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270128
-CATEGORIES:blue
-DESCRIPTION:Robert Half Inc. (RHI)\nFecha de resultados: 2027-01-28
-SUMMARY:💰Result – Robert Half Inc.
-UID:RHI-blue-2027-01-28@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261020
