@@ -32,8 +32,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
 CATEGORIES:orange
-DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-10-29
-SUMMARY:📅Ex-Div – Industria de Diseño Textil\, S.A.
+DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha Ex-Dividendo (corte): 2026-10-29
+SUMMARY:📅Ex-Div – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-orange-2026-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -184,6 +184,13 @@ SUMMARY:📅Ex-Div – Meta Platforms\, Inc.
 UID:META-orange-2026-09-21@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261130
+CATEGORIES:orange
+DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-11-30
+SUMMARY:📅Ex-Div – Realty Income Corporation
+UID:O-orange-2026-11-30@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260831
 CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-08-31
@@ -266,6 +273,13 @@ CATEGORIES:orange
 DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha Ex-Dividendo (corte): 2026-10-15
 SUMMARY:📅Ex-Div – DIAGEO PLC ORD 28 101/108P
 UID:DGE.L-orange-2026-10-15@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261112
+CATEGORIES:orange
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha Ex-Dividendo (corte): 2026-11-12
+SUMMARY:📅Ex-Div – JPMORGAN ETFS (IRELAND) ICAV JP
+UID:JEPG.L-orange-2026-11-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260813

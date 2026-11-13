@@ -60,8 +60,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261202
 CATEGORIES:blue
-DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha de resultados: 2026-12-02
-SUMMARY:💰Result – Industria de Diseño Textil\, S.A.
+DESCRIPTION:INDUSTRIA DE DISE...O TEXTIL S. (ITX.MC)\nFecha de resultados: 2026-12-02
+SUMMARY:💰Result – INDUSTRIA DE DISE...O TEXTIL S.
 UID:ITX.MC-blue-2026-12-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
@@ -79,13 +79,6 @@ SUMMARY:💰Result – Novo Nordisk A/S
 UID:NVO-blue-2027-02-03@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261112
-CATEGORIES:blue
-DESCRIPTION:BURBERRY GROUP PLC ORD 0.05P (BRBY.L)\nFecha de resultados: 2026-11-12
-SUMMARY:💰Result – BURBERRY GROUP PLC ORD 0.05P
-UID:BRBY.L-blue-2026-11-12@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261105
 CATEGORIES:blue
 DESCRIPTION:Molson Coors Beverage Company (TAP)\nFecha de resultados: 2026-11-05
@@ -98,20 +91,6 @@ CATEGORIES:blue
 DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2026-11-05
 SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
 UID:AMS.MC-blue-2026-11-05@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261112
-CATEGORIES:blue
-DESCRIPTION:ACS\,ACTIVIDADES DE CONSTRUCCION (ACS.MC)\nFecha de resultados: 2026-11-12
-SUMMARY:💰Result – ACS\,ACTIVIDADES DE CONSTRUCCION
-UID:ACS.MC-blue-2026-11-12@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261112
-CATEGORIES:blue
-DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2026-11-12
-SUMMARY:💰Result – TELEFONICA\,S.A.
-UID:TEF.MC-blue-2026-11-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270127
@@ -163,13 +142,6 @@ SUMMARY:💰Result – COMPA...IA DE DISTRIBUCION INTE
 UID:LOG.MC-blue-2027-02-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260908
-CATEGORIES:blue
-DESCRIPTION:Industria de Diseño Textil\, S.A. (ITX.MC)\nFecha de resultados: 2026-09-08
-SUMMARY:💰Result – Industria de Diseño Textil\, S.A.
-UID:ITX.MC-blue-2026-09-08@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261021
 CATEGORIES:blue
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2026-10-21
@@ -205,11 +177,11 @@ SUMMARY:💰Result – Realty Income Corporation
 UID:O-blue-2026-11-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261029
+DTSTART;VALUE=DATE:20261111
 CATEGORIES:blue
-DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-10-29
-SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
-UID:BXMT-blue-2026-10-29@mi.calendario.financiero.v2
+DESCRIPTION:TELEFONICA\,S.A. (TEF.MC)\nFecha de resultados: 2026-11-11
+SUMMARY:💰Result – TELEFONICA\,S.A.
+UID:TEF.MC-blue-2026-11-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270127
@@ -231,6 +203,13 @@ CATEGORIES:blue
 DESCRIPTION:NextEra Energy\, Inc. (NEE)\nFecha de resultados: 2026-10-21
 SUMMARY:💰Result – NextEra Energy\, Inc.
 UID:NEE-blue-2026-10-21@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261029
+CATEGORIES:blue
+DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-10-29
+SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
+UID:BXMT-blue-2026-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260820
@@ -268,18 +247,18 @@ SUMMARY:💰Result – HERMES INTL
 UID:RMS.PA-blue-2027-02-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261112
-CATEGORIES:blue
-DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2026-11-12
-SUMMARY:💰Result – Brookfield Corporation
-UID:BN-blue-2026-11-12@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261119
 CATEGORIES:blue
 DESCRIPTION:Alibaba Group Holding Limited (BABA)\nFecha de resultados: 2026-11-19
 SUMMARY:💰Result – Alibaba Group Holding Limited
 UID:BABA-blue-2026-11-19@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270211
+CATEGORIES:blue
+DESCRIPTION:Brookfield Corporation (BN)\nFecha de resultados: 2027-02-11
+SUMMARY:💰Result – Brookfield Corporation
+UID:BN-blue-2027-02-11@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
