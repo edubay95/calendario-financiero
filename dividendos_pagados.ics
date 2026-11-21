@@ -305,16 +305,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261015
 CATEGORIES:green
-DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de PAGO: 2026-10-15\nCantidad: 545 acciones\nDiv x Acc: 0.2290 GBP\n--- Cálculo en EUR (FX: 1.1944) ---\nNETO: 120.72 EUR\nBruto: 149.03 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -28.32 EUR
-SUMMARY:💵Div (120.72€) – DIAGEO PLC ORD 28 101/108P
+DESCRIPTION:DIAGEO PLC ORD 28 101/108P (DGE.L)\nFecha de PAGO: 2026-10-15\nCantidad: 545 acciones\nDiv x Acc: 0.2293 GBP\n--- Cálculo en EUR (FX: 1.1944) ---\nNETO: 120.91 EUR\nBruto: 149.28 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -28.36 EUR
+SUMMARY:💵Div (120.91€) – DIAGEO PLC ORD 28 101/108P
 UID:DGE.L-green-2026-10-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261201
+DTSTART;VALUE=DATE:20261112
 CATEGORIES:green
-DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha de PAGO: 2026-12-01\nCantidad: 1000 acciones\nDiv x Acc: 0.5300 USD\n--- Cálculo en EUR (FX: 0.9107) ---\nNETO: 390.98 EUR\nBruto: 482.70 EUR\nRet. Origen (15.0%): -72.40 EUR\nRet. España (dif): -19.31 EUR
-SUMMARY:💵Div (390.98€) – Petroleo Brasileiro S.A. Petrob
-UID:PBR-A-green-2026-12-01@mi.calendario.financiero.v2
+DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-11-12\nCantidad: 400 acciones\nDiv x Acc: 0.0017 GBP\n--- Cálculo en EUR (FX: 1.1944) ---\nNETO: 0.67 EUR\nBruto: 0.82 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.16 EUR
+SUMMARY:💵Div (0.67€) – JPMORGAN ETFS (IRELAND) ICAV JP
+UID:JEPG.L-green-2026-11-12@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261020
@@ -331,18 +331,11 @@ SUMMARY:💵Div (161.59€) – Industria de Diseño Textil\, S.A.
 UID:ITX.MC-green-2026-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261112
+DTSTART;VALUE=DATE:20260918
 CATEGORIES:green
-DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha de PAGO: 2026-11-12\nCantidad: 400 acciones\nDiv x Acc: 0.0017 GBP\n--- Cálculo en EUR (FX: 1.1944) ---\nNETO: 0.67 EUR\nBruto: 0.82 EUR\nRet. Origen (0.0%): -0.00 EUR\nRet. España (dif): -0.16 EUR
-SUMMARY:💵Div (0.67€) – JPMORGAN ETFS (IRELAND) ICAV JP
-UID:JEPG.L-green-2026-11-12@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260820
-CATEGORIES:green
-DESCRIPTION:Microsoft Corporation (MSFT)\nFecha de PAGO: 2026-08-20\nCantidad: 30 acciones\nDiv x Acc: 0.9100 USD\n--- Cálculo en EUR (FX: 0.9107) ---\nNETO: 17.40 EUR\nBruto: 24.86 EUR\nRet. Origen (30.0%): -7.46 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (17.40€) – Microsoft Corporation
-UID:MSFT-green-2026-08-20@mi.calendario.financiero.v2
+DESCRIPTION:Molson Coors Beverage Company (TAP)\nFecha de PAGO: 2026-09-18\nCantidad: 150 acciones\nDiv x Acc: 0.4800 USD\n--- Cálculo en EUR (FX: 0.9107) ---\nNETO: 45.90 EUR\nBruto: 65.57 EUR\nRet. Origen (30.0%): -19.67 EUR\nRet. España (dif): -0.00 EUR
+SUMMARY:💵Div (45.90€) – Molson Coors Beverage Company
+UID:TAP-green-2026-09-18@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270115
@@ -350,13 +343,6 @@ CATEGORIES:green
 DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de PAGO: 2027-01-15\nCantidad: 310 acciones\nDiv x Acc: 0.4700 USD\n--- Cálculo en EUR (FX: 0.9107) ---\nNETO: 92.89 EUR\nBruto: 132.70 EUR\nRet. Origen (30.0%): -39.81 EUR\nRet. España (dif): -0.00 EUR
 SUMMARY:💵Div (92.89€) – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-green-2027-01-15@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260918
-CATEGORIES:green
-DESCRIPTION:Molson Coors Beverage Company (TAP)\nFecha de PAGO: 2026-09-18\nCantidad: 150 acciones\nDiv x Acc: 0.4800 USD\n--- Cálculo en EUR (FX: 0.9107) ---\nNETO: 45.90 EUR\nBruto: 65.57 EUR\nRet. Origen (30.0%): -19.67 EUR\nRet. España (dif): -0.00 EUR
-SUMMARY:💵Div (45.90€) – Molson Coors Beverage Company
-UID:TAP-green-2026-09-18@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261224
