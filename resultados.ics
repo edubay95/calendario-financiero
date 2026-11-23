@@ -226,6 +226,13 @@ SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-blue-2026-10-29@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270223
+CATEGORIES:blue
+DESCRIPTION:American Tower Corporation (REI (AMT)\nFecha de resultados: 2027-02-23
+SUMMARY:💰Result – American Tower Corporation (REI
+UID:AMT-blue-2027-02-23@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270204
 CATEGORIES:blue
 DESCRIPTION:The Hershey Company (HSY)\nFecha de resultados: 2027-02-04
@@ -252,6 +259,13 @@ CATEGORIES:blue
 DESCRIPTION:HERMES INTL (RMS.PA)\nFecha de resultados: 2027-02-12
 SUMMARY:💰Result – HERMES INTL
 UID:RMS.PA-blue-2027-02-12@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270223
+CATEGORIES:blue
+DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2027-02-23
+SUMMARY:💰Result – Realty Income Corporation
+UID:O-blue-2027-02-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270211
