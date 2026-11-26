@@ -177,6 +177,13 @@ SUMMARY:💰Result – Industria de Diseño Textil\, S.A.
 UID:ITX.MC-blue-2026-09-08@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270226
+CATEGORIES:blue
+DESCRIPTION:AMADEUS IT GROUP\, S.A. (AMS.MC)\nFecha de resultados: 2027-02-26
+SUMMARY:💰Result – AMADEUS IT GROUP\, S.A.
+UID:AMS.MC-blue-2027-02-26@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261021
 CATEGORIES:blue
 DESCRIPTION:Meta Platforms\, Inc. (META)\nFecha de resultados: 2026-10-21
@@ -203,13 +210,6 @@ CATEGORIES:blue
 DESCRIPTION:Blackstone Inc. (BX)\nFecha de resultados: 2027-01-28
 SUMMARY:💰Result – Blackstone Inc.
 UID:BX-blue-2027-01-28@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261102
-CATEGORIES:blue
-DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-11-02
-SUMMARY:💰Result – Realty Income Corporation
-UID:O-blue-2026-11-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261111
@@ -245,6 +245,13 @@ CATEGORIES:blue
 DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha de resultados: 2026-10-29
 SUMMARY:💰Result – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-blue-2026-10-29@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261102
+CATEGORIES:blue
+DESCRIPTION:Realty Income Corporation (O)\nFecha de resultados: 2026-11-02
+SUMMARY:💰Result – Realty Income Corporation
+UID:O-blue-2026-11-02@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270223

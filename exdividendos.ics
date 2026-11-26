@@ -86,25 +86,11 @@ SUMMARY:📅Ex-Div – Realty Income Corporation
 UID:O-orange-2026-10-30@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260825
-CATEGORIES:orange
-DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2026-08-25
-SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
-UID:PBR-A-orange-2026-08-25@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261001
 CATEGORIES:orange
 DESCRIPTION:BRITISH AMERICAN TOBACCO PLC OR (BATS.L)\nFecha Ex-Dividendo (corte): 2026-10-01
 SUMMARY:📅Ex-Div – BRITISH AMERICAN TOBACCO PLC OR
 UID:BATS.L-orange-2026-10-01@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261124
-CATEGORIES:orange
-DESCRIPTION:Johnson & Johnson (JNJ)\nFecha Ex-Dividendo (corte): 2026-11-24
-SUMMARY:📅Ex-Div – Johnson & Johnson
-UID:JNJ-orange-2026-11-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260915
@@ -114,11 +100,11 @@ SUMMARY:📅Ex-Div – T. Rowe Price Group\, Inc.
 UID:TROW-orange-2026-09-15@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260825
+DTSTART;VALUE=DATE:20261124
 CATEGORIES:orange
-DESCRIPTION:Johnson & Johnson (JNJ)\nFecha Ex-Dividendo (corte): 2026-08-25
+DESCRIPTION:Johnson & Johnson (JNJ)\nFecha Ex-Dividendo (corte): 2026-11-24
 SUMMARY:📅Ex-Div – Johnson & Johnson
-UID:JNJ-orange-2026-08-25@mi.calendario.financiero.v2
+UID:JNJ-orange-2026-11-24@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261216
@@ -247,13 +233,6 @@ SUMMARY:📅Ex-Div – PayPal Holdings\, Inc.
 UID:PYPL-orange-2026-12-04@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260825
-CATEGORIES:orange
-DESCRIPTION:COMPA...IA DE DISTRIBUCION INTE (LOG.MC)\nFecha Ex-Dividendo (corte): 2026-08-25
-SUMMARY:📅Ex-Div – COMPA...IA DE DISTRIBUCION INTE
-UID:LOG.MC-orange-2026-08-25@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260828
 CATEGORIES:orange
 DESCRIPTION:Molson Coors Beverage Company (TAP)\nFecha Ex-Dividendo (corte): 2026-08-28
@@ -329,13 +308,6 @@ CATEGORIES:orange
 DESCRIPTION:Blackstone Mortgage Trust\, Inc. (BXMT)\nFecha Ex-Dividendo (corte): 2026-12-31
 SUMMARY:📅Ex-Div – Blackstone Mortgage Trust\, Inc.
 UID:BXMT-orange-2026-12-31@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260825
-CATEGORIES:orange
-DESCRIPTION:Robert Half Inc. (RHI)\nFecha Ex-Dividendo (corte): 2026-08-25
-SUMMARY:📅Ex-Div – Robert Half Inc.
-UID:RHI-orange-2026-08-25@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261204
