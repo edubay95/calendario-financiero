@@ -79,6 +79,13 @@ SUMMARY:📅Ex-Div – Brookfield Asset Management Inc
 UID:BAM-orange-2026-08-31@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261209
+CATEGORIES:orange
+DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2026-12-09
+SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
+UID:PBR-A-orange-2026-12-09@mi.calendario.financiero.v2
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
 CATEGORIES:orange
 DESCRIPTION:Realty Income Corporation (O)\nFecha Ex-Dividendo (corte): 2026-10-30
@@ -203,13 +210,6 @@ CATEGORIES:orange
 DESCRIPTION:JPMORGAN ETFS (IRELAND) ICAV JP (JEPG.L)\nFecha Ex-Dividendo (corte): 2026-09-10
 SUMMARY:📅Ex-Div – JPMORGAN ETFS (IRELAND) ICAV JP
 UID:JEPG.L-orange-2026-09-10@mi.calendario.financiero.v2
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261223
-CATEGORIES:orange
-DESCRIPTION:Petroleo Brasileiro S.A. Petrob (PBR-A)\nFecha Ex-Dividendo (corte): 2026-12-23
-SUMMARY:📅Ex-Div – Petroleo Brasileiro S.A. Petrob
-UID:PBR-A-orange-2026-12-23@mi.calendario.financiero.v2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261210
